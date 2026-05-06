@@ -1,0 +1,3060 @@
+{
+  "vehicle_model": "Hyundai Kona",
+  "samples": 218,
+  "data_type": "real",
+  "source": "ev_charging_patterns.csv",
+  "data": [
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 30.677734939714437,
+        "temperature_c": 14.311025660377787,
+        "vehicle_age_years": 3.0,
+        "distance_km": 112.11280368218186,
+        "soc_start": 10.115777641679946,
+        "energy_consumed_kwh": 12.339275203733752
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 32.882869757386224,
+        "temperature_c": 38.316313160363435,
+        "vehicle_age_years": 1.0,
+        "distance_km": 199.5777845163286,
+        "soc_start": 83.12000296074223,
+        "energy_consumed_kwh": 79.45782398845503
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 10.215712071204607,
+        "temperature_c": -7.8341990272492135,
+        "vehicle_age_years": 1.0,
+        "distance_km": 203.66184655799864,
+        "soc_start": 54.25894969116981,
+        "energy_consumed_kwh": 19.62910416772725
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 11.76099971515701,
+        "temperature_c": 27.512019364625914,
+        "vehicle_age_years": 2.830381306943589,
+        "distance_km": 54.00630919992556,
+        "soc_start": 27.399454625609152,
+        "energy_consumed_kwh": 78.86860745126785
+      },
+      "label": 77.36,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 5.523688619042968,
+        "temperature_c": 23.662965362338845,
+        "vehicle_age_years": 0.0,
+        "distance_km": 249.12759651542487,
+        "soc_start": 19.20544694977322,
+        "energy_consumed_kwh": 34.256452908516025
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 6.614280124746195,
+        "temperature_c": 18.405709050259357,
+        "vehicle_age_years": 6.0,
+        "distance_km": 22.00682916343814,
+        "soc_start": 57.59519511951953,
+        "energy_consumed_kwh": 23.824040473705306
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 18.865801960923783,
+        "temperature_c": 59.931973865971024,
+        "vehicle_age_years": 4.0,
+        "distance_km": 76.20353921863803,
+        "soc_start": 24.492208584397694,
+        "energy_consumed_kwh": 37.374516060783755
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 38.45083190087793,
+        "temperature_c": 33.92957037271362,
+        "vehicle_age_years": 6.0,
+        "distance_km": 42.09574394400221,
+        "soc_start": 49.27538752823665,
+        "energy_consumed_kwh": 73.38661952275571
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 6.35266144526304,
+        "temperature_c": 27.895176779200867,
+        "vehicle_age_years": 0.0,
+        "distance_km": 18.934515488450756,
+        "soc_start": 76.12005335845825,
+        "energy_consumed_kwh": 30.710934027103818
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 35.92512612379792,
+        "temperature_c": 17.805383646122152,
+        "vehicle_age_years": 5.0,
+        "distance_km": 51.82835201742095,
+        "soc_start": 87.28930579942039,
+        "energy_consumed_kwh": 74.99970643372605
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 124.31591138552655,
+        "charging_rate_kw": 47.877523557605265,
+        "temperature_c": 6.17125670947679,
+        "vehicle_age_years": 1.0,
+        "distance_km": 25.02725725569419,
+        "soc_start": 53.00518532661712,
+        "energy_consumed_kwh": 46.1951370011332
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 23.281804960483075,
+        "temperature_c": 7.662649708995332,
+        "vehicle_age_years": 1.0,
+        "distance_km": 58.85531551787028,
+        "soc_start": 34.89904374917877,
+        "energy_consumed_kwh": 61.13047583037784
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 29.98922250219449,
+        "temperature_c": 19.213164486767734,
+        "vehicle_age_years": 3.0,
+        "distance_km": 98.47402709278698,
+        "soc_start": 15.674485469680741,
+        "energy_consumed_kwh": 22.88203842151127
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 5.557358509328086,
+        "temperature_c": 20.014324466284243,
+        "vehicle_age_years": 4.0,
+        "distance_km": 276.57481915586186,
+        "soc_start": 41.089044871443264,
+        "energy_consumed_kwh": 69.16916705566726
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.0506947257829,
+        "charging_rate_kw": 46.59567841482084,
+        "temperature_c": 2.5542438030517296,
+        "vehicle_age_years": 7.0,
+        "distance_km": 222.2746666893461,
+        "soc_start": 55.07217407784221,
+        "energy_consumed_kwh": 51.67374779364138
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 44.492366139662046,
+        "temperature_c": 5.803389498206,
+        "vehicle_age_years": 1.0,
+        "distance_km": 279.8982720475401,
+        "soc_start": 26.654722048049937,
+        "energy_consumed_kwh": 32.83295683246542
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 21.723067323519977,
+        "temperature_c": 34.663455770884916,
+        "vehicle_age_years": 0.0,
+        "distance_km": 74.05219273087201,
+        "soc_start": 63.40496814289373,
+        "energy_consumed_kwh": 55.72920335411825
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 29.081690927779928,
+        "temperature_c": 19.63653156666094,
+        "vehicle_age_years": 6.0,
+        "distance_km": 268.51527775257875,
+        "soc_start": 64.41936676135445,
+        "energy_consumed_kwh": 41.264155052372864
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 36.3770757935734,
+        "temperature_c": 32.30733828974979,
+        "vehicle_age_years": 1.0,
+        "distance_km": 48.11698069126825,
+        "soc_start": 48.61219346503014,
+        "energy_consumed_kwh": 36.13726899530781
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 12.051836628241116,
+        "temperature_c": 7.791379352167198,
+        "vehicle_age_years": 3.0,
+        "distance_km": 289.5682377266553,
+        "soc_start": 28.17984729471636,
+        "energy_consumed_kwh": 26.8691096120868
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.23574667839979,
+        "temperature_c": 11.203464841549469,
+        "vehicle_age_years": 3.0,
+        "distance_km": 260.7073136359905,
+        "soc_start": 60.66782801513298,
+        "energy_consumed_kwh": 24.84871287490711
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 35.9959370444312,
+        "temperature_c": -0.32533946854607265,
+        "vehicle_age_years": 1.0,
+        "distance_km": 66.00213032071531,
+        "soc_start": 88.0387594680304,
+        "energy_consumed_kwh": 37.787903717013286
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 93.27378066607174,
+        "charging_rate_kw": 7.702187849236843,
+        "temperature_c": 29.539063440210768,
+        "vehicle_age_years": 2.0,
+        "distance_km": 202.14155176693654,
+        "soc_start": 30.88322666455972,
+        "energy_consumed_kwh": 15.660564019843829
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 45.855697196391716,
+        "temperature_c": 26.133406798103643,
+        "vehicle_age_years": 4.0,
+        "distance_km": 275.57427410790336,
+        "soc_start": 85.49045253068678,
+        "energy_consumed_kwh": 35.55367093393553
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 27.32114693970443,
+        "temperature_c": 24.523038772909203,
+        "vehicle_age_years": 7.0,
+        "distance_km": 69.23387008131701,
+        "soc_start": 66.55511783374999,
+        "energy_consumed_kwh": 36.616568616352566
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 18.604260903972325,
+        "temperature_c": -4.160747932993171,
+        "vehicle_age_years": 2.778246565868397,
+        "distance_km": 267.8436816447363,
+        "soc_start": 40.14074746609202,
+        "energy_consumed_kwh": 33.88719708294054
+      },
+      "label": 77.77,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 50.170585945493926,
+        "temperature_c": 32.292746117918185,
+        "vehicle_age_years": 1.0,
+        "distance_km": 46.81290396293951,
+        "soc_start": 75.48580234398966,
+        "energy_consumed_kwh": 66.15159678916712
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 30.603528099327633,
+        "temperature_c": 3.849914000702734,
+        "vehicle_age_years": 6.0,
+        "distance_km": 108.66064519821857,
+        "soc_start": 34.86960937739784,
+        "energy_consumed_kwh": 45.99296137212069
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.8706170770115,
+        "charging_rate_kw": 49.783719033865715,
+        "temperature_c": -3.0896176819195844,
+        "vehicle_age_years": 3.0,
+        "distance_km": 267.3473926242877,
+        "soc_start": 51.0715257268038,
+        "energy_consumed_kwh": 23.57128153810389
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 11.089826996423842,
+        "temperature_c": -9.09046835864223,
+        "vehicle_age_years": 1.0,
+        "distance_km": 217.58992772592953,
+        "soc_start": 45.70606019537613,
+        "energy_consumed_kwh": 45.57396766460627
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 5.255799991325633,
+        "temperature_c": 30.790815038255943,
+        "vehicle_age_years": 2.0,
+        "distance_km": 132.9596225238148,
+        "soc_start": 31.109190083193596,
+        "energy_consumed_kwh": 63.23651609867501
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.83943000886534,
+        "charging_rate_kw": 14.435905055127744,
+        "temperature_c": 3.8602092828471406,
+        "vehicle_age_years": 2.0,
+        "distance_km": 131.28616502411475,
+        "soc_start": 83.20627214536134,
+        "energy_consumed_kwh": 72.2378188219246
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 12.561412323109135,
+        "temperature_c": 4.756515891650823,
+        "vehicle_age_years": 7.0,
+        "distance_km": 189.3786646114632,
+        "soc_start": 72.89524752521268,
+        "energy_consumed_kwh": 70.99471727287802
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 23.4663558449473,
+        "temperature_c": 38.18867276301532,
+        "vehicle_age_years": 6.0,
+        "distance_km": 249.7635288631293,
+        "soc_start": 68.8236838416409,
+        "energy_consumed_kwh": 31.877190174337137
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.380218482374545,
+        "charging_rate_kw": 36.475808205118085,
+        "temperature_c": -1.3963983233364257,
+        "vehicle_age_years": 3.0,
+        "distance_km": 233.57174087055677,
+        "soc_start": 16.78109281796508,
+        "energy_consumed_kwh": 13.088994842173186
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 34.96509713846357,
+        "temperature_c": 35.589301174461674,
+        "vehicle_age_years": 7.0,
+        "distance_km": 236.83318464083086,
+        "soc_start": 17.46097583271432,
+        "energy_consumed_kwh": 58.151062888392886
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 26.97742286397169,
+        "temperature_c": 7.684356808228177,
+        "vehicle_age_years": 3.0,
+        "distance_km": 39.74600722869755,
+        "soc_start": 22.533751566678475,
+        "energy_consumed_kwh": 79.0022597060318
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 19.021088745685933,
+        "temperature_c": 2.33111516426541,
+        "vehicle_age_years": 6.0,
+        "distance_km": 132.6046017612942,
+        "soc_start": 52.91050286219491,
+        "energy_consumed_kwh": 30.53308100745638
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 49.15968568228321,
+        "temperature_c": -2.3415542260236695,
+        "vehicle_age_years": 0.0,
+        "distance_km": 80.99732070598944,
+        "soc_start": 36.846896815054706,
+        "energy_consumed_kwh": 61.83012083767203
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 21.630106535904492,
+        "temperature_c": 38.77143808328196,
+        "vehicle_age_years": 7.0,
+        "distance_km": 87.30415654223266,
+        "soc_start": 81.55932358998332,
+        "energy_consumed_kwh": 13.319017315610488
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 7.34702904042674,
+        "temperature_c": 20.8310001306784,
+        "vehicle_age_years": 4.0,
+        "distance_km": 114.76631518048207,
+        "soc_start": 78.17878531385018,
+        "energy_consumed_kwh": 78.15878931012135
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 29.15448171293192,
+        "temperature_c": 29.249086599941627,
+        "vehicle_age_years": 0.2884081107034522,
+        "distance_km": 67.71733683557791,
+        "soc_start": 16.3556544239116,
+        "energy_consumed_kwh": 5.3378360735216495
+      },
+      "label": 97.69,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.04709890586727,
+        "charging_rate_kw": 41.494238016038736,
+        "temperature_c": 31.247335393559474,
+        "vehicle_age_years": 0.0,
+        "distance_km": 250.36992822573612,
+        "soc_start": 73.36171145435397,
+        "energy_consumed_kwh": 54.52901286506665
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 14.245986238314003,
+        "temperature_c": -6.256501931360966,
+        "vehicle_age_years": 7.0,
+        "distance_km": 174.13894213778076,
+        "soc_start": 63.932753775970696,
+        "energy_consumed_kwh": 56.324648784145005
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 18.069592332988357,
+        "temperature_c": 4.068853035632117,
+        "vehicle_age_years": 0.0,
+        "distance_km": 206.9879012630543,
+        "soc_start": 45.5068659842013,
+        "energy_consumed_kwh": 65.2254522844251
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 33.70234120475917,
+        "temperature_c": 31.464224787251247,
+        "vehicle_age_years": 0.0,
+        "distance_km": 177.26981142816254,
+        "soc_start": 62.63796602121695,
+        "energy_consumed_kwh": 49.74934189978176
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 4.096052506150107,
+        "temperature_c": 12.62900174508787,
+        "vehicle_age_years": 2.0,
+        "distance_km": 19.842550619791872,
+        "soc_start": 57.518557510456134,
+        "energy_consumed_kwh": 66.17491556109752
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 4.6696670367747615,
+        "temperature_c": 16.972016794308892,
+        "vehicle_age_years": 3.0,
+        "distance_km": 96.86304815594603,
+        "soc_start": 15.359167401010394,
+        "energy_consumed_kwh": 58.37615445163145
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 10.552801035266457,
+        "temperature_c": -4.764488994806529,
+        "vehicle_age_years": 7.0,
+        "distance_km": 140.09757101710082,
+        "soc_start": 86.48761305002787,
+        "energy_consumed_kwh": 71.91146876524706
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 44.13745109144485,
+        "temperature_c": 27.955437205015194,
+        "vehicle_age_years": 0.0,
+        "distance_km": 247.40835085814211,
+        "soc_start": 10.896089231058816,
+        "energy_consumed_kwh": 76.71844669022504
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 30.52868478649712,
+        "temperature_c": -8.559081242956825,
+        "vehicle_age_years": 1.0,
+        "distance_km": 285.79045868610996,
+        "soc_start": 43.886190846537644,
+        "energy_consumed_kwh": 62.09565922628094
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 41.92916859260739,
+        "temperature_c": 15.418433423035204,
+        "vehicle_age_years": 8.018665733261262,
+        "distance_km": 279.5193618635699,
+        "soc_start": 58.60908208265877,
+        "energy_consumed_kwh": 33.370542026215475
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.806096359579605,
+        "temperature_c": 36.82658398230539,
+        "vehicle_age_years": 10.547236543818036,
+        "distance_km": 242.4530430968343,
+        "soc_start": 81.1021620402358,
+        "energy_consumed_kwh": 42.29018026674148
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 47.76649443710824,
+        "temperature_c": 16.830516164835082,
+        "vehicle_age_years": 0.0,
+        "distance_km": 188.1506523593367,
+        "soc_start": 56.66366372880108,
+        "energy_consumed_kwh": 10.386093782293678
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 6.4225565389893315,
+        "temperature_c": 0.16699760506434214,
+        "vehicle_age_years": 7.0,
+        "distance_km": 225.30420808113755,
+        "soc_start": 37.682102722139774,
+        "energy_consumed_kwh": 52.71641215020086
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 59.14854488775761,
+        "temperature_c": 4.206090638748936,
+        "vehicle_age_years": 5.0,
+        "distance_km": 257.6075888403542,
+        "soc_start": 76.55821189990698,
+        "energy_consumed_kwh": 13.280712325754468
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 11.129872762551233,
+        "temperature_c": -9.569063620054981,
+        "vehicle_age_years": 3.0,
+        "distance_km": 87.27410521974205,
+        "soc_start": 58.968752752506965,
+        "energy_consumed_kwh": 31.73575031358406
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 17.56016007058113,
+        "temperature_c": 12.326389479259717,
+        "vehicle_age_years": 7.0,
+        "distance_km": 258.3785312145929,
+        "soc_start": 17.189637655147195,
+        "energy_consumed_kwh": 64.5382469650896
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 3.806546848260664,
+        "temperature_c": 18.00012703193646,
+        "vehicle_age_years": 6.0,
+        "distance_km": 150.83472799252903,
+        "soc_start": 41.11182645121117,
+        "energy_consumed_kwh": 34.375669740166174
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.78928024814476,
+        "charging_rate_kw": 7.9970383417836794,
+        "temperature_c": 20.98749334177654,
+        "vehicle_age_years": 2.0,
+        "distance_km": 256.2264580975269,
+        "soc_start": 30.06718877773716,
+        "energy_consumed_kwh": 12.118093232455848
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 14.33045702276969,
+        "temperature_c": 36.088928883769846,
+        "vehicle_age_years": 3.0,
+        "distance_km": 209.0906430300939,
+        "soc_start": 62.24698007651001,
+        "energy_consumed_kwh": 13.663842508023661
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 25.4125201652172,
+        "temperature_c": 32.538820532000145,
+        "vehicle_age_years": 3.0,
+        "distance_km": 48.23161874464395,
+        "soc_start": 28.461230838653726,
+        "energy_consumed_kwh": 79.46231190835228
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 19.766106813954536,
+        "temperature_c": 18.50519212950868,
+        "vehicle_age_years": 6.0,
+        "distance_km": 131.78846154559577,
+        "soc_start": 81.36186445688712,
+        "energy_consumed_kwh": 76.4481598100646
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 40.18246010654073,
+        "temperature_c": 26.17562590446412,
+        "vehicle_age_years": 0.0,
+        "distance_km": 104.53585323424738,
+        "soc_start": 64.15663500524101,
+        "energy_consumed_kwh": 30.184684241437047
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 31.22297313743316,
+        "temperature_c": 6.872874117919974,
+        "vehicle_age_years": 7.0,
+        "distance_km": 175.9741268815444,
+        "soc_start": 51.19126735473256,
+        "energy_consumed_kwh": 60.26038300407493
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 31.65043077258852,
+        "temperature_c": -9.469038376152003,
+        "vehicle_age_years": 0.46166155323921876,
+        "distance_km": 57.16364358717763,
+        "soc_start": 15.973834415845003,
+        "energy_consumed_kwh": 61.460674588325745
+      },
+      "label": 96.31,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 29.148826227508486,
+        "temperature_c": 6.233313953621948,
+        "vehicle_age_years": 2.0,
+        "distance_km": 46.646749394879045,
+        "soc_start": 29.08564191565545,
+        "energy_consumed_kwh": 37.28701875736325
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 7.4241697155138855,
+        "temperature_c": -3.311599169989914,
+        "vehicle_age_years": 3.0,
+        "distance_km": 255.11745161753134,
+        "soc_start": 32.50685926451319,
+        "energy_consumed_kwh": 72.09484050132289
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 67.54202075470891,
+        "charging_rate_kw": 32.631930630337024,
+        "temperature_c": -5.861573323905558,
+        "vehicle_age_years": 4.690347029293445,
+        "distance_km": 124.11936816817753,
+        "soc_start": 14.542459140504551,
+        "energy_consumed_kwh": 21.580915527008145
+      },
+      "label": 62.48,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 14.790119300536766,
+        "temperature_c": 34.422203587940146,
+        "vehicle_age_years": 2.0,
+        "distance_km": 14.891723325678914,
+        "soc_start": 38.584757552644014,
+        "energy_consumed_kwh": 72.94802476319454
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 37.26275518553577,
+        "temperature_c": -3.5252079868623687,
+        "vehicle_age_years": 1.0,
+        "distance_km": 197.84868477952736,
+        "soc_start": 66.19996585752617,
+        "energy_consumed_kwh": 21.097847217832147
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 35.112702584459015,
+        "temperature_c": 9.687973564531301,
+        "vehicle_age_years": 0.0,
+        "distance_km": 44.417345153318635,
+        "soc_start": 61.848832710103316,
+        "energy_consumed_kwh": 72.54995630814713
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 31.471359952324118,
+        "temperature_c": 2.03733962078266,
+        "vehicle_age_years": 6.0,
+        "distance_km": 116.30253762518768,
+        "soc_start": 52.90034739238265,
+        "energy_consumed_kwh": 38.59965910016511
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 38.70199053243804,
+        "temperature_c": 11.796331097082195,
+        "vehicle_age_years": 6.0,
+        "distance_km": 129.32515921274717,
+        "soc_start": 48.056001700439396,
+        "energy_consumed_kwh": 46.92333914698138
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 36.47363187753644,
+        "temperature_c": 12.807643673813281,
+        "vehicle_age_years": 0.0,
+        "distance_km": 174.43146191095198,
+        "soc_start": 84.84170283715224,
+        "energy_consumed_kwh": 44.72944867558798
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 23.43530217692562,
+        "temperature_c": -6.698703624027615,
+        "vehicle_age_years": 6.0,
+        "distance_km": 75.87400701763998,
+        "soc_start": 36.57910927172929,
+        "energy_consumed_kwh": 25.892596490424456
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 3.8385180739985976,
+        "charging_rate_kw": 44.01084818756358,
+        "temperature_c": -9.97026209786713,
+        "vehicle_age_years": 5.0,
+        "distance_km": 185.6466636485599,
+        "soc_start": 58.04787058173361,
+        "energy_consumed_kwh": 18.869451407961307
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 28.155322376505964,
+        "temperature_c": -6.860000383855454,
+        "vehicle_age_years": 5.0,
+        "distance_km": 87.22398823104606,
+        "soc_start": 19.463911203257716,
+        "energy_consumed_kwh": 46.412062022825936
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 41.033115138608146,
+        "temperature_c": 37.01416735411192,
+        "vehicle_age_years": 6.0,
+        "distance_km": 76.48391316423336,
+        "soc_start": 51.66193909108173,
+        "energy_consumed_kwh": 45.06853330402873
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 38.98816936527054,
+        "temperature_c": 27.33409428258677,
+        "vehicle_age_years": 4.0,
+        "distance_km": 90.13480940146295,
+        "soc_start": 26.65071179350475,
+        "energy_consumed_kwh": 64.87047474097292
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 25.33774294986998,
+        "temperature_c": 22.736710448285706,
+        "vehicle_age_years": 2.0,
+        "distance_km": 208.10499278757254,
+        "soc_start": 35.17374581690467,
+        "energy_consumed_kwh": 63.79396886506549
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 36.72813141128639,
+        "temperature_c": 38.07846357748428,
+        "vehicle_age_years": 0.0,
+        "distance_km": 208.89953672695228,
+        "soc_start": 12.688739217031735,
+        "energy_consumed_kwh": 16.080974332847084
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 43.23390652289862,
+        "temperature_c": 39.70275936848749,
+        "vehicle_age_years": 3.0,
+        "distance_km": 22.22200644715266,
+        "soc_start": 17.754276035274597,
+        "energy_consumed_kwh": 7.557567403210105
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 43.55543394226943,
+        "temperature_c": 5.937826145838496,
+        "vehicle_age_years": 4.0,
+        "distance_km": 100.95890850691093,
+        "soc_start": 17.34015102606766,
+        "energy_consumed_kwh": 9.716946683936513
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 18.89050926115035,
+        "temperature_c": 17.67509365493429,
+        "vehicle_age_years": 3.0,
+        "distance_km": 268.4562979471927,
+        "soc_start": 25.487878220389383,
+        "energy_consumed_kwh": 28.578878080059383
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.29204570108007,
+        "temperature_c": -1.2121201955981977,
+        "vehicle_age_years": 5.0,
+        "distance_km": 72.353761687005,
+        "soc_start": 44.714215157000595,
+        "energy_consumed_kwh": 21.13404477845307
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 28.509014979393807,
+        "temperature_c": 5.922050897982931,
+        "vehicle_age_years": 7.0,
+        "distance_km": 222.2882898379178,
+        "soc_start": 37.966771991163235,
+        "energy_consumed_kwh": 21.069157575738828
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 28.74682186959425,
+        "temperature_c": -0.2275496187781902,
+        "vehicle_age_years": 4.0,
+        "distance_km": 261.22513034672306,
+        "soc_start": 85.33986897849638,
+        "energy_consumed_kwh": 51.87067063305462
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 33.308467799457084,
+        "temperature_c": -7.676627701888041,
+        "vehicle_age_years": 6.0,
+        "distance_km": 232.1110226457514,
+        "soc_start": 42.861075191260454,
+        "energy_consumed_kwh": 64.30797977990255
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 44.047481179287004,
+        "temperature_c": 18.00827452726469,
+        "vehicle_age_years": 2.0,
+        "distance_km": 233.24300716478712,
+        "soc_start": 56.776136362878844,
+        "energy_consumed_kwh": 49.8977884122396
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 3.991359551432321,
+        "temperature_c": 17.109240531180074,
+        "vehicle_age_years": 4.0,
+        "distance_km": 116.17711903418054,
+        "soc_start": 21.98287036518241,
+        "energy_consumed_kwh": 64.60983161155823
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 13.286811651784502,
+        "temperature_c": 34.24765263754184,
+        "vehicle_age_years": 2.0,
+        "distance_km": 67.62131034729012,
+        "soc_start": 70.24667677385645,
+        "energy_consumed_kwh": 12.594888574055725
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.291553914580305,
+        "temperature_c": -8.483436369308658,
+        "vehicle_age_years": 1.9578939066077323,
+        "distance_km": 286.34281820301436,
+        "soc_start": 28.369004521577175,
+        "energy_consumed_kwh": 8.11244782892836
+      },
+      "label": 84.34,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 1.722296153828387,
+        "temperature_c": 28.4532827029553,
+        "vehicle_age_years": 1.0,
+        "distance_km": 41.579117385750905,
+        "soc_start": 117.65623501960943,
+        "energy_consumed_kwh": 48.57848684629363
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 18.879370175817385,
+        "temperature_c": 1.8954900233499377,
+        "vehicle_age_years": 3.898678748629223,
+        "distance_km": 88.25561781096748,
+        "soc_start": 81.441194681009,
+        "energy_consumed_kwh": 60.939817877399975
+      },
+      "label": 68.81,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 47.80486645935545,
+        "temperature_c": 21.976294160897577,
+        "vehicle_age_years": 2.0,
+        "distance_km": 274.7990199525856,
+        "soc_start": 13.134702560900067,
+        "energy_consumed_kwh": 14.355208491625932
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 5.340049724227951,
+        "temperature_c": 5.107230642442021,
+        "vehicle_age_years": 3.0,
+        "distance_km": 156.46392580325875,
+        "soc_start": 17.56487802139744,
+        "energy_consumed_kwh": 47.18840893514874
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 25.767194138166378,
+        "temperature_c": 17.414579084848018,
+        "vehicle_age_years": 4.0,
+        "distance_km": 250.2821966735628,
+        "soc_start": 31.278431311471458,
+        "energy_consumed_kwh": 40.63092350376829
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 5.949301763553466,
+        "temperature_c": 36.04862346055762,
+        "vehicle_age_years": 2.0,
+        "distance_km": 241.98464368309698,
+        "soc_start": 64.22809474454678,
+        "energy_consumed_kwh": 36.490277883670345
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 8.97054959336193,
+        "temperature_c": 35.8188602256871,
+        "vehicle_age_years": 7.0,
+        "distance_km": 145.6653928623303,
+        "soc_start": 69.3146975661584,
+        "energy_consumed_kwh": 67.56014288077881
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 4.7115832049707596,
+        "temperature_c": 16.54458122590386,
+        "vehicle_age_years": 5.0,
+        "distance_km": 165.45403485947003,
+        "soc_start": 89.10032843307252,
+        "energy_consumed_kwh": 52.57470179430345
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 13.226974760476542,
+        "temperature_c": 12.38716532742395,
+        "vehicle_age_years": 0.0,
+        "distance_km": 190.6843550232037,
+        "soc_start": 62.57412042187828,
+        "energy_consumed_kwh": 28.279857147188363
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.83003788863654,
+        "temperature_c": 30.89722993782202,
+        "vehicle_age_years": 4.0,
+        "distance_km": 210.27725035738095,
+        "soc_start": 81.27280773777099,
+        "energy_consumed_kwh": 28.869124795956566
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 4.273735085390689,
+        "temperature_c": -3.858987596285049,
+        "vehicle_age_years": 0.0,
+        "distance_km": 162.80604119894906,
+        "soc_start": 13.581959675481777,
+        "energy_consumed_kwh": 45.11780647869832
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 13.104480594253658,
+        "temperature_c": 6.362088419350972,
+        "vehicle_age_years": 5.0,
+        "distance_km": 129.4031901986671,
+        "soc_start": 34.83463935826441,
+        "energy_consumed_kwh": 42.91893733882982
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 121.2118923533745,
+        "charging_rate_kw": 6.513656892904606,
+        "temperature_c": 32.84721980697499,
+        "vehicle_age_years": 7.0,
+        "distance_km": 166.62444388661453,
+        "soc_start": 56.717972183061356,
+        "energy_consumed_kwh": 66.70523645325736
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 5.210684627425631,
+        "temperature_c": 8.90452585554962,
+        "vehicle_age_years": 6.0,
+        "distance_km": 166.1593670762652,
+        "soc_start": 45.97265795541939,
+        "energy_consumed_kwh": 65.539397780162
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 10.32712933232258,
+        "temperature_c": 30.186703772074473,
+        "vehicle_age_years": 2.0,
+        "distance_km": 66.63692341792364,
+        "soc_start": 76.09869924748591,
+        "energy_consumed_kwh": 78.23764802345093
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 39.324141107074205,
+        "temperature_c": -4.073387952520587,
+        "vehicle_age_years": 6.0,
+        "distance_km": 227.42716140391553,
+        "soc_start": 22.593136047374216,
+        "energy_consumed_kwh": 66.89909636313753
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 26.32801687036438,
+        "temperature_c": 30.28535775941765,
+        "vehicle_age_years": 2.0,
+        "distance_km": 114.7560838987734,
+        "soc_start": 21.780356953491157,
+        "energy_consumed_kwh": 40.05179662487088
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 36.88376940480415,
+        "temperature_c": 16.71941917567966,
+        "vehicle_age_years": 5.0,
+        "distance_km": 169.2012300844277,
+        "soc_start": 18.74774586385513,
+        "energy_consumed_kwh": 77.6778219726915
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 4.315961671253241,
+        "temperature_c": 26.70894079525074,
+        "vehicle_age_years": 4.0,
+        "distance_km": 170.92055240618774,
+        "soc_start": 44.29225742818147,
+        "energy_consumed_kwh": 6.337534264521747
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 29.90830340221348,
+        "temperature_c": 23.667158357363988,
+        "vehicle_age_years": 0.0,
+        "distance_km": 263.5031195019603,
+        "soc_start": 119.05110747730419,
+        "energy_consumed_kwh": 62.42036136933443
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 5.847147396013394,
+        "temperature_c": -1.3562252342415224,
+        "vehicle_age_years": 1.0,
+        "distance_km": 106.70587653759428,
+        "soc_start": 89.27457303572433,
+        "energy_consumed_kwh": 39.67713381108
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 15.060556534510896,
+        "temperature_c": 11.872445971241746,
+        "vehicle_age_years": 3.0,
+        "distance_km": 205.70804023988822,
+        "soc_start": 72.327300301089,
+        "energy_consumed_kwh": 68.2690209195155
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 12.329512359502848,
+        "temperature_c": 29.028763662192333,
+        "vehicle_age_years": 2.8254819703558147,
+        "distance_km": 192.32269501445737,
+        "soc_start": 63.198836279094415,
+        "energy_consumed_kwh": 23.83688010187143
+      },
+      "label": 77.4,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 6.50874515305308,
+        "temperature_c": 19.90110938909792,
+        "vehicle_age_years": 5.0,
+        "distance_km": 221.2100281938695,
+        "soc_start": 25.84005873762033,
+        "energy_consumed_kwh": 58.19728526882489
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.47917296186442,
+        "temperature_c": 9.568914679552112,
+        "vehicle_age_years": 0.0,
+        "distance_km": 222.76171800791596,
+        "soc_start": 30.855323852249104,
+        "energy_consumed_kwh": 78.98357945200523
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 105.55496694435764,
+        "charging_rate_kw": 43.60970746385774,
+        "temperature_c": 23.88774269762121,
+        "vehicle_age_years": 4.0,
+        "distance_km": 94.94198697812332,
+        "soc_start": 28.208935069265067,
+        "energy_consumed_kwh": 48.50288659256919
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 40.99044595574586,
+        "temperature_c": 36.52061298064519,
+        "vehicle_age_years": 0.0,
+        "distance_km": 62.19603106163954,
+        "soc_start": 29.71940200562245,
+        "energy_consumed_kwh": 52.53257448488719
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 41.810297408599894,
+        "temperature_c": 37.34587349327117,
+        "vehicle_age_years": 6.0,
+        "distance_km": 218.29028012352515,
+        "soc_start": 79.03092865995887,
+        "energy_consumed_kwh": 34.6802647525039
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 24.478005326798822,
+        "temperature_c": -3.339891179312307,
+        "vehicle_age_years": 0.0,
+        "distance_km": 130.78815463221682,
+        "soc_start": 54.573853324395245,
+        "energy_consumed_kwh": 27.282216437981077
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 3.8023033275213214,
+        "temperature_c": -4.093359075721323,
+        "vehicle_age_years": 3.0,
+        "distance_km": 234.87916492055174,
+        "soc_start": 18.886157164062443,
+        "energy_consumed_kwh": 11.514718098963709
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.10298785881889,
+        "charging_rate_kw": 21.060324308398478,
+        "temperature_c": 26.953658531337915,
+        "vehicle_age_years": 0.0,
+        "distance_km": 66.80027139939963,
+        "soc_start": 12.88478096498137,
+        "energy_consumed_kwh": 7.275443511373867
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 30.94275330829091,
+        "temperature_c": 0.8305829090527883,
+        "vehicle_age_years": 4.0,
+        "distance_km": 36.00389596159371,
+        "soc_start": 22.44089942066365,
+        "energy_consumed_kwh": 57.23283445266599
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 37.514151633045756,
+        "temperature_c": -1.9450676176789052,
+        "vehicle_age_years": 3.6081348728532543,
+        "distance_km": 145.13270890073923,
+        "soc_start": 48.38561451259521,
+        "energy_consumed_kwh": 9.669665590124442
+      },
+      "label": 71.13,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 17.23173869250797,
+        "temperature_c": 32.26012676396088,
+        "vehicle_age_years": 0.0,
+        "distance_km": 37.99444109844923,
+        "soc_start": 64.658324089453,
+        "energy_consumed_kwh": 10.558156197529119
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 9.582158682023236,
+        "temperature_c": 23.61939627308142,
+        "vehicle_age_years": 2.0,
+        "distance_km": 81.64473755406577,
+        "soc_start": 48.94788600827787,
+        "energy_consumed_kwh": 12.12848439962642
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 41.34889744678012,
+        "temperature_c": 9.192514759905432,
+        "vehicle_age_years": 0.6898866541271644,
+        "distance_km": 90.79486285484403,
+        "soc_start": 54.84308704413998,
+        "energy_consumed_kwh": 63.97196694472084
+      },
+      "label": 94.48,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 36.323727747600145,
+        "temperature_c": 21.012405594464532,
+        "vehicle_age_years": 0.0,
+        "distance_km": 178.12130884759824,
+        "soc_start": 49.282689589344116,
+        "energy_consumed_kwh": 48.66355521084799
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 36.077844709089504,
+        "temperature_c": 40.816740375598386,
+        "vehicle_age_years": 1.0,
+        "distance_km": 217.59663464578475,
+        "soc_start": 34.89212626163041,
+        "energy_consumed_kwh": 10.137709442892055
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 26.086973082683723,
+        "temperature_c": 21.294590532871357,
+        "vehicle_age_years": 4.0,
+        "distance_km": 180.45460214898844,
+        "soc_start": 80.69801215627292,
+        "energy_consumed_kwh": 73.86936259559798
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 47.90206130269109,
+        "temperature_c": 23.94913864573946,
+        "vehicle_age_years": 5.0,
+        "distance_km": 133.4464694872657,
+        "soc_start": 41.65702959664234,
+        "energy_consumed_kwh": 12.010095267833266
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 47.81692135737631,
+        "temperature_c": 18.23757818141412,
+        "vehicle_age_years": 6.0,
+        "distance_km": 151.0657029904892,
+        "soc_start": 71.90426649979851,
+        "energy_consumed_kwh": 74.13419248313946
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 10.575938299260526,
+        "temperature_c": 25.044906155295536,
+        "vehicle_age_years": 4.0,
+        "distance_km": 126.39596261084691,
+        "soc_start": 53.17181764242919,
+        "energy_consumed_kwh": 73.80921664182601
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 14.812569888092858,
+        "temperature_c": 18.032473392326246,
+        "vehicle_age_years": 4.0,
+        "distance_km": 229.18283499002163,
+        "soc_start": 56.27459504161595,
+        "energy_consumed_kwh": 48.330182762063146
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 9.86675920918086,
+        "temperature_c": 13.546928925511413,
+        "vehicle_age_years": 0.0,
+        "distance_km": 119.09691886890437,
+        "soc_start": 33.926486820365405,
+        "energy_consumed_kwh": 40.736704801536966
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 35.90037572075738,
+        "temperature_c": 14.434227239434549,
+        "vehicle_age_years": 2.0,
+        "distance_km": 299.46404753595044,
+        "soc_start": 73.2949349787491,
+        "energy_consumed_kwh": 19.97640696261344
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 41.83746249782165,
+        "temperature_c": 33.546857129300356,
+        "vehicle_age_years": 7.0,
+        "distance_km": 29.944440520906667,
+        "soc_start": 37.694474032776164,
+        "energy_consumed_kwh": 43.825900117321794
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 29.216213685823107,
+        "temperature_c": 18.153854752373558,
+        "vehicle_age_years": 3.0,
+        "distance_km": 295.9150268898221,
+        "soc_start": 14.961669635907109,
+        "energy_consumed_kwh": 10.241885891596077
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 27.381994351172008,
+        "temperature_c": 22.61418258510924,
+        "vehicle_age_years": 1.0,
+        "distance_km": 251.17135317316612,
+        "soc_start": 66.46134154461114,
+        "energy_consumed_kwh": 12.814363147239058
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 13.080022985194764,
+        "temperature_c": 36.99991588152188,
+        "vehicle_age_years": 2.0,
+        "distance_km": 252.85110656388096,
+        "soc_start": 11.88322274236719,
+        "energy_consumed_kwh": 15.187432130994928
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 44.7448626480689,
+        "temperature_c": 3.706865682142661,
+        "vehicle_age_years": 3.7340553096703446,
+        "distance_km": 287.06397976246177,
+        "soc_start": 48.963543957597054,
+        "energy_consumed_kwh": 71.16250433532748
+      },
+      "label": 70.13,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 18.571639163452865,
+        "temperature_c": 33.26552620867315,
+        "vehicle_age_years": 3.0,
+        "distance_km": 87.14078402653271,
+        "soc_start": 86.60111714572933,
+        "energy_consumed_kwh": 10.317872226345198
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 35.74897886600845,
+        "temperature_c": 18.580192528883998,
+        "vehicle_age_years": 1.0,
+        "distance_km": 258.22098538444334,
+        "soc_start": 79.82181804427366,
+        "energy_consumed_kwh": 42.222770261485735
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 39.154830349071936,
+        "temperature_c": 17.588065382112188,
+        "vehicle_age_years": 2.0,
+        "distance_km": 292.69772318223676,
+        "soc_start": 54.78679099648707,
+        "energy_consumed_kwh": 47.99575165649026
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 9.76614988041083,
+        "temperature_c": 22.966643514524215,
+        "vehicle_age_years": 4.06268814898258,
+        "distance_km": 245.35532264165815,
+        "soc_start": 62.89081175346798,
+        "energy_consumed_kwh": 44.87557340248862
+      },
+      "label": 67.5,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.60872071307756,
+        "charging_rate_kw": 47.829480461685556,
+        "temperature_c": 69.48593769068968,
+        "vehicle_age_years": 0.0,
+        "distance_km": 31.195256286094946,
+        "soc_start": 58.10937414504025,
+        "energy_consumed_kwh": 56.51645587863174
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 17.9473945941715,
+        "temperature_c": 31.602356878363913,
+        "vehicle_age_years": 6.0,
+        "distance_km": 61.05376918138752,
+        "soc_start": 28.841329486807112,
+        "energy_consumed_kwh": 40.257196883863706
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 40.91079821026635,
+        "temperature_c": 37.03618549441143,
+        "vehicle_age_years": 3.0,
+        "distance_km": 286.8427865836956,
+        "soc_start": 86.31805712644342,
+        "energy_consumed_kwh": 9.04773210705438
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 29.413406694147984,
+        "temperature_c": 2.2490551695889742,
+        "vehicle_age_years": 4.0,
+        "distance_km": 238.86500977248573,
+        "soc_start": 80.65255109296433,
+        "energy_consumed_kwh": 77.45420995738992
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 39.21578542752447,
+        "temperature_c": 12.970249709301843,
+        "vehicle_age_years": 7.0,
+        "distance_km": 263.0610040864517,
+        "soc_start": 30.700917810684565,
+        "energy_consumed_kwh": 71.95569072472664
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 33.527215373664504,
+        "temperature_c": 4.837412072025576,
+        "vehicle_age_years": 2.0,
+        "distance_km": 95.64435151967814,
+        "soc_start": 40.21147092624306,
+        "energy_consumed_kwh": 58.92443565485458
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 51.3635932476184,
+        "temperature_c": 41.891306890445605,
+        "vehicle_age_years": 4.0,
+        "distance_km": 113.35805771013355,
+        "soc_start": 78.95924905423048,
+        "energy_consumed_kwh": 60.28854286251064
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 6.590228457006733,
+        "temperature_c": -4.148661344077772,
+        "vehicle_age_years": 1.0,
+        "distance_km": 233.16995576223033,
+        "soc_start": 48.294420336013985,
+        "energy_consumed_kwh": 38.00957724097448
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 27.381349198927023,
+        "temperature_c": 41.34107902225962,
+        "vehicle_age_years": 7.0,
+        "distance_km": 217.30594161275468,
+        "soc_start": 20.5692515503208,
+        "energy_consumed_kwh": 69.10595990230438
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 20.003932100239442,
+        "temperature_c": -7.257652153666562,
+        "vehicle_age_years": 2.0,
+        "distance_km": 81.97014674442858,
+        "soc_start": 21.960265246418267,
+        "energy_consumed_kwh": 35.34544122101473
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 10.274728630596702,
+        "temperature_c": 6.020441252612322,
+        "vehicle_age_years": 3.0,
+        "distance_km": 92.57781329380339,
+        "soc_start": 87.41341613137504,
+        "energy_consumed_kwh": 45.393753939065256
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 11.681362395611878,
+        "temperature_c": -5.445961361465914,
+        "vehicle_age_years": 4.794491816502947,
+        "distance_km": 165.1411875837907,
+        "soc_start": 55.56943740686081,
+        "energy_consumed_kwh": 70.09733350116187
+      },
+      "label": 61.64,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 14.86299534511134,
+        "temperature_c": 2.8825596212513496,
+        "vehicle_age_years": 2.6476551202687344,
+        "distance_km": 195.20100122016925,
+        "soc_start": 12.439951171830508,
+        "energy_consumed_kwh": 6.269100759870733
+      },
+      "label": 78.82,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 140.5136826125489,
+        "charging_rate_kw": 41.66867825242623,
+        "temperature_c": -9.113062954570747,
+        "vehicle_age_years": 5.0,
+        "distance_km": 168.21674482779994,
+        "soc_start": 35.46639266915101,
+        "energy_consumed_kwh": 12.442167206200745
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 5.365145089951124,
+        "temperature_c": 9.015655521776441,
+        "vehicle_age_years": 3.2208180799938284,
+        "distance_km": 247.43028988542974,
+        "soc_start": 59.86044199141078,
+        "energy_consumed_kwh": 29.183396763864042
+      },
+      "label": 74.23,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 37.868282872163995,
+        "temperature_c": -2.484196543850139,
+        "vehicle_age_years": 5.0,
+        "distance_km": 105.95721261750602,
+        "soc_start": 70.42719826843793,
+        "energy_consumed_kwh": 32.02408532686721
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 19.260045839091497,
+        "temperature_c": 32.8255992419043,
+        "vehicle_age_years": 5.0,
+        "distance_km": 85.42717691725181,
+        "soc_start": 16.99015327254326,
+        "energy_consumed_kwh": 39.18998751353248
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 14.225154049615949,
+        "temperature_c": 26.596317875349683,
+        "vehicle_age_years": 0.0,
+        "distance_km": 284.28529630185744,
+        "soc_start": 35.73213906423297,
+        "energy_consumed_kwh": 76.66382798129307
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 17.354640600950866,
+        "temperature_c": 28.43121149441489,
+        "vehicle_age_years": 0.0,
+        "distance_km": 235.83782604341158,
+        "soc_start": 68.4341184931085,
+        "energy_consumed_kwh": 45.81366156734756
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 8.658326061789474,
+        "temperature_c": 22.613483451255014,
+        "vehicle_age_years": 6.0,
+        "distance_km": 225.1572217966942,
+        "soc_start": 64.07772203130133,
+        "energy_consumed_kwh": 60.38629791395793
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.87987268017541,
+        "charging_rate_kw": 40.57558754811164,
+        "temperature_c": 27.89850262303308,
+        "vehicle_age_years": 4.186588285182931,
+        "distance_km": 145.84906823716315,
+        "soc_start": 33.82915897800707,
+        "energy_consumed_kwh": 53.39896875032125
+      },
+      "label": 66.51,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 28.53131850003748,
+        "temperature_c": 14.418684135818658,
+        "vehicle_age_years": 0.0,
+        "distance_km": 292.32106847912405,
+        "soc_start": 65.58060133714983,
+        "energy_consumed_kwh": 26.510946858011508
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 6.452270808883824,
+        "temperature_c": 27.576695560235585,
+        "vehicle_age_years": 5.0,
+        "distance_km": 170.1479702664298,
+        "soc_start": 84.99521399071405,
+        "energy_consumed_kwh": 63.30842211900583
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 28.587452781207986,
+        "temperature_c": 18.045096071792507,
+        "vehicle_age_years": 0.0,
+        "distance_km": 369.85352357458913,
+        "soc_start": 56.06768463228563,
+        "energy_consumed_kwh": 76.1733008089697
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 20.394976393778617,
+        "temperature_c": 36.23500791319978,
+        "vehicle_age_years": 3.30440809594731,
+        "distance_km": 283.04991635004365,
+        "soc_start": 68.91614283358405,
+        "energy_consumed_kwh": 34.99715934379533
+      },
+      "label": 73.56,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 47.633710498339866,
+        "temperature_c": 11.393724185781725,
+        "vehicle_age_years": 2.0,
+        "distance_km": 146.68151168087584,
+        "soc_start": 82.90492657405008,
+        "energy_consumed_kwh": 53.20639354696602
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 38.79607655154279,
+        "temperature_c": 2.616126227153474,
+        "vehicle_age_years": 7.0,
+        "distance_km": 181.08912606726616,
+        "soc_start": 12.223423197366241,
+        "energy_consumed_kwh": 71.7085068763758
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 33.00513137989047,
+        "temperature_c": 12.536190169540205,
+        "vehicle_age_years": 0.8143144920347289,
+        "distance_km": 252.8396285449158,
+        "soc_start": 51.37788920930001,
+        "energy_consumed_kwh": 79.24854612418856
+      },
+      "label": 93.49,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 49.889182875885574,
+        "temperature_c": 31.42190013718612,
+        "vehicle_age_years": 3.0,
+        "distance_km": 97.81842384060884,
+        "soc_start": 52.29889078362029,
+        "energy_consumed_kwh": 26.304534655978642
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 22.068883731114205,
+        "temperature_c": 11.908733692048816,
+        "vehicle_age_years": 0.0,
+        "distance_km": 50.1344443370103,
+        "soc_start": 82.44163028037494,
+        "energy_consumed_kwh": 48.61478557078329
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 40.72369852949949,
+        "temperature_c": 34.05934132179261,
+        "vehicle_age_years": 1.0,
+        "distance_km": 39.67918932987936,
+        "soc_start": 56.029456174223355,
+        "energy_consumed_kwh": 56.19836617198485
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 15.963532916763002,
+        "temperature_c": -1.9739257222116073,
+        "vehicle_age_years": 4.0,
+        "distance_km": 195.62085810127488,
+        "soc_start": 25.845335709622198,
+        "energy_consumed_kwh": 29.052446378099212
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 18.905372831421296,
+        "temperature_c": 15.442212140290906,
+        "vehicle_age_years": 2.0,
+        "distance_km": 99.8080312427259,
+        "soc_start": 89.11032954040108,
+        "energy_consumed_kwh": 11.456912304995278
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 11.03185074828479,
+        "temperature_c": -0.6584932383603714,
+        "vehicle_age_years": 3.0,
+        "distance_km": 159.6155013686422,
+        "soc_start": 68.76134194190155,
+        "energy_consumed_kwh": 40.78700348086861
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 4.881436198623996,
+        "temperature_c": -6.428742353356784,
+        "vehicle_age_years": 1.0,
+        "distance_km": 269.8883399506302,
+        "soc_start": 61.532650782641916,
+        "energy_consumed_kwh": 34.895113266087755
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 36.553467284721556,
+        "temperature_c": 21.379288316532588,
+        "vehicle_age_years": 7.0,
+        "distance_km": 245.5974514649052,
+        "soc_start": 37.3671232960542,
+        "energy_consumed_kwh": 74.78581939727512
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 23.21525779216274,
+        "temperature_c": 17.24178715039715,
+        "vehicle_age_years": 5.0,
+        "distance_km": 247.748550461502,
+        "soc_start": 42.67037445051806,
+        "energy_consumed_kwh": 34.79054782301729
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 24.47957144861078,
+        "temperature_c": 11.76834664939285,
+        "vehicle_age_years": 5.0,
+        "distance_km": 44.505894759907434,
+        "soc_start": 46.40094287119368,
+        "energy_consumed_kwh": 41.90586399017345
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 41.758763220091105,
+        "temperature_c": -7.3277465249716585,
+        "vehicle_age_years": 4.0,
+        "distance_km": 206.27023390668631,
+        "soc_start": 15.625327417420323,
+        "energy_consumed_kwh": 8.335789160236999
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 12.374493987456692,
+        "temperature_c": 23.981918302874554,
+        "vehicle_age_years": 3.0,
+        "distance_km": 150.26009954855095,
+        "soc_start": 61.92829078916798,
+        "energy_consumed_kwh": 75.09027362309024
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 37.46218915223994,
+        "temperature_c": 16.052413139147863,
+        "vehicle_age_years": 5.0,
+        "distance_km": 117.69789331623231,
+        "soc_start": 75.82897474627676,
+        "energy_consumed_kwh": 79.97267190690829
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 28.19404206423544,
+        "temperature_c": 28.513694445693922,
+        "vehicle_age_years": 7.0,
+        "distance_km": 131.05424098801745,
+        "soc_start": 18.30616688088955,
+        "energy_consumed_kwh": 45.45344885211073
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 37.50320207080665,
+        "temperature_c": 7.58003923341635,
+        "vehicle_age_years": 0.0,
+        "distance_km": 47.416211526470576,
+        "soc_start": 76.84081236656476,
+        "energy_consumed_kwh": 31.728682285908047
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 179.01305777024916,
+        "charging_rate_kw": 5.052457492354572,
+        "temperature_c": 18.97409284644023,
+        "vehicle_age_years": 6.0,
+        "distance_km": 152.88819133117065,
+        "soc_start": 51.48318629752653,
+        "energy_consumed_kwh": 15.10403338179977
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 47.609115992934555,
+        "temperature_c": 35.769526773223475,
+        "vehicle_age_years": 1.4131071299836229,
+        "distance_km": 32.32362538971208,
+        "soc_start": 58.690095943894924,
+        "energy_consumed_kwh": 19.721540010730706
+      },
+      "label": 88.7,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 38.62554559470691,
+        "temperature_c": 29.88019647166928,
+        "vehicle_age_years": 4.0,
+        "distance_km": 42.13941422454072,
+        "soc_start": 33.26665160527895,
+        "energy_consumed_kwh": 53.36289470151473
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 30.485773672901754,
+        "temperature_c": 11.697359728518473,
+        "vehicle_age_years": 6.0,
+        "distance_km": 80.31857002371548,
+        "soc_start": 74.6842236981937,
+        "energy_consumed_kwh": 24.267335453342245
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 45.32674459013657,
+        "temperature_c": 19.029287814233463,
+        "vehicle_age_years": 4.0,
+        "distance_km": 104.86167280604526,
+        "soc_start": 46.48302918515636,
+        "energy_consumed_kwh": 27.706067785342434
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 46.477342946986276,
+        "temperature_c": 12.409795888371693,
+        "vehicle_age_years": 3.0,
+        "distance_km": 97.46236881264964,
+        "soc_start": 61.5644479971477,
+        "energy_consumed_kwh": 27.498043111589936
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 39.127025402318914,
+        "temperature_c": 18.962712202970867,
+        "vehicle_age_years": 3.0,
+        "distance_km": 107.66904425344254,
+        "soc_start": 63.61556869644066,
+        "energy_consumed_kwh": 5.755524649492359
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 14.832917019534175,
+        "temperature_c": 18.455941632134504,
+        "vehicle_age_years": 7.0,
+        "distance_km": 280.54368535047314,
+        "soc_start": 46.607930464309526,
+        "energy_consumed_kwh": 9.206012694775316
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 43.70116825973557,
+        "temperature_c": 19.16560070339951,
+        "vehicle_age_years": 4.0,
+        "distance_km": 28.54920389274597,
+        "soc_start": 71.41075857249324,
+        "energy_consumed_kwh": 18.01705100546142
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 32.79732044472121,
+        "temperature_c": 8.253481653676824,
+        "vehicle_age_years": 5.352188076255658,
+        "distance_km": 258.03171714046346,
+        "soc_start": 83.51568603776872,
+        "energy_consumed_kwh": 35.86668099087705
+      },
+      "label": 57.18,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 37.77442265439287,
+        "temperature_c": 18.77488486854991,
+        "vehicle_age_years": 3.0,
+        "distance_km": 291.18090476354723,
+        "soc_start": 18.216135308909685,
+        "energy_consumed_kwh": 61.90801716904538
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 47.503737971035065,
+        "temperature_c": 7.159703373364536,
+        "vehicle_age_years": 4.0,
+        "distance_km": 85.00477868174715,
+        "soc_start": 26.447257316508875,
+        "energy_consumed_kwh": 45.858999052265375
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 6.306066001187466,
+        "temperature_c": 26.193341439430043,
+        "vehicle_age_years": 5.0,
+        "distance_km": 135.63711211756276,
+        "soc_start": 50.70981922850209,
+        "energy_consumed_kwh": 21.05357940478484
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 36.286078729713026,
+        "temperature_c": 15.725063881272998,
+        "vehicle_age_years": 7.0,
+        "distance_km": 85.88564156991364,
+        "soc_start": 25.450179505817587,
+        "energy_consumed_kwh": 28.337522357857683
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.032236273447076,
+        "charging_rate_kw": 40.17685077355911,
+        "temperature_c": 31.34685758576334,
+        "vehicle_age_years": 6.0,
+        "distance_km": 75.72756438939092,
+        "soc_start": 23.97110917899692,
+        "energy_consumed_kwh": 21.270741905550192
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 21.32626413977922,
+        "temperature_c": -1.5624897888461415,
+        "vehicle_age_years": 4.0,
+        "distance_km": 280.9762024240972,
+        "soc_start": 28.90083254997095,
+        "energy_consumed_kwh": 5.868319195612725
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.51107776012078,
+        "charging_rate_kw": 5.923176780357402,
+        "temperature_c": 2.2416169064104636,
+        "vehicle_age_years": 3.0,
+        "distance_km": 108.1405504175817,
+        "soc_start": 40.62173244352232,
+        "energy_consumed_kwh": 66.17819525015547
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 19.102870216691056,
+        "temperature_c": 26.22953591054577,
+        "vehicle_age_years": 3.0,
+        "distance_km": 44.41463471579849,
+        "soc_start": 65.6513286332472,
+        "energy_consumed_kwh": 54.54859168539257
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 38.4249009837934,
+        "temperature_c": 39.39447334918633,
+        "vehicle_age_years": 4.0,
+        "distance_km": 243.31469364958875,
+        "soc_start": 88.86128564501877,
+        "energy_consumed_kwh": 10.390644028146834
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 18.937607699202452,
+        "temperature_c": -7.478114898036261,
+        "vehicle_age_years": 4.0,
+        "distance_km": 49.05420612095306,
+        "soc_start": 23.264357666126408,
+        "energy_consumed_kwh": 49.48345837435455
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 37.74994617838915,
+        "temperature_c": 27.78096351062102,
+        "vehicle_age_years": 0.0,
+        "distance_km": 268.6951244624599,
+        "soc_start": 75.29020927180612,
+        "energy_consumed_kwh": 47.67827374967497
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 47.72349822012419,
+        "temperature_c": 18.390040021966445,
+        "vehicle_age_years": 0.02015574100220241,
+        "distance_km": 250.86436658538844,
+        "soc_start": 61.04916218275036,
+        "energy_consumed_kwh": 66.46105412754665
+      },
+      "label": 99.84,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 19.48012395431718,
+        "temperature_c": 31.980349802192308,
+        "vehicle_age_years": 0.19004692573725768,
+        "distance_km": 129.54556576013024,
+        "soc_start": 49.52688345849289,
+        "energy_consumed_kwh": 30.751503981203896
+      },
+      "label": 98.48,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 42.136989660963394,
+        "temperature_c": 4.524374959716525,
+        "vehicle_age_years": 5.0,
+        "distance_km": 279.43866960065594,
+        "soc_start": 79.74068238394702,
+        "energy_consumed_kwh": 49.53480945615692
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 22.867757719681364,
+        "temperature_c": 39.20763826586747,
+        "vehicle_age_years": 3.0,
+        "distance_km": 273.507012624569,
+        "soc_start": 11.854880943442128,
+        "energy_consumed_kwh": 35.7622826922978
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 4.194196976474822,
+        "temperature_c": 29.239399647145554,
+        "vehicle_age_years": 5.0,
+        "distance_km": 82.8826118729384,
+        "soc_start": 61.13125247835371,
+        "energy_consumed_kwh": 16.126089718922938
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 25.073544324039364,
+        "temperature_c": 7.731967314013154,
+        "vehicle_age_years": 3.0,
+        "distance_km": 194.79354387429612,
+        "soc_start": 41.34406167397294,
+        "energy_consumed_kwh": 74.27670057664027
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Hyundai Kona"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 63.216118380746416,
+        "temperature_c": 1.6308497238612816,
+        "vehicle_age_years": 5.0,
+        "distance_km": 220.28186326914656,
+        "soc_start": 62.108672404096424,
+        "energy_consumed_kwh": 43.251453479602375
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Hyundai Kona"
+    }
+  ]
+}

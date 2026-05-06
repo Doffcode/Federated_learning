@@ -1,0 +1,3130 @@
+{
+  "vehicle_model": "BMW i3",
+  "samples": 223,
+  "data_type": "real",
+  "source": "ev_charging_patterns.csv",
+  "data": [
+    {
+      "features": {
+        "battery_capacity": 108.46300741284072,
+        "charging_rate_kw": 36.3891805669814,
+        "temperature_c": 27.947953055800944,
+        "vehicle_age_years": 2.0,
+        "distance_km": 293.6021106383279,
+        "soc_start": 29.371575979140047,
+        "energy_consumed_kwh": 60.71234573492677
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 10.310701112892176,
+        "temperature_c": 0.5004335643954789,
+        "vehicle_age_years": 3.0,
+        "distance_km": 64.63464374887128,
+        "soc_start": 76.08656557040186,
+        "energy_consumed_kwh": 18.206197477378716
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 24.211150117119175,
+        "temperature_c": 39.50544568765913,
+        "vehicle_age_years": 4.0,
+        "distance_km": 155.36060543681995,
+        "soc_start": 71.68354383511853,
+        "energy_consumed_kwh": 12.927545290947553
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.681812229825,
+        "charging_rate_kw": 49.40273861566977,
+        "temperature_c": 4.41532961880046,
+        "vehicle_age_years": 7.0,
+        "distance_km": 237.3064209427689,
+        "soc_start": 67.59197091077596,
+        "energy_consumed_kwh": 24.726937680708804
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 45.29143534649799,
+        "temperature_c": 9.202409891916812,
+        "vehicle_age_years": 3.0,
+        "distance_km": 243.25576946966927,
+        "soc_start": 12.754877571721774,
+        "energy_consumed_kwh": 48.48248430757049
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 19.194882837079632,
+        "temperature_c": 39.95893731677202,
+        "vehicle_age_years": 4.257936702758294,
+        "distance_km": 298.18812231836336,
+        "soc_start": 49.02423910950519,
+        "energy_consumed_kwh": 49.19642958971384
+      },
+      "label": 65.94,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 45.81173100244055,
+        "temperature_c": 12.333415373869066,
+        "vehicle_age_years": 0.0,
+        "distance_km": 186.15573210131026,
+        "soc_start": 29.207671702279008,
+        "energy_consumed_kwh": 56.59325685914933
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 12.064391459035129,
+        "temperature_c": 2.2731629009720518,
+        "vehicle_age_years": 6.0,
+        "distance_km": 238.90931096310854,
+        "soc_start": 75.6447784790562,
+        "energy_consumed_kwh": 38.289199335542705
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 21.517815048554308,
+        "temperature_c": 39.38401391534167,
+        "vehicle_age_years": 1.0,
+        "distance_km": 35.50388319357353,
+        "soc_start": 23.603991432132744,
+        "energy_consumed_kwh": 16.136238725396332
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 79.7992037611215,
+        "charging_rate_kw": 6.897878329777162,
+        "temperature_c": 35.233158486596466,
+        "vehicle_age_years": 1.9692327223243997,
+        "distance_km": 119.63099233488511,
+        "soc_start": 80.86258863357027,
+        "energy_consumed_kwh": 67.51805822343026
+      },
+      "label": 84.25,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 29.468944357780007,
+        "temperature_c": 39.41613092437325,
+        "vehicle_age_years": 4.0,
+        "distance_km": 83.24522142563875,
+        "soc_start": 36.636852158024986,
+        "energy_consumed_kwh": 12.049319706245154
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 49.275345589419594,
+        "temperature_c": 5.37807958403098,
+        "vehicle_age_years": 6.0,
+        "distance_km": 170.47505412270155,
+        "soc_start": 27.196196012553663,
+        "energy_consumed_kwh": 8.713190575944605
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 40.17800199145749,
+        "temperature_c": 30.691983801807638,
+        "vehicle_age_years": 2.6163324827383008,
+        "distance_km": 226.2193631647091,
+        "soc_start": 13.873858113381532,
+        "energy_consumed_kwh": 9.065880815449479
+      },
+      "label": 79.07,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 13.175727296302622,
+        "temperature_c": 1.9411051564848716,
+        "vehicle_age_years": 3.0,
+        "distance_km": 57.38072425225101,
+        "soc_start": 83.86192690828396,
+        "energy_consumed_kwh": 58.73397361690925
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 46.27844331315938,
+        "temperature_c": -7.719425911074026,
+        "vehicle_age_years": 0.0,
+        "distance_km": 234.99666157294837,
+        "soc_start": 17.38966714207173,
+        "energy_consumed_kwh": 65.98624912728606
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.88407424915135,
+        "charging_rate_kw": 11.339063162639302,
+        "temperature_c": 10.424645029884408,
+        "vehicle_age_years": 2.0,
+        "distance_km": 191.93791499432749,
+        "soc_start": 63.67446343632872,
+        "energy_consumed_kwh": 76.45046498743068
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 25.37395430520664,
+        "temperature_c": 5.073167724155329,
+        "vehicle_age_years": 7.0,
+        "distance_km": 148.41561166314776,
+        "soc_start": 80.22553380560572,
+        "energy_consumed_kwh": 21.89299267514347
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 30.9970269340748,
+        "temperature_c": 32.852732623649764,
+        "vehicle_age_years": 7.0,
+        "distance_km": 282.94232177358236,
+        "soc_start": 82.84418006572773,
+        "energy_consumed_kwh": 62.723162291274086
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 4.092360865180499,
+        "temperature_c": -2.7249027658978378,
+        "vehicle_age_years": 4.122767456931069,
+        "distance_km": 276.3684303122313,
+        "soc_start": 57.677660751028775,
+        "energy_consumed_kwh": 67.00568214318923
+      },
+      "label": 67.02,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 30.02591267156402,
+        "temperature_c": 39.83142977123109,
+        "vehicle_age_years": 3.0,
+        "distance_km": 242.48556290631953,
+        "soc_start": 39.517616762842984,
+        "energy_consumed_kwh": 31.218889683829406
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 28.522353335495254,
+        "temperature_c": -4.932743443178868,
+        "vehicle_age_years": 1.0,
+        "distance_km": 12.149516678078115,
+        "soc_start": 38.12132999285809,
+        "energy_consumed_kwh": 30.651699818598626
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 23.417921150036502,
+        "temperature_c": 15.060622448535312,
+        "vehicle_age_years": 0.0,
+        "distance_km": 281.763740323611,
+        "soc_start": 88.09676846371462,
+        "energy_consumed_kwh": 59.9864767329939
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 30.344748445823274,
+        "temperature_c": -6.514431826571196,
+        "vehicle_age_years": 1.0,
+        "distance_km": 164.68289235141916,
+        "soc_start": 105.03222404185645,
+        "energy_consumed_kwh": 33.07294950547435
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 32.080052394592826,
+        "temperature_c": 27.266945622153166,
+        "vehicle_age_years": 4.0,
+        "distance_km": 246.22285126975876,
+        "soc_start": 77.52375722942914,
+        "energy_consumed_kwh": 46.775510473484644
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 147.39535434081625,
+        "charging_rate_kw": 24.832132237509626,
+        "temperature_c": 13.419629558552458,
+        "vehicle_age_years": 6.0,
+        "distance_km": 74.92331106392334,
+        "soc_start": 27.38119597524401,
+        "energy_consumed_kwh": 65.89318362199285
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 19.715350490851208,
+        "temperature_c": 5.7273564896736655,
+        "vehicle_age_years": 1.0,
+        "distance_km": 275.741904170877,
+        "soc_start": 34.60022195707441,
+        "energy_consumed_kwh": 6.189015903017523
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 34.04604092712868,
+        "temperature_c": -1.09233343769354,
+        "vehicle_age_years": 1.750299407238911,
+        "distance_km": 223.09734895995055,
+        "soc_start": 71.45097036918969,
+        "energy_consumed_kwh": 9.15123419135714
+      },
+      "label": 86.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.57728956063927,
+        "temperature_c": 17.522727671566376,
+        "vehicle_age_years": 6.0,
+        "distance_km": 102.23907267794996,
+        "soc_start": 42.8353512271293,
+        "energy_consumed_kwh": 65.48719595789339
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 13.762568583983875,
+        "temperature_c": 19.98563673169685,
+        "vehicle_age_years": 6.0,
+        "distance_km": 220.20056239884673,
+        "soc_start": 84.23618039725056,
+        "energy_consumed_kwh": 15.010165946159635
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 34.388042437016395,
+        "temperature_c": -8.036309429298335,
+        "vehicle_age_years": 6.0,
+        "distance_km": 208.75457770103313,
+        "soc_start": 61.8669056122019,
+        "energy_consumed_kwh": 48.287871996799716
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 36.56255636850435,
+        "temperature_c": 12.737924554170817,
+        "vehicle_age_years": 7.0,
+        "distance_km": 17.241597203507894,
+        "soc_start": 38.190620728517224,
+        "energy_consumed_kwh": 78.69341922441535
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 93.09486955069778,
+        "charging_rate_kw": 16.395516801190116,
+        "temperature_c": 34.79282128606109,
+        "vehicle_age_years": 0.0,
+        "distance_km": 148.08643232831258,
+        "soc_start": 50.70024741009175,
+        "energy_consumed_kwh": 68.03002486170053
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 33.732264264339975,
+        "temperature_c": 38.96813600946469,
+        "vehicle_age_years": 6.0,
+        "distance_km": 28.454681927603882,
+        "soc_start": 45.02731340187831,
+        "energy_consumed_kwh": 40.24838259933458
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 41.34180124259758,
+        "temperature_c": 4.761855467358831,
+        "vehicle_age_years": 7.0,
+        "distance_km": 35.47986919070103,
+        "soc_start": 66.00513379945605,
+        "energy_consumed_kwh": 74.28073484499863
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 35.525961628694056,
+        "temperature_c": 19.18928092352464,
+        "vehicle_age_years": 0.0,
+        "distance_km": 186.8140685808714,
+        "soc_start": 30.59535960979457,
+        "energy_consumed_kwh": 52.884130298910776
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 19.709488492511113,
+        "temperature_c": 12.629501276977535,
+        "vehicle_age_years": 5.0,
+        "distance_km": 130.55196295061603,
+        "soc_start": 27.017063596143707,
+        "energy_consumed_kwh": 54.64087910335184
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 37.85307847614943,
+        "temperature_c": 11.492756176546411,
+        "vehicle_age_years": 7.0,
+        "distance_km": 14.723649268668742,
+        "soc_start": 18.037296920680053,
+        "energy_consumed_kwh": 56.01783153828373
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 6.082778486824532,
+        "temperature_c": 7.166868100746985,
+        "vehicle_age_years": 2.0,
+        "distance_km": 90.11434022451289,
+        "soc_start": 61.57804690727161,
+        "energy_consumed_kwh": 47.824367849448386
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 14.829910982037749,
+        "temperature_c": 17.424867055261124,
+        "vehicle_age_years": 5.0,
+        "distance_km": 150.27002206227104,
+        "soc_start": 73.16017408923142,
+        "energy_consumed_kwh": 71.14274635725945
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 19.167160983415208,
+        "temperature_c": 20.623514072810465,
+        "vehicle_age_years": 6.0,
+        "distance_km": 81.3072735238919,
+        "soc_start": 66.57606983592258,
+        "energy_consumed_kwh": 10.640152157210185
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 13.799272213436621,
+        "temperature_c": 11.442580470841843,
+        "vehicle_age_years": 5.0,
+        "distance_km": 67.87474828378124,
+        "soc_start": 2.3259589947386745,
+        "energy_consumed_kwh": 55.97943470013186
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 14.554415345938791,
+        "temperature_c": 1.8566578227534798,
+        "vehicle_age_years": 7.0,
+        "distance_km": 201.5628074107787,
+        "soc_start": 12.044342771950358,
+        "energy_consumed_kwh": 13.105812024979123
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 48.38467691618706,
+        "temperature_c": 19.26489439702416,
+        "vehicle_age_years": 2.0076405888800446,
+        "distance_km": 268.9717585141519,
+        "soc_start": 43.82063366672827,
+        "energy_consumed_kwh": 17.854873424356434
+      },
+      "label": 83.94,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 22.672767380865306,
+        "temperature_c": 29.56154848251917,
+        "vehicle_age_years": 1.0,
+        "distance_km": 86.56483570911978,
+        "soc_start": 16.340813424043915,
+        "energy_consumed_kwh": 6.961875674256488
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 8.430755655329502,
+        "temperature_c": 25.93608210131172,
+        "vehicle_age_years": 2.0,
+        "distance_km": 65.88939460451076,
+        "soc_start": 27.118106851125184,
+        "energy_consumed_kwh": 1.7545202338044217
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 41.743558796175094,
+        "temperature_c": 14.333455387594256,
+        "vehicle_age_years": 5.0,
+        "distance_km": 157.0245513686409,
+        "soc_start": 63.5820676829891,
+        "energy_consumed_kwh": 67.9228322505551
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 5.370384189809226,
+        "temperature_c": 6.864161791222809,
+        "vehicle_age_years": 6.0,
+        "distance_km": 113.66850091386253,
+        "soc_start": 86.95322411290303,
+        "energy_consumed_kwh": 15.273666673214588
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 49.422736981543714,
+        "temperature_c": -3.3573743979983828,
+        "vehicle_age_years": 0.0,
+        "distance_km": 192.1750239264356,
+        "soc_start": 29.33302482996651,
+        "energy_consumed_kwh": 11.925937920907419
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 29.199086932973444,
+        "temperature_c": 29.9393328525626,
+        "vehicle_age_years": 0.0,
+        "distance_km": 183.59406868176197,
+        "soc_start": 51.557809348746055,
+        "energy_consumed_kwh": 32.64266713861244
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 120.51063276857299,
+        "charging_rate_kw": 16.93561005158484,
+        "temperature_c": -1.9661190849100798,
+        "vehicle_age_years": 0.0,
+        "distance_km": 139.0348046627528,
+        "soc_start": 70.75160734375731,
+        "energy_consumed_kwh": 68.82528250979368
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 36.4930549563118,
+        "temperature_c": 11.729181747951497,
+        "vehicle_age_years": 5.0,
+        "distance_km": 77.26928192967245,
+        "soc_start": 18.871321859533694,
+        "energy_consumed_kwh": 65.89172326762375
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 28.461752587529453,
+        "temperature_c": 18.12959243719743,
+        "vehicle_age_years": 6.0,
+        "distance_km": 134.38465833280895,
+        "soc_start": 72.52185208494849,
+        "energy_consumed_kwh": 59.781219876480165
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 48.78868465608588,
+        "temperature_c": 12.8704939724941,
+        "vehicle_age_years": 2.0,
+        "distance_km": 99.54258330686339,
+        "soc_start": 77.00681784966234,
+        "energy_consumed_kwh": 60.41010374511423
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 18.209034298086348,
+        "temperature_c": 21.749940963028866,
+        "vehicle_age_years": 3.0,
+        "distance_km": 114.54068138039771,
+        "soc_start": 83.64021009068946,
+        "energy_consumed_kwh": 22.275712407676338
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 43.00986974325926,
+        "temperature_c": 1.0811829646770441,
+        "vehicle_age_years": 3.0,
+        "distance_km": 199.63810211952105,
+        "soc_start": 70.2479743817307,
+        "energy_consumed_kwh": 29.01396645530415
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 143.475209744922,
+        "charging_rate_kw": 5.130814495751761,
+        "temperature_c": 13.410154828640618,
+        "vehicle_age_years": 7.0,
+        "distance_km": 35.083629466205295,
+        "soc_start": 85.1884767115091,
+        "energy_consumed_kwh": 47.086336000396706
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 21.269704738274807,
+        "temperature_c": 39.80240624595091,
+        "vehicle_age_years": 2.0,
+        "distance_km": 263.7448790437271,
+        "soc_start": 17.451240723590125,
+        "energy_consumed_kwh": 56.821352470096684
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 10.189286767076991,
+        "charging_rate_kw": 28.59630646268833,
+        "temperature_c": 2.79084416712824,
+        "vehicle_age_years": 4.0,
+        "distance_km": 149.95694947215446,
+        "soc_start": 18.284235370776763,
+        "energy_consumed_kwh": 63.594271533713915
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 22.061905571983438,
+        "temperature_c": -2.996197814862219,
+        "vehicle_age_years": 5.0,
+        "distance_km": 32.237616796183886,
+        "soc_start": 48.97534202307546,
+        "energy_consumed_kwh": 47.904097938603606
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 43.16138737357078,
+        "temperature_c": 7.936964700801351,
+        "vehicle_age_years": 7.0,
+        "distance_km": 185.95215211232087,
+        "soc_start": 22.787479040018432,
+        "energy_consumed_kwh": 51.621690933773564
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 18.335547457945314,
+        "temperature_c": -4.842996855241946,
+        "vehicle_age_years": 2.0,
+        "distance_km": 188.46379155896125,
+        "soc_start": 25.723471642871232,
+        "energy_consumed_kwh": 70.62045542020036
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 41.877154150910954,
+        "temperature_c": -9.395365259699592,
+        "vehicle_age_years": 3.0,
+        "distance_km": 32.14595633492419,
+        "soc_start": 54.295606885386356,
+        "energy_consumed_kwh": 65.32285347166376
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 46.84858796557754,
+        "temperature_c": 21.080329879354103,
+        "vehicle_age_years": 3.0,
+        "distance_km": 151.5112088853607,
+        "soc_start": 62.179035549338636,
+        "energy_consumed_kwh": 30.63992013217628
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 32.933970559947454,
+        "temperature_c": 5.918020657224009,
+        "vehicle_age_years": 5.0,
+        "distance_km": 205.17024168903671,
+        "soc_start": 87.85226345162022,
+        "energy_consumed_kwh": 23.993961272428717
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 13.855271545417976,
+        "temperature_c": 26.694888257357164,
+        "vehicle_age_years": 7.0,
+        "distance_km": 46.22369185622132,
+        "soc_start": 37.87100088921708,
+        "energy_consumed_kwh": 18.549702417680706
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 42.83848279850626,
+        "temperature_c": 26.51176747373154,
+        "vehicle_age_years": 1.7554439348812885,
+        "distance_km": 3.824527427420319,
+        "soc_start": 12.793089168257392,
+        "energy_consumed_kwh": 46.454781153731524
+      },
+      "label": 85.96,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 16.59138266956989,
+        "temperature_c": 8.330158355627752,
+        "vehicle_age_years": 3.1001692352509234,
+        "distance_km": 99.9410054242442,
+        "soc_start": 52.796793274706474,
+        "energy_consumed_kwh": 103.81260559148436
+      },
+      "label": 75.2,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 20.452512310927712,
+        "temperature_c": 14.276251340517547,
+        "vehicle_age_years": 4.0,
+        "distance_km": 277.7232644606139,
+        "soc_start": 24.3852455984819,
+        "energy_consumed_kwh": 62.19283345936647
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 22.344440296603008,
+        "temperature_c": -0.0328724734896948,
+        "vehicle_age_years": 2.0,
+        "distance_km": 116.73098347986931,
+        "soc_start": 52.44295176374061,
+        "energy_consumed_kwh": 53.81020176075347
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 44.995222235265096,
+        "temperature_c": 25.12730864719061,
+        "vehicle_age_years": 0.0,
+        "distance_km": 140.3114417006873,
+        "soc_start": 46.58776207592858,
+        "energy_consumed_kwh": 56.69330149715174
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 10.761670592921948,
+        "temperature_c": 13.789659826810095,
+        "vehicle_age_years": 3.0,
+        "distance_km": 284.84580003977186,
+        "soc_start": 81.2848669802037,
+        "energy_consumed_kwh": 68.74906948767578
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 18.97988934768992,
+        "temperature_c": 29.11438026886234,
+        "vehicle_age_years": 5.0,
+        "distance_km": 155.71449022041207,
+        "soc_start": 60.727202748946425,
+        "energy_consumed_kwh": 30.80566200277668
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.60847805142836,
+        "charging_rate_kw": 30.388803808157416,
+        "temperature_c": 2.5942497264893376,
+        "vehicle_age_years": 7.0,
+        "distance_km": 227.72598022605166,
+        "soc_start": 29.666501463197683,
+        "energy_consumed_kwh": 73.09045077014305
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 46.581371183080236,
+        "temperature_c": 25.109612248202076,
+        "vehicle_age_years": 1.0,
+        "distance_km": 237.51102046374248,
+        "soc_start": 23.69485787229742,
+        "energy_consumed_kwh": 26.992344080966546
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 13.2879240552999,
+        "temperature_c": 1.2019821663508825,
+        "vehicle_age_years": 3.0,
+        "distance_km": 230.3190328881203,
+        "soc_start": 88.60942030171464,
+        "energy_consumed_kwh": 6.9381938340043
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 13.372949045558247,
+        "temperature_c": 34.95455887605409,
+        "vehicle_age_years": 6.0,
+        "distance_km": 217.91571614184764,
+        "soc_start": 14.364249190360638,
+        "energy_consumed_kwh": 30.036118378192803
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 47.84255660041194,
+        "temperature_c": 34.297789398053226,
+        "vehicle_age_years": 7.0,
+        "distance_km": 156.87665110401693,
+        "soc_start": 35.421950002135304,
+        "energy_consumed_kwh": 45.71947918248383
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 25.399493636182896,
+        "temperature_c": 15.605058979984308,
+        "vehicle_age_years": 4.0,
+        "distance_km": 61.04731008834905,
+        "soc_start": 76.8199763212987,
+        "energy_consumed_kwh": 23.1470476755872
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.63693124756141,
+        "charging_rate_kw": 29.208426798948363,
+        "temperature_c": 37.52882264494277,
+        "vehicle_age_years": 0.0,
+        "distance_km": 50.413024895600245,
+        "soc_start": 85.9024619599349,
+        "energy_consumed_kwh": 68.25299905062542
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 42.945683367847664,
+        "temperature_c": 38.87241151330905,
+        "vehicle_age_years": 1.0,
+        "distance_km": 164.02863705100555,
+        "soc_start": 95.79218803476925,
+        "energy_consumed_kwh": 70.06077676219795
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 27.773067432070523,
+        "temperature_c": -4.373660484360055,
+        "vehicle_age_years": 2.0,
+        "distance_km": 246.2943567109018,
+        "soc_start": 55.80982585519321,
+        "energy_consumed_kwh": 54.62699762686274
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 22.743966622605768,
+        "temperature_c": 28.898031697778833,
+        "vehicle_age_years": 5.0,
+        "distance_km": 193.00361520889265,
+        "soc_start": 59.93105266224815,
+        "energy_consumed_kwh": 26.615202038752912
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 39.75364156728047,
+        "temperature_c": -3.176426468742463,
+        "vehicle_age_years": 5.0,
+        "distance_km": 53.087758941570144,
+        "soc_start": 76.76630833937877,
+        "energy_consumed_kwh": 41.58671280364108
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 33.63605071304322,
+        "temperature_c": 22.189261165233205,
+        "vehicle_age_years": 7.0,
+        "distance_km": 10.028295172958789,
+        "soc_start": 14.367222164095725,
+        "energy_consumed_kwh": 19.898798951085436
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 43.49684995974235,
+        "temperature_c": 36.03515006018003,
+        "vehicle_age_years": 0.0,
+        "distance_km": 172.29357704315214,
+        "soc_start": 41.89272736540871,
+        "energy_consumed_kwh": 15.342120681093242
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 35.41810599547556,
+        "temperature_c": 21.276982361679874,
+        "vehicle_age_years": 0.0,
+        "distance_km": 149.93485696789244,
+        "soc_start": 45.88552782646099,
+        "energy_consumed_kwh": 41.57891512365271
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 32.30310225795641,
+        "temperature_c": 8.199106994886627,
+        "vehicle_age_years": 4.0,
+        "distance_km": 180.45290646076873,
+        "soc_start": 42.99230053892738,
+        "energy_consumed_kwh": 29.697898464844947
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 42.51413254693079,
+        "temperature_c": 18.959555818266917,
+        "vehicle_age_years": 1.0,
+        "distance_km": 80.82729730659933,
+        "soc_start": 18.320679124713575,
+        "energy_consumed_kwh": 65.75133335346975
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 10.481223831096187,
+        "temperature_c": 38.452027220707436,
+        "vehicle_age_years": 5.0,
+        "distance_km": 223.26017562434015,
+        "soc_start": 70.98136180299576,
+        "energy_consumed_kwh": 46.5117702649118
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 25.605977791670558,
+        "temperature_c": 4.719933351279762,
+        "vehicle_age_years": 5.0,
+        "distance_km": 207.67198392828075,
+        "soc_start": 65.22042875296964,
+        "energy_consumed_kwh": 53.83827205577136
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 18.561165291353888,
+        "temperature_c": 5.264035651558466,
+        "vehicle_age_years": 7.0,
+        "distance_km": 127.33484113475909,
+        "soc_start": 42.52683279726473,
+        "energy_consumed_kwh": 5.614874084822165
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 14.167129141388296,
+        "temperature_c": -1.7144756464186806,
+        "vehicle_age_years": 5.0,
+        "distance_km": 50.619867125485854,
+        "soc_start": 78.36258956686292,
+        "energy_consumed_kwh": 71.12558827151543
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 38.13906947158999,
+        "temperature_c": 13.919159881889573,
+        "vehicle_age_years": 2.044744282084336,
+        "distance_km": 295.9873020763941,
+        "soc_start": 11.083545913952166,
+        "energy_consumed_kwh": 63.83060874636528
+      },
+      "label": 83.64,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 34.24176571321428,
+        "temperature_c": -4.1195194040118865,
+        "vehicle_age_years": 7.0,
+        "distance_km": 29.975992923414776,
+        "soc_start": 63.04816280361352,
+        "energy_consumed_kwh": 58.7914423257815
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 19.413529706676293,
+        "temperature_c": -1.5247863712947982,
+        "vehicle_age_years": 1.087110727705426,
+        "distance_km": 254.269483754404,
+        "soc_start": 22.320229882583984,
+        "energy_consumed_kwh": 36.3229254401527
+      },
+      "label": 91.3,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 39.459358758943125,
+        "temperature_c": 26.153668674740423,
+        "vehicle_age_years": 3.0,
+        "distance_km": 161.19607009381224,
+        "soc_start": 73.79002998161442,
+        "energy_consumed_kwh": 65.89861180142826
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 6.792363387650859,
+        "temperature_c": -8.037420442484514,
+        "vehicle_age_years": 1.0,
+        "distance_km": 244.03178287529258,
+        "soc_start": 10.86844432855906,
+        "energy_consumed_kwh": 41.27067550637497
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 21.76519335517244,
+        "temperature_c": -2.0946210880551615,
+        "vehicle_age_years": 3.0,
+        "distance_km": 73.21338218607342,
+        "soc_start": 43.73232054574708,
+        "energy_consumed_kwh": 39.469966222866766
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 41.18046160227635,
+        "temperature_c": 7.541240675992974,
+        "vehicle_age_years": 1.0,
+        "distance_km": 156.08425441646537,
+        "soc_start": 28.835198378086417,
+        "energy_consumed_kwh": 10.155212817693824
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 11.40879036693086,
+        "temperature_c": 11.102328786021516,
+        "vehicle_age_years": 5.0,
+        "distance_km": 272.2977116361246,
+        "soc_start": 70.62591952243636,
+        "energy_consumed_kwh": 36.50542214391232
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.3517607544628,
+        "temperature_c": 15.723862443784828,
+        "vehicle_age_years": 6.0,
+        "distance_km": 18.72980948047723,
+        "soc_start": 27.334576091679416,
+        "energy_consumed_kwh": 47.01289216755188
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 25.276272098020304,
+        "temperature_c": 36.1588452222002,
+        "vehicle_age_years": 2.0,
+        "distance_km": 253.84601558086374,
+        "soc_start": 36.21438191699346,
+        "energy_consumed_kwh": 73.61974524719619
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 20.939420194012936,
+        "temperature_c": 5.413055945134586,
+        "vehicle_age_years": 2.0,
+        "distance_km": 207.7363874429275,
+        "soc_start": 27.062953435914476,
+        "energy_consumed_kwh": 34.66100210237426
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 9.761640088024613,
+        "temperature_c": 26.351977889667808,
+        "vehicle_age_years": 7.0,
+        "distance_km": 269.37707955527657,
+        "soc_start": 53.306406203657275,
+        "energy_consumed_kwh": 29.379323254386147
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 30.659343811920305,
+        "temperature_c": 34.63224698985543,
+        "vehicle_age_years": 6.0,
+        "distance_km": 205.55311883516646,
+        "soc_start": 30.09851054515697,
+        "energy_consumed_kwh": 60.12372287224216
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 32.410287611863005,
+        "temperature_c": -1.336590181200517,
+        "vehicle_age_years": 7.0,
+        "distance_km": 149.70578317047477,
+        "soc_start": 19.340322880931105,
+        "energy_consumed_kwh": 70.04034616527528
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 26.50464266178465,
+        "temperature_c": 7.501798525313916,
+        "vehicle_age_years": 1.0,
+        "distance_km": 200.1795138076923,
+        "soc_start": 57.960786353751544,
+        "energy_consumed_kwh": 20.45364201596675
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 43.967390638822295,
+        "temperature_c": 8.223442942415684,
+        "vehicle_age_years": 5.0,
+        "distance_km": 181.04511627258617,
+        "soc_start": 65.23313127161703,
+        "energy_consumed_kwh": 57.03840397041998
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 6.558201297307768,
+        "temperature_c": -9.825102181584935,
+        "vehicle_age_years": 7.0,
+        "distance_km": 108.59214187986379,
+        "soc_start": 51.16789790994329,
+        "energy_consumed_kwh": 34.38288065090023
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 16.98014038038876,
+        "temperature_c": 15.356177546750448,
+        "vehicle_age_years": 6.0,
+        "distance_km": 136.9591350117216,
+        "soc_start": 94.43594757344397,
+        "energy_consumed_kwh": 37.42669941100735
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 25.576110372241647,
+        "temperature_c": 27.956887340129533,
+        "vehicle_age_years": 5.0,
+        "distance_km": 145.7988862804015,
+        "soc_start": 25.388197818588498,
+        "energy_consumed_kwh": 28.079314202327822
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 7.703067645420777,
+        "temperature_c": 12.168906712780107,
+        "vehicle_age_years": 0.0,
+        "distance_km": 135.99532137096764,
+        "soc_start": 71.58529275501547,
+        "energy_consumed_kwh": 60.63745352964948
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 23.97348713940437,
+        "temperature_c": 17.738683088849037,
+        "vehicle_age_years": 1.0,
+        "distance_km": 86.38453002432225,
+        "soc_start": 18.39015106792008,
+        "energy_consumed_kwh": 73.31591786048328
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 15.490027606541537,
+        "temperature_c": 1.901738829206813,
+        "vehicle_age_years": 4.0,
+        "distance_km": 112.92221694075553,
+        "soc_start": 33.809680164077925,
+        "energy_consumed_kwh": 62.86785794966232
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 10.600401685765078,
+        "temperature_c": 9.89320650990976,
+        "vehicle_age_years": 6.817970665440446,
+        "distance_km": 89.60070046131247,
+        "soc_start": 72.22602916274909,
+        "energy_consumed_kwh": 46.29599734888577
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 23.65002521190977,
+        "temperature_c": 21.52620216393159,
+        "vehicle_age_years": 5.0,
+        "distance_km": 103.9155587984807,
+        "soc_start": 63.10375471060478,
+        "energy_consumed_kwh": 71.97510217973728
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 9.189077428815661,
+        "temperature_c": 12.043850042390211,
+        "vehicle_age_years": 7.0,
+        "distance_km": 74.38130924687583,
+        "soc_start": 86.49476539812044,
+        "energy_consumed_kwh": 21.4227595329351
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 3.593327631512293,
+        "temperature_c": 32.06059184530071,
+        "vehicle_age_years": 2.0,
+        "distance_km": 177.81252667841642,
+        "soc_start": 40.476013818815545,
+        "energy_consumed_kwh": 26.29222408241131
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 29.626242800392035,
+        "temperature_c": 0.3746593402422871,
+        "vehicle_age_years": 7.0,
+        "distance_km": 107.74848344345335,
+        "soc_start": 47.22523795880807,
+        "energy_consumed_kwh": 19.362005744810176
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 1.5365397434796702,
+        "charging_rate_kw": 42.38027139821144,
+        "temperature_c": 13.67513571087282,
+        "vehicle_age_years": 5.0,
+        "distance_km": 162.18850148381796,
+        "soc_start": 74.93082559717652,
+        "energy_consumed_kwh": 23.52224181213657
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 34.04003943718871,
+        "temperature_c": 22.59449152426216,
+        "vehicle_age_years": 5.0,
+        "distance_km": 232.24489413203278,
+        "soc_start": 66.85003619045646,
+        "energy_consumed_kwh": 44.95337165292389
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 30.774973074751962,
+        "temperature_c": 9.344345738493068,
+        "vehicle_age_years": 7.0,
+        "distance_km": 274.27158785342897,
+        "soc_start": 87.71511040292735,
+        "energy_consumed_kwh": 14.0255330182289
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 20.317417967928414,
+        "temperature_c": 20.678423517606525,
+        "vehicle_age_years": 7.0,
+        "distance_km": 204.08251867131,
+        "soc_start": 64.87936303535116,
+        "energy_consumed_kwh": 21.76458667261335
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 26.13523981227178,
+        "temperature_c": 21.078461325587387,
+        "vehicle_age_years": 3.0,
+        "distance_km": 141.16813211268564,
+        "soc_start": 17.369808651685883,
+        "energy_consumed_kwh": 43.51234710063929
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 12.802289341306434,
+        "temperature_c": 4.700463191367502,
+        "vehicle_age_years": 6.0,
+        "distance_km": 87.25015523286773,
+        "soc_start": 70.8802102208019,
+        "energy_consumed_kwh": 58.773145516516124
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 37.24345801158542,
+        "temperature_c": 21.519498317087468,
+        "vehicle_age_years": 4.0,
+        "distance_km": 268.54743343794433,
+        "soc_start": 39.360139370470705,
+        "energy_consumed_kwh": 62.91943734898983
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 34.39817877514721,
+        "temperature_c": -4.9925236650444536,
+        "vehicle_age_years": 1.0,
+        "distance_km": 135.72503239178508,
+        "soc_start": 62.06441940214671,
+        "energy_consumed_kwh": 68.06928828300951
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 9.812104577010492,
+        "temperature_c": 39.93000319748301,
+        "vehicle_age_years": 1.0,
+        "distance_km": 99.2324060472996,
+        "soc_start": 40.40203633436858,
+        "energy_consumed_kwh": 8.527929006106092
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 18.899703255699652,
+        "temperature_c": 21.293106505425005,
+        "vehicle_age_years": 2.0,
+        "distance_km": 143.56103568738638,
+        "soc_start": 54.97882573715829,
+        "energy_consumed_kwh": 10.420110802780291
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 24.021573950806896,
+        "temperature_c": -5.8298332516714595,
+        "vehicle_age_years": 6.0,
+        "distance_km": 264.7324232132674,
+        "soc_start": 80.99232289671558,
+        "energy_consumed_kwh": 34.72671289756062
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 35.82084576495499,
+        "temperature_c": 16.510934643362084,
+        "vehicle_age_years": 3.0,
+        "distance_km": 125.25857779948791,
+        "soc_start": 68.59711303472281,
+        "energy_consumed_kwh": 5.583797770172537
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 37.68861950326764,
+        "temperature_c": -1.6555380510473867,
+        "vehicle_age_years": 6.0,
+        "distance_km": 89.81454216199296,
+        "soc_start": 12.17065798944529,
+        "energy_consumed_kwh": 27.854210453973398
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.34746081473556,
+        "temperature_c": 30.188439164870246,
+        "vehicle_age_years": 1.0,
+        "distance_km": 106.93964742381894,
+        "soc_start": 71.91664638264722,
+        "energy_consumed_kwh": 55.30273056094204
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 7.7145168539581865,
+        "charging_rate_kw": 11.093063212886495,
+        "temperature_c": 17.39682580808664,
+        "vehicle_age_years": 1.0,
+        "distance_km": 144.45037199616232,
+        "soc_start": 43.356673917181936,
+        "energy_consumed_kwh": 36.229412760644024
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 14.898359207134598,
+        "temperature_c": 31.563179987120684,
+        "vehicle_age_years": 11.688592472503668,
+        "distance_km": 258.28967829086355,
+        "soc_start": 40.359112454871244,
+        "energy_consumed_kwh": 51.16176878981536
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 46.62351208569203,
+        "temperature_c": 27.292127036877666,
+        "vehicle_age_years": 3.697095409121533,
+        "distance_km": 92.40439692859525,
+        "soc_start": 19.646897289458796,
+        "energy_consumed_kwh": 6.0651617128073525
+      },
+      "label": 70.42,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 45.69740274799046,
+        "temperature_c": 3.262503247831619,
+        "vehicle_age_years": 3.0,
+        "distance_km": 177.20888715663634,
+        "soc_start": 72.90390528618417,
+        "energy_consumed_kwh": 74.107522176834
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 11.767850572118778,
+        "temperature_c": 0.534567342304225,
+        "vehicle_age_years": 7.0,
+        "distance_km": 99.18733328029695,
+        "soc_start": 31.093089045581024,
+        "energy_consumed_kwh": 40.319061981322655
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 43.12040329879288,
+        "temperature_c": -8.630011423407993,
+        "vehicle_age_years": 2.0,
+        "distance_km": 14.590878771397236,
+        "soc_start": 71.93335080549818,
+        "energy_consumed_kwh": 39.67667007009968
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.09365177234676,
+        "temperature_c": -6.052887853779801,
+        "vehicle_age_years": 3.0,
+        "distance_km": 272.2871845279422,
+        "soc_start": 58.39027846003522,
+        "energy_consumed_kwh": 25.12116466546159
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 11.581744386043408,
+        "temperature_c": 28.333515050512403,
+        "vehicle_age_years": 6.0,
+        "distance_km": 18.845805451601464,
+        "soc_start": 69.85875931465557,
+        "energy_consumed_kwh": 31.187028992431234
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 33.78877718721532,
+        "temperature_c": 12.918301551871778,
+        "vehicle_age_years": 3.0,
+        "distance_km": 17.760082882891425,
+        "soc_start": 67.94619206512169,
+        "energy_consumed_kwh": 42.79819075847415
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 30.14418743877484,
+        "temperature_c": 0.7865344167262283,
+        "vehicle_age_years": 0.0,
+        "distance_km": 20.65567779666782,
+        "soc_start": 63.10434295286288,
+        "energy_consumed_kwh": 77.8613161281733
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 22.456705662546888,
+        "temperature_c": -7.663751387811887,
+        "vehicle_age_years": 4.0,
+        "distance_km": 75.49880921364911,
+        "soc_start": 67.71925020552159,
+        "energy_consumed_kwh": 16.111111317085957
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 11.595383272812683,
+        "temperature_c": 4.854309132964509,
+        "vehicle_age_years": 0.0,
+        "distance_km": 49.68197927195274,
+        "soc_start": 53.35718299408809,
+        "energy_consumed_kwh": 8.75167001874184
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 30.12670190711655,
+        "temperature_c": 16.005488635856537,
+        "vehicle_age_years": 3.0,
+        "distance_km": 249.5432916448901,
+        "soc_start": 32.61214548046976,
+        "energy_consumed_kwh": 67.88757428323595
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 7.6003728476996635,
+        "temperature_c": 2.765501689562982,
+        "vehicle_age_years": 1.0,
+        "distance_km": 57.95464278230427,
+        "soc_start": 40.234728507604245,
+        "energy_consumed_kwh": 54.91320565679101
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 140.7620615787216,
+        "charging_rate_kw": 46.15424524259217,
+        "temperature_c": -10.724769747493202,
+        "vehicle_age_years": 6.0,
+        "distance_km": 221.89677790062672,
+        "soc_start": 37.69074850745198,
+        "energy_consumed_kwh": 60.08034819074353
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 41.31627181654345,
+        "temperature_c": -2.209581899400622,
+        "vehicle_age_years": 1.0,
+        "distance_km": 279.5167461006761,
+        "soc_start": 17.25267949273368,
+        "energy_consumed_kwh": 61.56734925121615
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 35.21951803944553,
+        "temperature_c": -4.123444524751449,
+        "vehicle_age_years": 5.0,
+        "distance_km": 32.48464488487498,
+        "soc_start": 62.122374829200595,
+        "energy_consumed_kwh": 51.492346382026085
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 5.5921960583273105,
+        "temperature_c": 15.806771803246086,
+        "vehicle_age_years": 1.0,
+        "distance_km": 50.905417887353146,
+        "soc_start": 50.33758928795222,
+        "energy_consumed_kwh": 55.78259572680235
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.85002716229796,
+        "charging_rate_kw": 7.32241853947061,
+        "temperature_c": 5.664612657982779,
+        "vehicle_age_years": 7.0,
+        "distance_km": 23.618197963528246,
+        "soc_start": 34.2183195177556,
+        "energy_consumed_kwh": 37.05562159282365
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 14.434749406529795,
+        "temperature_c": 27.275239235826135,
+        "vehicle_age_years": 4.0,
+        "distance_km": 21.99550223759907,
+        "soc_start": 58.89235921810404,
+        "energy_consumed_kwh": 74.93688348332599
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 15.014209056333913,
+        "temperature_c": 2.5905175226939665,
+        "vehicle_age_years": 5.0,
+        "distance_km": 139.54353300381808,
+        "soc_start": 88.5078973669725,
+        "energy_consumed_kwh": 54.884964513779416
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 30.404829816531535,
+        "temperature_c": 16.052798431611368,
+        "vehicle_age_years": 2.0,
+        "distance_km": 179.43171434764614,
+        "soc_start": 11.012541616949001,
+        "energy_consumed_kwh": 55.655332785147046
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 29.990454827284875,
+        "temperature_c": 12.987388532512288,
+        "vehicle_age_years": 3.0,
+        "distance_km": 256.2701112846916,
+        "soc_start": 40.21207606713552,
+        "energy_consumed_kwh": 72.95818104852783
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 12.888588103956373,
+        "temperature_c": 19.103153183928203,
+        "vehicle_age_years": 1.0,
+        "distance_km": 114.18957947305799,
+        "soc_start": 31.16795633197735,
+        "energy_consumed_kwh": 56.52037667500273
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 38.14908200155225,
+        "temperature_c": -0.49507660297616063,
+        "vehicle_age_years": 1.0,
+        "distance_km": 85.38239413894216,
+        "soc_start": 58.31902030658071,
+        "energy_consumed_kwh": 36.26259614170952
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 26.691946660730032,
+        "temperature_c": 15.612401539347978,
+        "vehicle_age_years": 3.0,
+        "distance_km": 252.93675896839338,
+        "soc_start": 42.492679191266,
+        "energy_consumed_kwh": 51.737131530843484
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 49.46138235507399,
+        "temperature_c": 19.092544204723293,
+        "vehicle_age_years": 6.0,
+        "distance_km": 260.142973509451,
+        "soc_start": 12.865887005646801,
+        "energy_consumed_kwh": 30.576281983940227
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 31.907713854552647,
+        "temperature_c": 14.518246321857061,
+        "vehicle_age_years": 4.0,
+        "distance_km": 272.1976953092468,
+        "soc_start": 54.260734972954396,
+        "energy_consumed_kwh": 13.089183211513587
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.02319923832744,
+        "charging_rate_kw": 36.09228626089304,
+        "temperature_c": 39.54195635879396,
+        "vehicle_age_years": 5.0,
+        "distance_km": 145.16170404514259,
+        "soc_start": 13.795797988804015,
+        "energy_consumed_kwh": 152.23875799921288
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 29.900892186844303,
+        "temperature_c": 33.35723142905603,
+        "vehicle_age_years": 3.0,
+        "distance_km": 74.53081530847757,
+        "soc_start": 15.751627241160557,
+        "energy_consumed_kwh": 51.89127939896392
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 9.938104195050748,
+        "temperature_c": 32.05147860509171,
+        "vehicle_age_years": 4.0,
+        "distance_km": 232.77720198468094,
+        "soc_start": 14.671390433943747,
+        "energy_consumed_kwh": 39.152310092112536
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 29.5358934103807,
+        "temperature_c": 35.50986903982761,
+        "vehicle_age_years": 0.0,
+        "distance_km": 30.1575860269307,
+        "soc_start": 45.5548487819631,
+        "energy_consumed_kwh": 26.22106760279984
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 43.481763991617484,
+        "temperature_c": 8.656254905347547,
+        "vehicle_age_years": 6.0,
+        "distance_km": 27.77005155169898,
+        "soc_start": 76.46236262295349,
+        "energy_consumed_kwh": 33.47231506142258
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.35817416504027,
+        "charging_rate_kw": 6.335184959518231,
+        "temperature_c": 23.156295052749954,
+        "vehicle_age_years": 4.0,
+        "distance_km": 184.147163551874,
+        "soc_start": 81.4838864423626,
+        "energy_consumed_kwh": 11.288428850336079
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 29.146260753872603,
+        "temperature_c": 6.316303249641685,
+        "vehicle_age_years": 3.0,
+        "distance_km": 32.91297835998529,
+        "soc_start": 17.39679727382058,
+        "energy_consumed_kwh": 25.32972426052728
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 12.795542776205027,
+        "temperature_c": 24.910424822617003,
+        "vehicle_age_years": 7.0,
+        "distance_km": 222.15898643906218,
+        "soc_start": 28.92874740727782,
+        "energy_consumed_kwh": 79.3573768668566
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 34.08989660984318,
+        "temperature_c": -4.1972690598795905,
+        "vehicle_age_years": 5.0,
+        "distance_km": 119.0242607820041,
+        "soc_start": 11.573007198070542,
+        "energy_consumed_kwh": 54.31762293384593
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 41.21937464677459,
+        "temperature_c": 37.066599420258676,
+        "vehicle_age_years": 6.0,
+        "distance_km": 240.3066830315123,
+        "soc_start": 59.28849653623039,
+        "energy_consumed_kwh": 32.598880789009
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 5.44374481066405,
+        "temperature_c": -0.13505800507641297,
+        "vehicle_age_years": 4.0,
+        "distance_km": 272.91776838023407,
+        "soc_start": 60.18022304149606,
+        "energy_consumed_kwh": 0.04577184227737026
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 42.39327710410479,
+        "temperature_c": 21.30411003123327,
+        "vehicle_age_years": 6.0,
+        "distance_km": 191.76655201724884,
+        "soc_start": 38.328355731026036,
+        "energy_consumed_kwh": 63.991170227375775
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 104.000273060206,
+        "charging_rate_kw": 38.53754360884597,
+        "temperature_c": -9.603661066589567,
+        "vehicle_age_years": 7.0,
+        "distance_km": 38.46487944542493,
+        "soc_start": 19.680300050248473,
+        "energy_consumed_kwh": 65.93421330641783
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 8.125454971256818,
+        "temperature_c": -3.3862931111228143,
+        "vehicle_age_years": 7.0,
+        "distance_km": 67.03337523282886,
+        "soc_start": 23.244547367871434,
+        "energy_consumed_kwh": 77.63851676623986
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 17.874744589794915,
+        "temperature_c": 6.800062381671708,
+        "vehicle_age_years": 2.0,
+        "distance_km": 17.094461724531058,
+        "soc_start": 89.97564874838083,
+        "energy_consumed_kwh": 53.956981698209404
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 188.634964592257,
+        "charging_rate_kw": 2.2461345077917296,
+        "temperature_c": -6.553346941294854,
+        "vehicle_age_years": 1.0,
+        "distance_km": 60.01452138704593,
+        "soc_start": 33.053741323794696,
+        "energy_consumed_kwh": 49.363214910123695
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 36.36127862677181,
+        "temperature_c": 31.4781936755052,
+        "vehicle_age_years": 7.0,
+        "distance_km": 294.4762263745805,
+        "soc_start": 46.38733766985727,
+        "energy_consumed_kwh": 54.36218573947502
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 14.992418440021032,
+        "temperature_c": -4.27530532725275,
+        "vehicle_age_years": 7.0,
+        "distance_km": 11.742221498100374,
+        "soc_start": 81.59731029150917,
+        "energy_consumed_kwh": 6.443672288667047
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 23.693078848689176,
+        "temperature_c": 28.843991321528698,
+        "vehicle_age_years": 1.0389732985088886,
+        "distance_km": 293.58197659030856,
+        "soc_start": 18.51710428701412,
+        "energy_consumed_kwh": 28.215649389656605
+      },
+      "label": 91.69,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 19.16718327808918,
+        "temperature_c": 37.90202120519155,
+        "vehicle_age_years": 5.0,
+        "distance_km": 52.38329858962317,
+        "soc_start": 89.03952891250614,
+        "energy_consumed_kwh": 42.2855347814151
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 18.562655792808293,
+        "temperature_c": -0.9664435909539097,
+        "vehicle_age_years": 5.0,
+        "distance_km": 43.027865145970566,
+        "soc_start": 88.39122579769648,
+        "energy_consumed_kwh": 62.0462303749696
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.09247991035157,
+        "charging_rate_kw": 25.290644953249668,
+        "temperature_c": 31.48873207120465,
+        "vehicle_age_years": 6.0,
+        "distance_km": 142.0756471546524,
+        "soc_start": 44.01342983894161,
+        "energy_consumed_kwh": 66.70625110738425
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 22.324697107017332,
+        "temperature_c": 30.519921506155313,
+        "vehicle_age_years": 2.0,
+        "distance_km": 104.37578948385699,
+        "soc_start": 53.517570863816445,
+        "energy_consumed_kwh": 18.433946311771635
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 42.7873881539225,
+        "temperature_c": 29.595187959640768,
+        "vehicle_age_years": 0.0,
+        "distance_km": 221.59178838790848,
+        "soc_start": 65.93591222057864,
+        "energy_consumed_kwh": 50.48944002879003
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 37.934228218583556,
+        "temperature_c": 27.009720956480884,
+        "vehicle_age_years": 2.0,
+        "distance_km": 56.710887715843405,
+        "soc_start": 121.84728070504357,
+        "energy_consumed_kwh": 49.93390136150811
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 4.940614327420578,
+        "temperature_c": 35.40159928223272,
+        "vehicle_age_years": 3.0,
+        "distance_km": 155.73313807014296,
+        "soc_start": 47.979009198984066,
+        "energy_consumed_kwh": 34.86162084385812
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 18.622976474713525,
+        "temperature_c": 23.76365989768123,
+        "vehicle_age_years": 4.0,
+        "distance_km": 36.42403856619721,
+        "soc_start": 49.92314428758909,
+        "energy_consumed_kwh": 53.71328701264429
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 30.00242931333289,
+        "temperature_c": 1.9407538506589646,
+        "vehicle_age_years": 4.023079648703627,
+        "distance_km": 151.41293241570327,
+        "soc_start": 77.23373540326355,
+        "energy_consumed_kwh": 28.253031404856074
+      },
+      "label": 67.82,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 28.756620252349073,
+        "temperature_c": 11.888933956267842,
+        "vehicle_age_years": 5.0,
+        "distance_km": 66.20030823829111,
+        "soc_start": 27.76605599551436,
+        "energy_consumed_kwh": 69.21096127147155
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.81598720004838,
+        "charging_rate_kw": 5.579750455304233,
+        "temperature_c": 5.097228917849462,
+        "vehicle_age_years": 6.0,
+        "distance_km": 155.1842358249909,
+        "soc_start": 21.2447917415735,
+        "energy_consumed_kwh": 34.60220459389867
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 34.171979726515815,
+        "temperature_c": 22.206196007205108,
+        "vehicle_age_years": 3.0,
+        "distance_km": 265.8371724474847,
+        "soc_start": 77.30425196618461,
+        "energy_consumed_kwh": 34.43336364069278
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 47.979544983079506,
+        "temperature_c": 18.748822095579296,
+        "vehicle_age_years": 5.0,
+        "distance_km": 169.8323958415097,
+        "soc_start": 17.075691755127025,
+        "energy_consumed_kwh": 21.70612432843914
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 38.82106904731582,
+        "temperature_c": 8.223655111977719,
+        "vehicle_age_years": 1.0,
+        "distance_km": 178.01073812685402,
+        "soc_start": 78.17670282487093,
+        "energy_consumed_kwh": 35.17106494410814
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 45.67133508007575,
+        "temperature_c": 34.188574175592194,
+        "vehicle_age_years": 3.0,
+        "distance_km": 265.97930278490657,
+        "soc_start": 79.22097833054445,
+        "energy_consumed_kwh": 29.680806266752402
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 40.44452192617549,
+        "temperature_c": -5.068598813987704,
+        "vehicle_age_years": 7.0,
+        "distance_km": 211.55286802898283,
+        "soc_start": 46.21839948967462,
+        "energy_consumed_kwh": 15.898734225246953
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 46.12968887401014,
+        "temperature_c": 29.45421239656008,
+        "vehicle_age_years": 5.0,
+        "distance_km": 125.7627771543212,
+        "soc_start": 31.467845379883972,
+        "energy_consumed_kwh": 41.15701390960357
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 12.27483650878592,
+        "temperature_c": 38.58891646031902,
+        "vehicle_age_years": 7.0,
+        "distance_km": 119.34464298476547,
+        "soc_start": 86.60875865026834,
+        "energy_consumed_kwh": 13.819971244902632
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 5.2652032847754455,
+        "temperature_c": -9.824574766427832,
+        "vehicle_age_years": 2.0,
+        "distance_km": 45.400598655642405,
+        "soc_start": 32.17142732636586,
+        "energy_consumed_kwh": 5.163807087916792
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 34.26166814743536,
+        "temperature_c": 8.412581609973788,
+        "vehicle_age_years": 0.0,
+        "distance_km": 54.13870978325318,
+        "soc_start": 59.491108008673685,
+        "energy_consumed_kwh": 72.31121635965684
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 14.892902778695783,
+        "temperature_c": 23.189455988804454,
+        "vehicle_age_years": 4.0,
+        "distance_km": 259.7179826676652,
+        "soc_start": 87.91245387496029,
+        "energy_consumed_kwh": 76.03768937793197
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 12.886573479546891,
+        "temperature_c": 31.35439387292225,
+        "vehicle_age_years": 6.0,
+        "distance_km": 60.328456319323436,
+        "soc_start": 89.03769769770815,
+        "energy_consumed_kwh": 9.793349071185581
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 37.46234418585593,
+        "temperature_c": 8.954126066691433,
+        "vehicle_age_years": 3.0,
+        "distance_km": 152.26221869616475,
+        "soc_start": 43.85148170771822,
+        "energy_consumed_kwh": 66.24653780691024
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 11.017996608332187,
+        "temperature_c": -2.645297430156881,
+        "vehicle_age_years": 2.0,
+        "distance_km": 216.5024785007296,
+        "soc_start": 76.66998194035097,
+        "energy_consumed_kwh": 8.28243853987389
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 23.771635495233188,
+        "temperature_c": 33.893571383819186,
+        "vehicle_age_years": 5.0,
+        "distance_km": 33.687799215282084,
+        "soc_start": 54.48146211687617,
+        "energy_consumed_kwh": 35.38265952853404
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 24.98401295415121,
+        "temperature_c": -7.647816773566554,
+        "vehicle_age_years": 0.0,
+        "distance_km": 27.716882849778493,
+        "soc_start": 23.173993641361665,
+        "energy_consumed_kwh": 37.52045250571513
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 7.243947955667937,
+        "temperature_c": -0.3367154696195218,
+        "vehicle_age_years": 3.0,
+        "distance_km": 107.30820591544425,
+        "soc_start": 22.710321135632327,
+        "energy_consumed_kwh": 48.84665066850152
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 12.54074292674547,
+        "temperature_c": 10.204876258349909,
+        "vehicle_age_years": 3.0,
+        "distance_km": 49.66563770855315,
+        "soc_start": 19.069365298758676,
+        "energy_consumed_kwh": 35.017606522824096
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 35.164034359851314,
+        "temperature_c": 4.59963282797691,
+        "vehicle_age_years": 7.0,
+        "distance_km": 277.0150898908713,
+        "soc_start": 41.081555230294626,
+        "energy_consumed_kwh": 18.120951026827235
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.16648846991009,
+        "charging_rate_kw": 35.239594294264535,
+        "temperature_c": 31.58905780067694,
+        "vehicle_age_years": 2.0,
+        "distance_km": 223.72002576711333,
+        "soc_start": 56.93067672987071,
+        "energy_consumed_kwh": 41.012920406290604
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 17.663341419791365,
+        "temperature_c": -4.137528822077404,
+        "vehicle_age_years": 0.0,
+        "distance_km": 236.73151676339566,
+        "soc_start": 68.71101928718994,
+        "energy_consumed_kwh": 49.66092549992548
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 18.819584772025628,
+        "temperature_c": -3.2446746450525836,
+        "vehicle_age_years": 3.0,
+        "distance_km": 190.20176564094433,
+        "soc_start": 24.122328324213527,
+        "energy_consumed_kwh": 23.942080345214407
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 21.383146368000144,
+        "temperature_c": 0.6693456361452217,
+        "vehicle_age_years": 5.0,
+        "distance_km": 262.12941582158567,
+        "soc_start": 27.571039314792376,
+        "energy_consumed_kwh": 14.11630705481829
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 39.95811626207474,
+        "temperature_c": -0.8868868986711951,
+        "vehicle_age_years": 5.0,
+        "distance_km": 111.69908224424638,
+        "soc_start": 59.77588685400556,
+        "energy_consumed_kwh": 11.321914132806011
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 40.776826988908375,
+        "temperature_c": 16.892296483696548,
+        "vehicle_age_years": 1.0,
+        "distance_km": 100.99005497784171,
+        "soc_start": 12.90517914685882,
+        "energy_consumed_kwh": 5.892835163588776
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 48.32123616672255,
+        "temperature_c": 3.171791758702938,
+        "vehicle_age_years": 6.561021126883453,
+        "distance_km": 29.674901099856857,
+        "soc_start": 26.450246517661633,
+        "energy_consumed_kwh": 60.83110355266755
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 23.40224119982806,
+        "temperature_c": 6.143677508852317,
+        "vehicle_age_years": 0.0,
+        "distance_km": 227.06293860285726,
+        "soc_start": 65.52770174811384,
+        "energy_consumed_kwh": 67.61464385497968
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.39309240675668,
+        "temperature_c": 0.7108576076491264,
+        "vehicle_age_years": 0.8451896205457747,
+        "distance_km": 17.954439564327608,
+        "soc_start": 39.91480209371115,
+        "energy_consumed_kwh": 61.93297987243194
+      },
+      "label": 93.24,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 37.73621870166026,
+        "temperature_c": -4.052803770997523,
+        "vehicle_age_years": 5.0,
+        "distance_km": 39.03998202246087,
+        "soc_start": 55.13436223435677,
+        "energy_consumed_kwh": 21.795382498227173
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 41.515196392009486,
+        "temperature_c": 3.8917272937508667,
+        "vehicle_age_years": 5.0,
+        "distance_km": 42.800627669240896,
+        "soc_start": 87.5435489892284,
+        "energy_consumed_kwh": 27.994930739365664
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 45.86383200819036,
+        "temperature_c": 23.6013697842573,
+        "vehicle_age_years": 5.0,
+        "distance_km": 69.72862342074428,
+        "soc_start": 71.30783710648447,
+        "energy_consumed_kwh": 54.82511333467084
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 9.025938583872836,
+        "temperature_c": 21.696951351475622,
+        "vehicle_age_years": 2.0,
+        "distance_km": 209.98356372165574,
+        "soc_start": 71.49380469579087,
+        "energy_consumed_kwh": 6.4323241702403315
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "BMW i3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 18.388011513893147,
+        "temperature_c": 34.02977464098818,
+        "vehicle_age_years": 4.0,
+        "distance_km": 164.3760222940225,
+        "soc_start": 31.45637484180004,
+        "energy_consumed_kwh": 68.18585286511737
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "BMW i3"
+    }
+  ]
+}

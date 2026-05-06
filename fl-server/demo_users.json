@@ -1,0 +1,54 @@
+{
+  "auto_create": true,
+  "description": "Demo users for Federated Learning system. Will be auto-created on first backend start.",
+  "users": [
+    {
+      "id": "user_001",
+      "name": "Tesla User",
+      "email": "tesla@example.com",
+      "vehicle_types": ["tesla"],
+      "password": "demo123",
+      "phone": "+1-800-TESLA-01"
+    },
+    {
+      "id": "user_002",
+      "name": "Hyundai User",
+      "email": "hyundai@example.com",
+      "vehicle_types": ["hyundai"],
+      "password": "demo123",
+      "phone": "+1-800-HYUNDAI-02"
+    },
+    {
+      "id": "user_003",
+      "name": "BMW User",
+      "email": "bmw@example.com",
+      "vehicle_types": ["bmw"],
+      "password": "demo123",
+      "phone": "+1-800-BMW-03"
+    },
+    {
+      "id": "user_004",
+      "name": "Chevy User",
+      "email": "chevy@example.com",
+      "vehicle_types": ["chevy"],
+      "password": "demo123",
+      "phone": "+1-800-CHEVY-04"
+    },
+    {
+      "id": "user_005",
+      "name": "Nissan User",
+      "email": "nissan@example.com",
+      "vehicle_types": ["nissan"],
+      "password": "demo123",
+      "phone": "+1-800-NISSAN-05"
+    },
+    {
+      "id": "user_006",
+      "name": "Multi Vehicle User",
+      "email": "multi@example.com",
+      "vehicle_types": ["chevy", "nissan"],
+      "password": "demo123",
+      "phone": "+1-800-MULTI-06"
+    }
+  ]
+}

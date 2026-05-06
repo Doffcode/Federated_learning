@@ -1,0 +1,3424 @@
+{
+  "vehicle_model": "Tesla Model 3",
+  "samples": 244,
+  "data_type": "real",
+  "source": "ev_charging_patterns.csv",
+  "data": [
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 20.49084604597367,
+        "temperature_c": 37.430356532255,
+        "vehicle_age_years": 0.0,
+        "distance_km": 280.8620709755801,
+        "soc_start": 55.51705087402344,
+        "energy_consumed_kwh": 42.638018191672884
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 49.71030696901287,
+        "temperature_c": 3.580839953900103,
+        "vehicle_age_years": 5.0,
+        "distance_km": 280.91546822652094,
+        "soc_start": 19.23313912730544,
+        "energy_consumed_kwh": 68.44712632026376
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 11.238538626794043,
+        "temperature_c": 35.977821918048456,
+        "vehicle_age_years": 4.0,
+        "distance_km": 173.47152650529225,
+        "soc_start": 65.48688658113335,
+        "energy_consumed_kwh": 27.60438468247694
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 7.651570046980447,
+        "temperature_c": 13.991597483206988,
+        "vehicle_age_years": 1.0,
+        "distance_km": 46.35755886056615,
+        "soc_start": 22.881466625938913,
+        "energy_consumed_kwh": 60.06708508895625
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 12.510248962441999,
+        "temperature_c": 5.761050673536548,
+        "vehicle_age_years": 7.0,
+        "distance_km": 141.24375349788664,
+        "soc_start": 87.98462138000619,
+        "energy_consumed_kwh": 61.52075986084904
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 20.460364868950172,
+        "temperature_c": 19.78108389153856,
+        "vehicle_age_years": 2.941663235080507,
+        "distance_km": 111.01653950164392,
+        "soc_start": 28.252298260726327,
+        "energy_consumed_kwh": 39.398742356080696
+      },
+      "label": 76.47,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 16.91833198373123,
+        "temperature_c": -0.039079030643748375,
+        "vehicle_age_years": 1.0,
+        "distance_km": 210.17109719106028,
+        "soc_start": 49.29876550655081,
+        "energy_consumed_kwh": 46.80719594482398
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.87610037599295,
+        "charging_rate_kw": 36.303372348344666,
+        "temperature_c": 3.0428293410416227,
+        "vehicle_age_years": 0.0,
+        "distance_km": 133.99209364319893,
+        "soc_start": 13.48827068689701,
+        "energy_consumed_kwh": 50.26893407436542
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 26.07041362744592,
+        "temperature_c": 34.847907975386214,
+        "vehicle_age_years": 2.7713464837060098,
+        "distance_km": 23.003998749296237,
+        "soc_start": 86.22602519571817,
+        "energy_consumed_kwh": 70.61729259484447
+      },
+      "label": 77.83,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 49.41151925702685,
+        "temperature_c": 30.082058806726685,
+        "vehicle_age_years": 0.0,
+        "distance_km": 246.3443697107785,
+        "soc_start": 86.32698824285714,
+        "energy_consumed_kwh": 49.278837399477204
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 25.601620872044332,
+        "temperature_c": 33.076751459606555,
+        "vehicle_age_years": 6.0,
+        "distance_km": 93.85786768644309,
+        "soc_start": 48.887624255601864,
+        "energy_consumed_kwh": 35.9072426531086
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 12.538161906875358,
+        "temperature_c": 1.8254496871976091,
+        "vehicle_age_years": 1.0,
+        "distance_km": 64.13545483676491,
+        "soc_start": 49.87203405296153,
+        "energy_consumed_kwh": 57.92445004054599
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 32.95451081519971,
+        "temperature_c": 10.401511433472187,
+        "vehicle_age_years": 3.0,
+        "distance_km": 170.55772537142218,
+        "soc_start": 78.43462826424621,
+        "energy_consumed_kwh": 21.656164115674237
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 45.320109597695435,
+        "temperature_c": -4.572249344016912,
+        "vehicle_age_years": 3.0,
+        "distance_km": 103.7883061403116,
+        "soc_start": 73.62283683904118,
+        "energy_consumed_kwh": 41.01058174547109
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 13.009732230851897,
+        "temperature_c": 10.69221008986976,
+        "vehicle_age_years": 2.0,
+        "distance_km": 274.02065391535655,
+        "soc_start": 86.11175650087344,
+        "energy_consumed_kwh": 79.81869447094793
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 5.4546927018545635,
+        "temperature_c": 37.89979105281139,
+        "vehicle_age_years": 4.0,
+        "distance_km": 191.45599448624304,
+        "soc_start": 50.31669101477427,
+        "energy_consumed_kwh": 68.57302471319414
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 44.12212998806049,
+        "temperature_c": 16.808358267905795,
+        "vehicle_age_years": 7.0,
+        "distance_km": 55.67750505100865,
+        "soc_start": 42.73907176379696,
+        "energy_consumed_kwh": 7.930901450146639
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 31.277429485665618,
+        "temperature_c": 35.79315361674979,
+        "vehicle_age_years": 0.0,
+        "distance_km": 91.38484095029033,
+        "soc_start": 12.95698801764483,
+        "energy_consumed_kwh": 74.15366015953305
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 30.7839968181946,
+        "temperature_c": 28.312156710460712,
+        "vehicle_age_years": 6.0,
+        "distance_km": 208.6484695678,
+        "soc_start": 84.2736568755141,
+        "energy_consumed_kwh": 61.697438669843606
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.16501549428347,
+        "temperature_c": -4.153203087466903,
+        "vehicle_age_years": 5.0,
+        "distance_km": 216.07027782313074,
+        "soc_start": 74.64716691235185,
+        "energy_consumed_kwh": 27.425950970700956
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 19.713679937800947,
+        "temperature_c": -9.34537521505764,
+        "vehicle_age_years": 7.0,
+        "distance_km": 258.64567065665085,
+        "soc_start": 47.80623479100282,
+        "energy_consumed_kwh": 17.704737472368393
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 24.621651183384866,
+        "temperature_c": 25.32047569840328,
+        "vehicle_age_years": 2.0,
+        "distance_km": 230.49427175789185,
+        "soc_start": 49.17384524132495,
+        "energy_consumed_kwh": 64.41904928508166
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 19.6515444967108,
+        "temperature_c": 9.598491187054968,
+        "vehicle_age_years": 4.0,
+        "distance_km": 249.05983759905172,
+        "soc_start": 36.732618067770495,
+        "energy_consumed_kwh": 34.96988837156509
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 6.638807142566019,
+        "temperature_c": 15.169314840919919,
+        "vehicle_age_years": 6.0,
+        "distance_km": 179.0935734839093,
+        "soc_start": 46.86961641870514,
+        "energy_consumed_kwh": 55.917563167265556
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 31.59720483051509,
+        "temperature_c": 31.248892630001492,
+        "vehicle_age_years": 3.0,
+        "distance_km": 290.9884769869868,
+        "soc_start": 69.31359126903999,
+        "energy_consumed_kwh": 76.59801205371735
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 3.0234852824803093,
+        "temperature_c": 36.54506397911559,
+        "vehicle_age_years": 0.0,
+        "distance_km": 32.00803709196611,
+        "soc_start": 79.64988507290505,
+        "energy_consumed_kwh": 20.25597516487363
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 22.559451806131793,
+        "temperature_c": 25.34429384752454,
+        "vehicle_age_years": 3.0,
+        "distance_km": 188.07817672254873,
+        "soc_start": 83.5872819190941,
+        "energy_consumed_kwh": 65.04979561439833
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 45.68669179564876,
+        "temperature_c": 35.09405876525552,
+        "vehicle_age_years": 1.8034882416338545,
+        "distance_km": 39.27594025704913,
+        "soc_start": 27.840014483078228,
+        "energy_consumed_kwh": 10.2776080929522
+      },
+      "label": 85.57,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 22.986215537833935,
+        "temperature_c": 1.4966651775801347,
+        "vehicle_age_years": 1.0,
+        "distance_km": 101.37507173794312,
+        "soc_start": 58.58472327585143,
+        "energy_consumed_kwh": 69.1055463943984
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 29.635980652736865,
+        "temperature_c": -2.9104479285474962,
+        "vehicle_age_years": 4.0,
+        "distance_km": 280.97792751849477,
+        "soc_start": 76.22513954753002,
+        "energy_consumed_kwh": 22.742594390832505
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 9.286497700383908,
+        "temperature_c": 18.405333154548053,
+        "vehicle_age_years": 1.0,
+        "distance_km": 103.95782513502562,
+        "soc_start": 27.64544589095541,
+        "energy_consumed_kwh": 127.75747441174424
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 9.913419024012203,
+        "temperature_c": 24.759622240779493,
+        "vehicle_age_years": 5.0,
+        "distance_km": 136.27861262043376,
+        "soc_start": 40.799355818868676,
+        "energy_consumed_kwh": 13.87716708884735
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 95.69778086899464,
+        "charging_rate_kw": 8.424644632127169,
+        "temperature_c": 4.7608097846417365,
+        "vehicle_age_years": 0.0,
+        "distance_km": 118.69508311078515,
+        "soc_start": 12.482275393442581,
+        "energy_consumed_kwh": 78.83314651875263
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 29.087280550451776,
+        "temperature_c": 18.459977606948577,
+        "vehicle_age_years": 7.0,
+        "distance_km": 42.3760557461259,
+        "soc_start": 62.13327965500456,
+        "energy_consumed_kwh": 50.161380878417674
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 97.34225469987976,
+        "temperature_c": 10.336000341653477,
+        "vehicle_age_years": 5.0,
+        "distance_km": 240.7952117834277,
+        "soc_start": 78.27386156073143,
+        "energy_consumed_kwh": 21.820506368142894
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 10.16337295016612,
+        "temperature_c": 23.72798354443762,
+        "vehicle_age_years": 5.0,
+        "distance_km": 260.6613918475854,
+        "soc_start": 40.48798796741036,
+        "energy_consumed_kwh": 47.3146093849059
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 46.32809897435823,
+        "temperature_c": 28.730037319439177,
+        "vehicle_age_years": 2.0,
+        "distance_km": 87.12429821035957,
+        "soc_start": 12.666303598100477,
+        "energy_consumed_kwh": 36.15792621947456
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 32.09970635847218,
+        "temperature_c": -1.2061704606006334,
+        "vehicle_age_years": 3.0,
+        "distance_km": 212.5522238689407,
+        "soc_start": 47.72203883616639,
+        "energy_consumed_kwh": 12.128018048871457
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 47.52616641750279,
+        "temperature_c": -8.817659946490982,
+        "vehicle_age_years": 2.0,
+        "distance_km": 186.72370699503512,
+        "soc_start": 81.71875949449374,
+        "energy_consumed_kwh": 72.82858509991425
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 29.92814716211848,
+        "temperature_c": 3.945102536091081,
+        "vehicle_age_years": 0.0,
+        "distance_km": 268.9329205281117,
+        "soc_start": 69.29221386285269,
+        "energy_consumed_kwh": 64.23213303009759
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 29.633681436250622,
+        "temperature_c": 6.434361447340734,
+        "vehicle_age_years": 3.0,
+        "distance_km": 195.00114836577762,
+        "soc_start": 31.570698858788976,
+        "energy_consumed_kwh": 50.643736597993126
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 5.231316128591093,
+        "temperature_c": 4.820141443330831,
+        "vehicle_age_years": 4.0,
+        "distance_km": 153.9736061677818,
+        "soc_start": 74.86887756150331,
+        "energy_consumed_kwh": 52.05474164868848
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 40.564403928383314,
+        "temperature_c": 33.50586024036359,
+        "vehicle_age_years": 4.0,
+        "distance_km": 13.013883737820478,
+        "soc_start": 24.834499312378526,
+        "energy_consumed_kwh": 30.900798344474765
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 20.988032146855495,
+        "temperature_c": 15.922714753612713,
+        "vehicle_age_years": 3.0,
+        "distance_km": 90.39683722641682,
+        "soc_start": 78.79166882079036,
+        "energy_consumed_kwh": 55.464127835726835
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 23.752435318991242,
+        "temperature_c": -5.3327737761469285,
+        "vehicle_age_years": 7.0,
+        "distance_km": 33.56494022873299,
+        "soc_start": 81.45214550820731,
+        "energy_consumed_kwh": 44.15948700741327
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 10.19694664940403,
+        "temperature_c": 26.873897328374092,
+        "vehicle_age_years": 0.0,
+        "distance_km": 244.05278844236477,
+        "soc_start": 26.84932307942894,
+        "energy_consumed_kwh": 33.365508790480845
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 16.880572186148093,
+        "temperature_c": 2.9761661488567217,
+        "vehicle_age_years": 0.0,
+        "distance_km": 73.38219447318042,
+        "soc_start": 72.40240860746698,
+        "energy_consumed_kwh": 25.354114117757362
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 6.3417812899680115,
+        "temperature_c": 30.128829937288288,
+        "vehicle_age_years": 1.0,
+        "distance_km": 203.72896600535708,
+        "soc_start": 31.204338559110987,
+        "energy_consumed_kwh": 37.50977747998428
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.82402915199083,
+        "charging_rate_kw": 10.894668580638834,
+        "temperature_c": 36.46750890918337,
+        "vehicle_age_years": 5.0,
+        "distance_km": 213.49060791189896,
+        "soc_start": 80.67885938684184,
+        "energy_consumed_kwh": 76.3581979165499
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 12.163397213863936,
+        "temperature_c": 28.694656948924212,
+        "vehicle_age_years": 3.0,
+        "distance_km": 153.22096912222145,
+        "soc_start": 47.910629867539036,
+        "energy_consumed_kwh": 65.55092159002764
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 23.61922632717278,
+        "temperature_c": 14.726961210694782,
+        "vehicle_age_years": 7.0,
+        "distance_km": 180.1478561199578,
+        "soc_start": 53.70511180037988,
+        "energy_consumed_kwh": 37.09360176408391
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 5.092837673638758,
+        "temperature_c": 11.301642472241195,
+        "vehicle_age_years": 7.0,
+        "distance_km": 97.7257585439812,
+        "soc_start": 80.02092861263984,
+        "energy_consumed_kwh": 36.53187940069507
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 9.137049424320672,
+        "temperature_c": -2.4119193043412395,
+        "vehicle_age_years": 4.0,
+        "distance_km": 188.60188052087443,
+        "soc_start": 48.08341175551522,
+        "energy_consumed_kwh": 12.919879701960571
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 31.88182227346866,
+        "temperature_c": 7.136485621670332,
+        "vehicle_age_years": 4.0,
+        "distance_km": 34.52241141897322,
+        "soc_start": 72.54929506897906,
+        "energy_consumed_kwh": 70.24471717977453
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 11.161935288902695,
+        "temperature_c": 2.7703220167012077,
+        "vehicle_age_years": 1.0,
+        "distance_km": 116.18408209840142,
+        "soc_start": 109.26579432595442,
+        "energy_consumed_kwh": 20.3535460696326
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 6.291013587854589,
+        "temperature_c": 33.28195603093967,
+        "vehicle_age_years": 7.51530869035586,
+        "distance_km": 22.540477243986953,
+        "soc_start": 58.996115876586,
+        "energy_consumed_kwh": 14.018823992805098
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 31.5531561687629,
+        "temperature_c": 25.92667701462242,
+        "vehicle_age_years": 2.0,
+        "distance_km": 294.05825875693694,
+        "soc_start": 23.42576752983394,
+        "energy_consumed_kwh": 32.52486104511656
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 29.753158714478868,
+        "temperature_c": -9.296045390619858,
+        "vehicle_age_years": 1.0,
+        "distance_km": 119.78864790850733,
+        "soc_start": 49.66021029282839,
+        "energy_consumed_kwh": 78.39905610034737
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 40.48262896138074,
+        "temperature_c": 32.63449014531149,
+        "vehicle_age_years": 3.0,
+        "distance_km": 221.58355288822713,
+        "soc_start": 54.544755368940045,
+        "energy_consumed_kwh": 5.6995199544600395
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 33.37702357097419,
+        "charging_rate_kw": 23.99284957205273,
+        "temperature_c": 8.316822120598246,
+        "vehicle_age_years": 2.0,
+        "distance_km": 155.2169255876906,
+        "soc_start": 27.40042669502671,
+        "energy_consumed_kwh": 20.763187642544253
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 29.44664264254554,
+        "temperature_c": 4.057993736673463,
+        "vehicle_age_years": 7.0,
+        "distance_km": 270.3822387599344,
+        "soc_start": 62.99501973890689,
+        "energy_consumed_kwh": 6.885479431723564
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 38.36925513880513,
+        "temperature_c": 14.177763270049578,
+        "vehicle_age_years": 6.0,
+        "distance_km": 27.930909180515243,
+        "soc_start": 10.950912707790694,
+        "energy_consumed_kwh": 52.99672888359278
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 44.05048455914645,
+        "temperature_c": 9.990199636985105,
+        "vehicle_age_years": 3.176061926468777,
+        "distance_km": 56.3252273928085,
+        "soc_start": 27.62289341973861,
+        "energy_consumed_kwh": 74.73938753754207
+      },
+      "label": 74.59,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 6.168895844295367,
+        "charging_rate_kw": 9.860027647642006,
+        "temperature_c": 33.23430131892319,
+        "vehicle_age_years": 2.0,
+        "distance_km": 211.63468420281276,
+        "soc_start": 29.942229309310562,
+        "energy_consumed_kwh": 50.596951312425645
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 33.74537926514628,
+        "temperature_c": 37.10118843149111,
+        "vehicle_age_years": 1.0,
+        "distance_km": 96.33217778289773,
+        "soc_start": 25.118016109663355,
+        "energy_consumed_kwh": 5.775919735452496
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.2360143567669,
+        "temperature_c": 12.265243732279334,
+        "vehicle_age_years": 6.0,
+        "distance_km": 57.59194551494831,
+        "soc_start": 38.02384077001244,
+        "energy_consumed_kwh": 67.22515101988213
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 31.858997698920543,
+        "temperature_c": 0.9476450506080241,
+        "vehicle_age_years": 6.0,
+        "distance_km": 78.61444615533611,
+        "soc_start": 25.201903407412274,
+        "energy_consumed_kwh": 65.54082473190631
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 38.34408586043845,
+        "temperature_c": 13.194479356064214,
+        "vehicle_age_years": 2.0,
+        "distance_km": 107.0000963359066,
+        "soc_start": 27.678537866654462,
+        "energy_consumed_kwh": 28.864060959229153
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 23.389205345851654,
+        "temperature_c": 15.44621676643309,
+        "vehicle_age_years": 3.0,
+        "distance_km": 23.47388206048818,
+        "soc_start": 72.89998625989823,
+        "energy_consumed_kwh": 28.1635456086215
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 49.319128854525374,
+        "temperature_c": 12.254928644869278,
+        "vehicle_age_years": 4.0,
+        "distance_km": 41.762292021485166,
+        "soc_start": 49.301060486496944,
+        "energy_consumed_kwh": 64.94285706525936
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 35.776000248726106,
+        "temperature_c": 1.6535023008047476,
+        "vehicle_age_years": 1.5028687879357574,
+        "distance_km": 197.5286464172002,
+        "soc_start": 77.27588158438571,
+        "energy_consumed_kwh": 46.55965371578422
+      },
+      "label": 87.98,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 49.85189638729916,
+        "temperature_c": 6.8768972815686915,
+        "vehicle_age_years": 4.0,
+        "distance_km": 57.6589438038869,
+        "soc_start": 46.328425858845435,
+        "energy_consumed_kwh": 36.047577386304056
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 27.876882761572915,
+        "temperature_c": -2.1340703019364877,
+        "vehicle_age_years": 0.0,
+        "distance_km": 240.38511602501632,
+        "soc_start": 25.52830137336865,
+        "energy_consumed_kwh": 41.568620254753704
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.64548706847206,
+        "charging_rate_kw": 32.83733503507112,
+        "temperature_c": 14.48313566125389,
+        "vehicle_age_years": 3.0,
+        "distance_km": 188.70363552396572,
+        "soc_start": 78.60513123193002,
+        "energy_consumed_kwh": 31.810223412630616
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 35.92852161296851,
+        "temperature_c": 5.967630772540458,
+        "vehicle_age_years": 7.0,
+        "distance_km": 139.54941601046136,
+        "soc_start": 96.11613713747894,
+        "energy_consumed_kwh": 64.40334432867209
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 11.27466652026834,
+        "temperature_c": 37.9722579089503,
+        "vehicle_age_years": 0.0,
+        "distance_km": 277.64368661968854,
+        "soc_start": 78.22201633321833,
+        "energy_consumed_kwh": 45.34396447469323
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 38.49923631058793,
+        "temperature_c": 1.1741854019925755,
+        "vehicle_age_years": 2.0,
+        "distance_km": 133.72424414712458,
+        "soc_start": 67.10984362193446,
+        "energy_consumed_kwh": 64.98220570964298
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 14.420929224434923,
+        "temperature_c": 27.28334185780242,
+        "vehicle_age_years": 2.0,
+        "distance_km": 23.106882718779463,
+        "soc_start": 23.344139229666805,
+        "energy_consumed_kwh": 33.39817875530706
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 15.863349570407049,
+        "temperature_c": 14.938962399475923,
+        "vehicle_age_years": 5.0,
+        "distance_km": 79.43076812948085,
+        "soc_start": 25.363981311683013,
+        "energy_consumed_kwh": 26.46822315749027
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 42.83582803315509,
+        "temperature_c": 38.705745886926636,
+        "vehicle_age_years": 5.0,
+        "distance_km": 122.6429155562319,
+        "soc_start": 60.64343387805784,
+        "energy_consumed_kwh": 6.8738855284034415
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 127.2802740366814,
+        "charging_rate_kw": 49.769765638458786,
+        "temperature_c": 31.619341677485203,
+        "vehicle_age_years": 6.0,
+        "distance_km": 215.46406232176173,
+        "soc_start": 51.05548437559695,
+        "energy_consumed_kwh": 53.39924325525044
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.43195454576463,
+        "charging_rate_kw": 7.007637736562545,
+        "temperature_c": 16.976171076313854,
+        "vehicle_age_years": 3.0,
+        "distance_km": 140.00446081941055,
+        "soc_start": 60.71131119139218,
+        "energy_consumed_kwh": 5.746444809429853
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 22.114456814246754,
+        "temperature_c": 39.911736178054056,
+        "vehicle_age_years": 0.0,
+        "distance_km": 141.28878854232272,
+        "soc_start": 90.69939969167525,
+        "energy_consumed_kwh": 16.47214029543078
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 39.297422534529126,
+        "charging_rate_kw": 26.2327228750375,
+        "temperature_c": 37.19955857157731,
+        "vehicle_age_years": 7.0,
+        "distance_km": 216.6864603163302,
+        "soc_start": 32.27555920443467,
+        "energy_consumed_kwh": 21.002230102472843
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 68.54260187297076,
+        "temperature_c": -9.303116064494079,
+        "vehicle_age_years": 1.0,
+        "distance_km": 107.68239501903759,
+        "soc_start": 39.60719965721378,
+        "energy_consumed_kwh": 31.73110320047439
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 24.625701062345183,
+        "temperature_c": 29.298692119115714,
+        "vehicle_age_years": 7.0,
+        "distance_km": 86.90488109479675,
+        "soc_start": 33.347001876837226,
+        "energy_consumed_kwh": 21.409576368254193
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 36.45383942466944,
+        "temperature_c": -9.7331719540477,
+        "vehicle_age_years": 6.0,
+        "distance_km": 100.99306556046601,
+        "soc_start": 77.5878565014895,
+        "energy_consumed_kwh": 7.739028453603041
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 6.762530033811055,
+        "temperature_c": -2.2583171498135663,
+        "vehicle_age_years": 5.166465086368807,
+        "distance_km": 263.8277791210288,
+        "soc_start": 42.74181829169473,
+        "energy_consumed_kwh": 15.254170728009933
+      },
+      "label": 58.67,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 34.58457236976521,
+        "temperature_c": 22.32525036030907,
+        "vehicle_age_years": 1.0,
+        "distance_km": 2.9083692951652194,
+        "soc_start": 42.69807426210118,
+        "energy_consumed_kwh": 54.99770543084315
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 16.20549350507357,
+        "temperature_c": 40.25549685924228,
+        "vehicle_age_years": 4.0,
+        "distance_km": 127.43001739522589,
+        "soc_start": 25.684348116376185,
+        "energy_consumed_kwh": 25.13233553126914
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 40.53974347421139,
+        "temperature_c": -0.38038682034103566,
+        "vehicle_age_years": 6.0,
+        "distance_km": 54.66136458981261,
+        "soc_start": 41.24381173795679,
+        "energy_consumed_kwh": 79.41814361458415
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 19.663022523683974,
+        "temperature_c": 36.38826993443427,
+        "vehicle_age_years": 2.0,
+        "distance_km": 116.420531077901,
+        "soc_start": 22.977128526182558,
+        "energy_consumed_kwh": 44.418453054668134
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 104.91720077254023,
+        "charging_rate_kw": 31.703436019536827,
+        "temperature_c": 17.890667690753563,
+        "vehicle_age_years": 5.0,
+        "distance_km": 171.66196515906168,
+        "soc_start": 37.010278166229284,
+        "energy_consumed_kwh": 74.02042766018057
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 16.674739845440627,
+        "temperature_c": 18.617459121913196,
+        "vehicle_age_years": 5.0,
+        "distance_km": 110.6957634034999,
+        "soc_start": 76.15030562077015,
+        "energy_consumed_kwh": 39.067086785515194
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.40198311559624,
+        "charging_rate_kw": 11.336239337835234,
+        "temperature_c": -0.3092942770735867,
+        "vehicle_age_years": 3.0,
+        "distance_km": 192.78226018843452,
+        "soc_start": 18.607075567989952,
+        "energy_consumed_kwh": 41.943586371262185
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 17.89966430419242,
+        "temperature_c": 5.543129286631091,
+        "vehicle_age_years": 3.0,
+        "distance_km": 109.00880040885484,
+        "soc_start": 46.180880806019246,
+        "energy_consumed_kwh": 67.93942571536539
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 13.412801608882667,
+        "temperature_c": 37.44001253981505,
+        "vehicle_age_years": 6.0,
+        "distance_km": 277.8175211737991,
+        "soc_start": 86.66804504011142,
+        "energy_consumed_kwh": 61.68434321639767
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 38.70625781494024,
+        "temperature_c": -3.485828978930491,
+        "vehicle_age_years": 2.0,
+        "distance_km": 29.20698665500389,
+        "soc_start": 57.60771498741192,
+        "energy_consumed_kwh": 32.93955896020962
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 19.14919319503228,
+        "temperature_c": 37.891269246397464,
+        "vehicle_age_years": 2.0,
+        "distance_km": 105.45068675777993,
+        "soc_start": 40.51960080375618,
+        "energy_consumed_kwh": 53.17397382318082
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 11.926340207761143,
+        "temperature_c": 10.570690120918144,
+        "vehicle_age_years": 6.0,
+        "distance_km": 288.1981960891153,
+        "soc_start": 37.882243061092254,
+        "energy_consumed_kwh": 56.72762317734674
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 28.59951519129401,
+        "temperature_c": 6.6590121495565455,
+        "vehicle_age_years": 4.0,
+        "distance_km": 122.75068865688161,
+        "soc_start": 68.68646311087505,
+        "energy_consumed_kwh": 48.9611152601949
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.50238773927163,
+        "temperature_c": 31.52877610316707,
+        "vehicle_age_years": 1.0,
+        "distance_km": 49.571173995345305,
+        "soc_start": 71.54644710597078,
+        "energy_consumed_kwh": 52.55689588098792
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 4.302635825621664,
+        "temperature_c": 9.714810900062302,
+        "vehicle_age_years": 6.0,
+        "distance_km": 207.16593519305718,
+        "soc_start": 66.89443080638873,
+        "energy_consumed_kwh": 37.23027566973339
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 21.10837172285618,
+        "temperature_c": 32.745897574028064,
+        "vehicle_age_years": 3.0,
+        "distance_km": 260.0043740481551,
+        "soc_start": 16.30623976881609,
+        "energy_consumed_kwh": 74.7896950755514
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 14.090858743837904,
+        "temperature_c": 15.617520571994522,
+        "vehicle_age_years": 4.814970203016184,
+        "distance_km": 156.73213771865275,
+        "soc_start": 14.258182790042477,
+        "energy_consumed_kwh": 41.980753234068054
+      },
+      "label": 61.48,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 20.080307716207404,
+        "temperature_c": 15.648673640514595,
+        "vehicle_age_years": 1.8964453073205336,
+        "distance_km": 32.17691631628233,
+        "soc_start": 33.299940358533576,
+        "energy_consumed_kwh": 37.10851773104313
+      },
+      "label": 84.83,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 25.796602896239076,
+        "temperature_c": 22.170226466953117,
+        "vehicle_age_years": 4.415774008975135,
+        "distance_km": 11.97092257648914,
+        "soc_start": 86.84411862438084,
+        "energy_consumed_kwh": 23.920921968262732
+      },
+      "label": 64.67,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 31.554096556735363,
+        "temperature_c": 29.71628091352946,
+        "vehicle_age_years": 6.0,
+        "distance_km": 163.25017153036194,
+        "soc_start": 12.98057685502397,
+        "energy_consumed_kwh": 55.395791438648764
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 2.63696678953564,
+        "temperature_c": 5.890056032833771,
+        "vehicle_age_years": 2.0,
+        "distance_km": 233.8834989699705,
+        "soc_start": 12.054790024376816,
+        "energy_consumed_kwh": 67.38186056016852
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 8.991499198950546,
+        "temperature_c": 11.712169604952358,
+        "vehicle_age_years": 7.0,
+        "distance_km": 245.31466887785396,
+        "soc_start": 30.228181598609112,
+        "energy_consumed_kwh": 68.23834404896303
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 27.95671520137067,
+        "temperature_c": 8.087592836673355,
+        "vehicle_age_years": 4.0,
+        "distance_km": 7.619894391103201,
+        "soc_start": 23.50594715611516,
+        "energy_consumed_kwh": 67.13334039157891
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 44.67299945575187,
+        "temperature_c": 29.212784494288904,
+        "vehicle_age_years": 3.0,
+        "distance_km": 128.32099334561258,
+        "soc_start": 51.41733330420172,
+        "energy_consumed_kwh": 35.327332248586075
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 44.87220045649857,
+        "temperature_c": -5.253638201447788,
+        "vehicle_age_years": 7.0,
+        "distance_km": 46.772157427623455,
+        "soc_start": 62.161130173516035,
+        "energy_consumed_kwh": 47.492300242260534
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 47.18975870041258,
+        "temperature_c": 16.60261301916026,
+        "vehicle_age_years": 4.0,
+        "distance_km": 281.2570146793227,
+        "soc_start": 53.35164134135862,
+        "energy_consumed_kwh": 21.47142841095029
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 29.88406599854634,
+        "temperature_c": 35.01191454749671,
+        "vehicle_age_years": 2.0,
+        "distance_km": 229.7015932435815,
+        "soc_start": 43.8356488045344,
+        "energy_consumed_kwh": 21.86794779138668
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 8.831573588393466,
+        "temperature_c": 29.81421521116753,
+        "vehicle_age_years": 7.0,
+        "distance_km": 135.03776920278438,
+        "soc_start": 44.70101950340489,
+        "energy_consumed_kwh": 30.550011561630846
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 19.40437242911404,
+        "temperature_c": 3.8586586385256734,
+        "vehicle_age_years": 5.0,
+        "distance_km": 293.2067592472771,
+        "soc_start": 28.44310337367307,
+        "energy_consumed_kwh": 44.75866737764865
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 5.962444720986591,
+        "temperature_c": 38.02009094304093,
+        "vehicle_age_years": 7.0,
+        "distance_km": 245.05461153227114,
+        "soc_start": 82.43318506688816,
+        "energy_consumed_kwh": 57.145559970831265
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 10.41398710364594,
+        "temperature_c": -7.163620818557389,
+        "vehicle_age_years": 6.0,
+        "distance_km": 152.05684023287293,
+        "soc_start": 63.144128020794284,
+        "energy_consumed_kwh": 47.060925633313786
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 35.45357670634186,
+        "temperature_c": 24.147802798156853,
+        "vehicle_age_years": 1.0,
+        "distance_km": 153.05420582204593,
+        "soc_start": 56.81778300064369,
+        "energy_consumed_kwh": 19.146538928197334
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 22.57264064944385,
+        "temperature_c": 15.032552008091375,
+        "vehicle_age_years": 7.197041544075574,
+        "distance_km": 214.92325852951828,
+        "soc_start": 13.909596696565245,
+        "energy_consumed_kwh": 65.20093720294392
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 10.063093768622078,
+        "temperature_c": -4.47805197297919,
+        "vehicle_age_years": 4.0,
+        "distance_km": 205.7699162392264,
+        "soc_start": 20.432310798427924,
+        "energy_consumed_kwh": 69.71594630744188
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 9.88982074193077,
+        "temperature_c": 37.268214954491775,
+        "vehicle_age_years": 5.0,
+        "distance_km": 74.04370796256828,
+        "soc_start": 29.13398078893268,
+        "energy_consumed_kwh": 69.42235104080157
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.98923662331453,
+        "charging_rate_kw": 38.70203714776589,
+        "temperature_c": -7.668417861130797,
+        "vehicle_age_years": 0.0,
+        "distance_km": 225.6350477231055,
+        "soc_start": 16.504645864265477,
+        "energy_consumed_kwh": 54.860003290031365
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 9.977877021843266,
+        "temperature_c": 12.322504555568166,
+        "vehicle_age_years": 5.0,
+        "distance_km": 178.11509933838914,
+        "soc_start": 67.38758549248693,
+        "energy_consumed_kwh": 51.20692408624951
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 18.03449260881751,
+        "temperature_c": -8.059848673780747,
+        "vehicle_age_years": 1.0,
+        "distance_km": 144.43722189921488,
+        "soc_start": 78.78459856129506,
+        "energy_consumed_kwh": 74.34970162186968
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 23.43002274979381,
+        "temperature_c": 28.41994109024357,
+        "vehicle_age_years": 7.0,
+        "distance_km": 278.9265238402248,
+        "soc_start": 74.87748787760317,
+        "energy_consumed_kwh": 47.19744469005413
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 21.47178993172093,
+        "temperature_c": 18.966955539787385,
+        "vehicle_age_years": 1.0,
+        "distance_km": 231.19223169147634,
+        "soc_start": 46.22043610199324,
+        "energy_consumed_kwh": 64.450811584597
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 21.069771396509864,
+        "temperature_c": 17.367661723808453,
+        "vehicle_age_years": 0.0,
+        "distance_km": 151.96650872316795,
+        "soc_start": 84.61526142274654,
+        "energy_consumed_kwh": 56.657563696936364
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 32.976500057737226,
+        "temperature_c": 26.126200973392812,
+        "vehicle_age_years": 5.4897001520247795,
+        "distance_km": 205.39547022079915,
+        "soc_start": 34.459615544112054,
+        "energy_consumed_kwh": 58.281853729008496
+      },
+      "label": 56.08,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 26.425218969093596,
+        "temperature_c": 36.40880980861047,
+        "vehicle_age_years": 5.0,
+        "distance_km": 235.8950309401682,
+        "soc_start": 82.18039755013481,
+        "energy_consumed_kwh": 47.888624666783414
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 14.435352434618427,
+        "temperature_c": -5.392329139958187,
+        "vehicle_age_years": 3.0,
+        "distance_km": 298.9694610309599,
+        "soc_start": 14.184548280774854,
+        "energy_consumed_kwh": 10.192259430922377
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 42.22396426286603,
+        "charging_rate_kw": 37.57454771494434,
+        "temperature_c": 1.1954220594389255,
+        "vehicle_age_years": 1.0,
+        "distance_km": 38.61495714773572,
+        "soc_start": 69.88302901476676,
+        "energy_consumed_kwh": 62.63400990213397
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 4.875602271353545,
+        "temperature_c": 37.395109148305515,
+        "vehicle_age_years": 7.0,
+        "distance_km": 166.98175067619556,
+        "soc_start": 59.10391672336647,
+        "energy_consumed_kwh": 53.18988765045248
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 20.619603394084866,
+        "temperature_c": -6.497175362510335,
+        "vehicle_age_years": 6.0,
+        "distance_km": 302.85248972263145,
+        "soc_start": 32.45935623541265,
+        "energy_consumed_kwh": 70.3848328268497
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 14.511282307810957,
+        "temperature_c": 25.964996849071653,
+        "vehicle_age_years": 6.0,
+        "distance_km": 199.30177166284437,
+        "soc_start": 30.615241986716526,
+        "energy_consumed_kwh": 16.827771594461893
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 14.53360130974745,
+        "temperature_c": -6.359400393756955,
+        "vehicle_age_years": 5.0,
+        "distance_km": 260.4883265203245,
+        "soc_start": 28.63084090639802,
+        "energy_consumed_kwh": 38.711207157580986
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 44.336610351548224,
+        "temperature_c": 4.251871253120745,
+        "vehicle_age_years": 6.0,
+        "distance_km": 86.60938167662027,
+        "soc_start": 65.47847010859027,
+        "energy_consumed_kwh": 47.19807479360746
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 44.4507308475323,
+        "temperature_c": 25.900154834299123,
+        "vehicle_age_years": 1.0,
+        "distance_km": 243.82844436912612,
+        "soc_start": 83.20214244739164,
+        "energy_consumed_kwh": 15.5583755009174
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 9.634031616098616,
+        "temperature_c": 36.03822598164686,
+        "vehicle_age_years": 1.0,
+        "distance_km": 157.6119289766852,
+        "soc_start": 26.10515607453083,
+        "energy_consumed_kwh": 11.579770802296695
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 27.173537456201768,
+        "temperature_c": 22.479689206672177,
+        "vehicle_age_years": 5.0,
+        "distance_km": 286.44000986240627,
+        "soc_start": 83.59048180230292,
+        "energy_consumed_kwh": 20.51871405095877
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 37.175570755361626,
+        "temperature_c": 6.211204218618967,
+        "vehicle_age_years": 6.0,
+        "distance_km": 75.65321700332278,
+        "soc_start": 87.24599837813908,
+        "energy_consumed_kwh": 75.62261390550266
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 17.498632754951903,
+        "temperature_c": -1.759567562648181,
+        "vehicle_age_years": 5.0,
+        "distance_km": 59.09663915051596,
+        "soc_start": 35.9754285280013,
+        "energy_consumed_kwh": 36.63162352131471
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 21.851929962768004,
+        "temperature_c": 10.35659124312551,
+        "vehicle_age_years": 2.0,
+        "distance_km": 179.09253119002156,
+        "soc_start": 89.78556217293968,
+        "energy_consumed_kwh": 6.307290912653444
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.460885466440864,
+        "charging_rate_kw": 47.74613739345097,
+        "temperature_c": 20.018750076215888,
+        "vehicle_age_years": 1.0,
+        "distance_km": 20.49469516445374,
+        "soc_start": 53.671773947954115,
+        "energy_consumed_kwh": 17.218744475121433
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 41.06704109745447,
+        "temperature_c": 25.585189727267682,
+        "vehicle_age_years": 1.0,
+        "distance_km": 120.36751210152259,
+        "soc_start": 45.582325657252866,
+        "energy_consumed_kwh": 67.90283934003946
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 19.278035722978235,
+        "temperature_c": 27.8175569749438,
+        "vehicle_age_years": 1.0,
+        "distance_km": 156.19622550598012,
+        "soc_start": 16.42986703126396,
+        "energy_consumed_kwh": 43.254517140810776
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 12.962522175124475,
+        "temperature_c": 1.496106620534535,
+        "vehicle_age_years": 3.286324572194227,
+        "distance_km": 155.72507105533435,
+        "soc_start": 11.95265428740866,
+        "energy_consumed_kwh": 70.17135459506048
+      },
+      "label": 73.71,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.62090777265186,
+        "temperature_c": 8.00517234052586,
+        "vehicle_age_years": 5.0,
+        "distance_km": 190.28182293406505,
+        "soc_start": 37.0929556989178,
+        "energy_consumed_kwh": 25.711923926721692
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 14.088726040982017,
+        "temperature_c": -8.983604992720508,
+        "vehicle_age_years": 5.0,
+        "distance_km": 278.4282293628509,
+        "soc_start": 50.005700053904,
+        "energy_consumed_kwh": 9.086246707562891
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 47.29035525269705,
+        "temperature_c": 12.025622631533853,
+        "vehicle_age_years": 2.0,
+        "distance_km": 292.8722924029989,
+        "soc_start": 21.455270566975216,
+        "energy_consumed_kwh": 53.648424429654725
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 49.92072559945864,
+        "temperature_c": 8.45374735934292,
+        "vehicle_age_years": 0.0,
+        "distance_km": 189.5971054867606,
+        "soc_start": 73.70841814345455,
+        "energy_consumed_kwh": 40.65621778280107
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.59576449275049,
+        "charging_rate_kw": 23.379598455661355,
+        "temperature_c": -8.603112050828253,
+        "vehicle_age_years": 1.0,
+        "distance_km": 138.8827900568325,
+        "soc_start": 30.45137839196829,
+        "energy_consumed_kwh": 58.91061762118734
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 32.092788481760344,
+        "temperature_c": 14.619838264589937,
+        "vehicle_age_years": 4.7894567048392,
+        "distance_km": 120.73231381977114,
+        "soc_start": 15.989490353813975,
+        "energy_consumed_kwh": 35.024111186545994
+      },
+      "label": 61.68,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 8.364823050543798,
+        "temperature_c": 50.543943089944676,
+        "vehicle_age_years": 6.0,
+        "distance_km": 156.638374982024,
+        "soc_start": 51.670163660648555,
+        "energy_consumed_kwh": 60.70480470905676
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 8.057717582270522,
+        "temperature_c": -9.079100594239849,
+        "vehicle_age_years": 6.808033448075264,
+        "distance_km": 219.1032925273127,
+        "soc_start": 22.809563778884243,
+        "energy_consumed_kwh": 35.84392988591518
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 8.455838521683116,
+        "temperature_c": -0.41348316289462517,
+        "vehicle_age_years": 2.0,
+        "distance_km": 228.31938627264512,
+        "soc_start": 36.794524236770215,
+        "energy_consumed_kwh": 73.07614589143651
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 7.675572872388004,
+        "temperature_c": 7.701936714946803,
+        "vehicle_age_years": 3.0,
+        "distance_km": 202.21393040238056,
+        "soc_start": 25.041372284286226,
+        "energy_consumed_kwh": 40.271295219742754
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 35.89219701227775,
+        "temperature_c": 3.05617342337616,
+        "vehicle_age_years": 6.0,
+        "distance_km": 239.29101175136364,
+        "soc_start": 88.25641630399335,
+        "energy_consumed_kwh": 38.213764810640804
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 34.48123071791808,
+        "temperature_c": 30.578947222541615,
+        "vehicle_age_years": 5.0,
+        "distance_km": 182.12407671444495,
+        "soc_start": 18.65763388539243,
+        "energy_consumed_kwh": 48.75767260331637
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 43.477302403000174,
+        "temperature_c": 24.134468954808234,
+        "vehicle_age_years": 3.0,
+        "distance_km": 293.12024763177186,
+        "soc_start": 74.63709318690526,
+        "energy_consumed_kwh": 58.11274413766781
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.86922406551787,
+        "charging_rate_kw": 40.42078195542164,
+        "temperature_c": 2.8441329179105566,
+        "vehicle_age_years": 2.0,
+        "distance_km": 96.25331245523711,
+        "soc_start": 31.556926298671403,
+        "energy_consumed_kwh": 20.17078858180017
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 28.438346866072735,
+        "temperature_c": -0.23120552833236374,
+        "vehicle_age_years": 6.0,
+        "distance_km": 77.42028800252723,
+        "soc_start": 73.10677228201467,
+        "energy_consumed_kwh": 38.957609713355055
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 18.49490674734526,
+        "temperature_c": 2.3943156992031227,
+        "vehicle_age_years": 0.0,
+        "distance_km": 84.02663481881574,
+        "soc_start": 35.26718110379237,
+        "energy_consumed_kwh": 60.71815399652918
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 21.280008595542856,
+        "temperature_c": 38.0265408626295,
+        "vehicle_age_years": 2.0,
+        "distance_km": 11.601228736577331,
+        "soc_start": 69.27315689897446,
+        "energy_consumed_kwh": 79.2780822184147
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 43.40930150579623,
+        "temperature_c": 12.462636502589323,
+        "vehicle_age_years": 4.0,
+        "distance_km": 120.88478365972466,
+        "soc_start": 15.914269190929193,
+        "energy_consumed_kwh": 50.92256838738107
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 19.086494735500263,
+        "temperature_c": 29.292791812955898,
+        "vehicle_age_years": 2.0,
+        "distance_km": 121.09983806357239,
+        "soc_start": 12.870374543107923,
+        "energy_consumed_kwh": 50.514485585069636
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 8.403361701935179,
+        "temperature_c": 34.58604378699818,
+        "vehicle_age_years": 7.0,
+        "distance_km": 186.4198892325448,
+        "soc_start": 40.12482652499342,
+        "energy_consumed_kwh": 55.17152825512059
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 21.067668668395044,
+        "temperature_c": 38.34082129198921,
+        "vehicle_age_years": 1.0,
+        "distance_km": 14.916956232311321,
+        "soc_start": 30.602836019246674,
+        "energy_consumed_kwh": 37.610115032737085
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 8.690646595879642,
+        "temperature_c": -0.5426394244535891,
+        "vehicle_age_years": 5.404853321424032,
+        "distance_km": 18.941504107479027,
+        "soc_start": 39.79613148030942,
+        "energy_consumed_kwh": 37.1185672622842
+      },
+      "label": 56.76,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 7.851718359790319,
+        "temperature_c": -0.6363455823008923,
+        "vehicle_age_years": 6.0,
+        "distance_km": 96.1252348519423,
+        "soc_start": 45.772273935480634,
+        "energy_consumed_kwh": 29.98141610704047
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 35.128246837314904,
+        "temperature_c": 4.788927799468437,
+        "vehicle_age_years": 7.0,
+        "distance_km": 191.86788286860224,
+        "soc_start": 23.705260306623856,
+        "energy_consumed_kwh": 6.006718634009571
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 19.75648055679933,
+        "temperature_c": 28.617521055662166,
+        "vehicle_age_years": 7.0,
+        "distance_km": 174.81861111455189,
+        "soc_start": 24.963613093594255,
+        "energy_consumed_kwh": 6.623592694043594
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 67.9346789314074,
+        "temperature_c": 21.349944761597882,
+        "vehicle_age_years": 0.0,
+        "distance_km": 166.55459643473677,
+        "soc_start": 12.42991030172564,
+        "energy_consumed_kwh": 11.431328818332826
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 7.451954886893098,
+        "charging_rate_kw": 16.976051559877522,
+        "temperature_c": -9.442146080548932,
+        "vehicle_age_years": 2.061484459120092,
+        "distance_km": 135.60921147891702,
+        "soc_start": 21.52681288411701,
+        "energy_consumed_kwh": 78.93551157563188
+      },
+      "label": 83.51,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 29.5983026669443,
+        "temperature_c": 5.184691378606797,
+        "vehicle_age_years": 7.0,
+        "distance_km": 125.62406000098647,
+        "soc_start": 16.38207402475386,
+        "energy_consumed_kwh": 55.40858450740993
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 9.873961584874488,
+        "temperature_c": 3.7336963752423706,
+        "vehicle_age_years": 2.0,
+        "distance_km": 40.74108231865663,
+        "soc_start": 61.348862301041585,
+        "energy_consumed_kwh": 42.95272026706106
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 13.109736836228274,
+        "temperature_c": 20.0042055952085,
+        "vehicle_age_years": 7.0,
+        "distance_km": 187.42725560551787,
+        "soc_start": 27.776033046086788,
+        "energy_consumed_kwh": 43.24493715557364
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 7.494575511011551,
+        "temperature_c": 3.9270317882741193,
+        "vehicle_age_years": 4.0,
+        "distance_km": 87.67871773454391,
+        "soc_start": 22.9005078019988,
+        "energy_consumed_kwh": 72.08924276832295
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 38.775620008365,
+        "temperature_c": -4.851715656125184,
+        "vehicle_age_years": 3.0,
+        "distance_km": 185.22048698015993,
+        "soc_start": 61.33155976729762,
+        "energy_consumed_kwh": 65.03081468702587
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 7.330086292613371,
+        "temperature_c": 1.8473705522469892,
+        "vehicle_age_years": 5.0,
+        "distance_km": 81.04832191522404,
+        "soc_start": 17.409983974225376,
+        "energy_consumed_kwh": 65.60582507754691
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 7.38868633786724,
+        "temperature_c": -0.4607568221114935,
+        "vehicle_age_years": 5.0,
+        "distance_km": 210.7494443666301,
+        "soc_start": 70.09449291993268,
+        "energy_consumed_kwh": 46.61987332807575
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 12.02937482597922,
+        "temperature_c": 4.945602060220825,
+        "vehicle_age_years": 1.0580566671707405,
+        "distance_km": 262.09152432590065,
+        "soc_start": 65.08674311260134,
+        "energy_consumed_kwh": 34.95512440558501
+      },
+      "label": 91.54,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 31.39207659559448,
+        "temperature_c": 5.443960406317798,
+        "vehicle_age_years": 7.0,
+        "distance_km": 227.13883935809403,
+        "soc_start": 47.66326224337725,
+        "energy_consumed_kwh": 10.43167346455136
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 48.5891782123757,
+        "temperature_c": -2.2696791129201275,
+        "vehicle_age_years": 2.0,
+        "distance_km": 77.70809038327954,
+        "soc_start": 68.4597533477996,
+        "energy_consumed_kwh": 68.51919496631803
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 49.75179689755983,
+        "temperature_c": 12.807352549919983,
+        "vehicle_age_years": 1.0,
+        "distance_km": 234.74660372234828,
+        "soc_start": 2.4811528334569806,
+        "energy_consumed_kwh": 30.773548133404887
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 4.78414666269556,
+        "temperature_c": 23.403014534948113,
+        "vehicle_age_years": 0.0,
+        "distance_km": 289.84699681052945,
+        "soc_start": 47.690745477713776,
+        "energy_consumed_kwh": 24.155781563888247
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 12.953727651636695,
+        "temperature_c": -4.604987942538754,
+        "vehicle_age_years": 1.0,
+        "distance_km": 131.3975209739695,
+        "soc_start": 83.74328834590922,
+        "energy_consumed_kwh": 26.730320039666697
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 23.292885323425644,
+        "temperature_c": -3.943574146378939,
+        "vehicle_age_years": 0.0,
+        "distance_km": 324.5247971919714,
+        "soc_start": 86.16287277426302,
+        "energy_consumed_kwh": 1.3302257390094765
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 34.72246309072786,
+        "temperature_c": 6.6727664136120595,
+        "vehicle_age_years": 5.0,
+        "distance_km": 274.4585098167528,
+        "soc_start": 46.5621884016344,
+        "energy_consumed_kwh": 37.703118718471266
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 10.446145756658929,
+        "temperature_c": 32.88270217309975,
+        "vehicle_age_years": 2.0,
+        "distance_km": 226.39489481465097,
+        "soc_start": 7.174271255012432,
+        "energy_consumed_kwh": 76.89240009827725
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.65969098050447,
+        "charging_rate_kw": 37.600563056455556,
+        "temperature_c": 9.953924428737027,
+        "vehicle_age_years": 1.719888607934359,
+        "distance_km": 167.6635290519136,
+        "soc_start": 42.30136723646485,
+        "energy_consumed_kwh": 66.09153402649976
+      },
+      "label": 86.24,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 7.635488881129267,
+        "temperature_c": -4.384463546384989,
+        "vehicle_age_years": 4.0,
+        "distance_km": 89.80286253287949,
+        "soc_start": 89.91469896836313,
+        "energy_consumed_kwh": 17.53493129851908
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 43.81287256129691,
+        "temperature_c": 38.568960762900524,
+        "vehicle_age_years": 3.0,
+        "distance_km": 298.7188568370856,
+        "soc_start": 23.358908235399383,
+        "energy_consumed_kwh": 8.234584116412151
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 34.01485460165388,
+        "temperature_c": -7.571738421994169,
+        "vehicle_age_years": 5.0,
+        "distance_km": 274.9805426032393,
+        "soc_start": 75.98838195309912,
+        "energy_consumed_kwh": 49.40924272632639
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 33.333004333464,
+        "temperature_c": 37.805048131823085,
+        "vehicle_age_years": 5.0,
+        "distance_km": 30.432545899504376,
+        "soc_start": 35.85159555483042,
+        "energy_consumed_kwh": 9.98078152795496
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 21.51246491908547,
+        "temperature_c": 13.412847370406325,
+        "vehicle_age_years": 4.0,
+        "distance_km": 281.3132043755616,
+        "soc_start": 32.74760815559499,
+        "energy_consumed_kwh": 75.57096449529908
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 3.91865577143935,
+        "temperature_c": 39.93747558297834,
+        "vehicle_age_years": 7.0,
+        "distance_km": 63.03242621804411,
+        "soc_start": 72.82160527280595,
+        "energy_consumed_kwh": 44.36125627735559
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 16.371516065901147,
+        "temperature_c": 35.74915475913812,
+        "vehicle_age_years": 7.0,
+        "distance_km": 250.81226353673233,
+        "soc_start": 26.685522266314265,
+        "energy_consumed_kwh": 39.48883106753241
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 10.60205634209747,
+        "temperature_c": 33.404773441516134,
+        "vehicle_age_years": 1.0,
+        "distance_km": 296.57555225607615,
+        "soc_start": 44.919466155459816,
+        "energy_consumed_kwh": 21.871253290777542
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 42.96030719302265,
+        "temperature_c": 10.739123065261666,
+        "vehicle_age_years": 2.0,
+        "distance_km": 208.81560461103953,
+        "soc_start": 12.43408225621689,
+        "energy_consumed_kwh": 47.23207084043696
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 41.40704557419398,
+        "temperature_c": 39.53379889129042,
+        "vehicle_age_years": 3.0,
+        "distance_km": 141.46830962772606,
+        "soc_start": 19.82642791357606,
+        "energy_consumed_kwh": 54.96447201998234
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 31.655896284542944,
+        "temperature_c": 34.02288007257426,
+        "vehicle_age_years": 1.0,
+        "distance_km": 265.6948968905379,
+        "soc_start": 24.843632006236234,
+        "energy_consumed_kwh": 27.752745917900942
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 37.86028498935581,
+        "temperature_c": 36.15182985380533,
+        "vehicle_age_years": 1.0,
+        "distance_km": 56.42945115351432,
+        "soc_start": 21.0234699710778,
+        "energy_consumed_kwh": 36.46547333950338
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 10.411646338286076,
+        "temperature_c": 23.90632005170732,
+        "vehicle_age_years": 5.0,
+        "distance_km": 101.5541015622207,
+        "soc_start": 53.19306374895672,
+        "energy_consumed_kwh": 57.896271802948434
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 27.14552199858703,
+        "temperature_c": 19.394695410871684,
+        "vehicle_age_years": 2.0,
+        "distance_km": 211.49463071710633,
+        "soc_start": 88.85463220577344,
+        "energy_consumed_kwh": 26.050244075726226
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 17.885559321838468,
+        "temperature_c": 24.415749864821812,
+        "vehicle_age_years": 4.0,
+        "distance_km": 93.34872261816982,
+        "soc_start": 58.36277008675972,
+        "energy_consumed_kwh": 67.45812734205117
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 27.805230847752817,
+        "temperature_c": 17.947029494117277,
+        "vehicle_age_years": 7.0,
+        "distance_km": 112.09773917395252,
+        "soc_start": 19.3235262252255,
+        "energy_consumed_kwh": 48.38617697981442
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 10.553605881721566,
+        "temperature_c": 2.483073707467046,
+        "vehicle_age_years": 6.0,
+        "distance_km": 286.8165204249623,
+        "soc_start": 32.90161477916705,
+        "energy_consumed_kwh": 59.19854015458014
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.30920245060118,
+        "charging_rate_kw": 46.54335629892145,
+        "temperature_c": 11.133741048080473,
+        "vehicle_age_years": 4.435152229171791,
+        "distance_km": 224.55991659553533,
+        "soc_start": 64.74836809986499,
+        "energy_consumed_kwh": 41.13168722967361
+      },
+      "label": 64.52,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 32.557458225025094,
+        "temperature_c": 38.50327216283354,
+        "vehicle_age_years": 4.0,
+        "distance_km": 82.99980869537478,
+        "soc_start": 24.928497412962436,
+        "energy_consumed_kwh": 76.16478844210974
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 34.63627057083493,
+        "temperature_c": -9.162198722399426,
+        "vehicle_age_years": 0.0,
+        "distance_km": 62.52915278643372,
+        "soc_start": 25.34809142974842,
+        "energy_consumed_kwh": 50.530530567118596
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 8.179964335506256,
+        "temperature_c": 14.564571127261203,
+        "vehicle_age_years": 6.0,
+        "distance_km": 294.29323282589513,
+        "soc_start": 50.627588257932686,
+        "energy_consumed_kwh": 55.62849667174399
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.63170318839946,
+        "charging_rate_kw": 23.57785071707293,
+        "temperature_c": 9.250148405255207,
+        "vehicle_age_years": 2.0,
+        "distance_km": 299.66295076387314,
+        "soc_start": 34.7020621089598,
+        "energy_consumed_kwh": 62.26265635402747
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 34.74098370272331,
+        "temperature_c": 9.18785717676932,
+        "vehicle_age_years": 6.0,
+        "distance_km": 263.5762086133218,
+        "soc_start": 55.960807961988976,
+        "energy_consumed_kwh": 35.84413909327468
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 28.59217552015043,
+        "charging_rate_kw": 14.971801438288827,
+        "temperature_c": 18.599293737136655,
+        "vehicle_age_years": 4.38750096917324,
+        "distance_km": 61.808973208707876,
+        "soc_start": 26.459694563687002,
+        "energy_consumed_kwh": 68.45025675480477
+      },
+      "label": 64.9,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 10.887323539659542,
+        "temperature_c": 34.42869923801459,
+        "vehicle_age_years": 6.0,
+        "distance_km": 176.22132849649384,
+        "soc_start": 52.13517502591924,
+        "energy_consumed_kwh": 79.94974411198142
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.56515006953762,
+        "charging_rate_kw": 26.03119049253551,
+        "temperature_c": 8.825917552483563,
+        "vehicle_age_years": 1.0,
+        "distance_km": 146.92200690081458,
+        "soc_start": 81.15318319370941,
+        "energy_consumed_kwh": 24.04346935025211
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.35371606217463,
+        "charging_rate_kw": 19.461110622460048,
+        "temperature_c": 31.63668928912557,
+        "vehicle_age_years": 4.0,
+        "distance_km": 172.51949017269516,
+        "soc_start": 58.016494112477474,
+        "energy_consumed_kwh": 39.88426993608347
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 41.18494267350982,
+        "temperature_c": 39.63190879237284,
+        "vehicle_age_years": 6.0,
+        "distance_km": 245.858001075849,
+        "soc_start": 40.694992131073974,
+        "energy_consumed_kwh": 13.003539499532653
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 13.825035587120569,
+        "temperature_c": 38.666963309829576,
+        "vehicle_age_years": 6.0,
+        "distance_km": 19.30831574067269,
+        "soc_start": 44.08631934914307,
+        "energy_consumed_kwh": 72.94073165721504
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 7.443107755455118,
+        "temperature_c": 4.698829486440202,
+        "vehicle_age_years": 7.0,
+        "distance_km": 155.30508006828438,
+        "soc_start": 87.22062649241695,
+        "energy_consumed_kwh": 72.27855411576432
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 49.3332345217414,
+        "temperature_c": 37.57672672417906,
+        "vehicle_age_years": 2.396060328531535,
+        "distance_km": 179.29269019534732,
+        "soc_start": 18.983577712791817,
+        "energy_consumed_kwh": 5.20011260069647
+      },
+      "label": 80.83,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 39.467878783943036,
+        "temperature_c": -0.8311422705916858,
+        "vehicle_age_years": 2.0,
+        "distance_km": 55.974774420257475,
+        "soc_start": 49.899302365064386,
+        "energy_consumed_kwh": 71.8059193887291
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.0,
+        "charging_rate_kw": 26.144302699478178,
+        "temperature_c": -2.44159530106516,
+        "vehicle_age_years": 4.0,
+        "distance_km": 31.306384739220636,
+        "soc_start": 75.85891513688586,
+        "energy_consumed_kwh": 11.422192304640166
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 11.380196211545622,
+        "temperature_c": 36.44591302779551,
+        "vehicle_age_years": 5.0,
+        "distance_km": 179.74890892986397,
+        "soc_start": 88.54355771236987,
+        "energy_consumed_kwh": 17.628897372729085
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 64.92538262404466,
+        "charging_rate_kw": 28.926485022423556,
+        "temperature_c": 11.995372899168597,
+        "vehicle_age_years": 3.0,
+        "distance_km": 27.664902149475136,
+        "soc_start": 34.59232797281263,
+        "energy_consumed_kwh": 77.2662199543138
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 17.34136645625693,
+        "temperature_c": 20.055112427461744,
+        "vehicle_age_years": 0.0,
+        "distance_km": 88.54041810511625,
+        "soc_start": 78.3928712319015,
+        "energy_consumed_kwh": 12.89314235582393
+      },
+      "label": 100.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 26.42378193855539,
+        "temperature_c": 36.64249003843529,
+        "vehicle_age_years": 5.0,
+        "distance_km": 196.28953643875533,
+        "soc_start": 52.49864487916761,
+        "energy_consumed_kwh": 77.69879024520026
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 31.654116000336426,
+        "temperature_c": 19.119130636668526,
+        "vehicle_age_years": 7.0,
+        "distance_km": 205.84036161786625,
+        "soc_start": 43.879008936990076,
+        "energy_consumed_kwh": 94.36532940921012
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 36.00275417138911,
+        "temperature_c": 3.915833020589746,
+        "vehicle_age_years": 4.0,
+        "distance_km": 49.91211987419893,
+        "soc_start": 60.90486524314052,
+        "energy_consumed_kwh": 43.95822631658241
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 42.36624663230756,
+        "temperature_c": 5.652113104489251,
+        "vehicle_age_years": 3.0,
+        "distance_km": 92.32721901570342,
+        "soc_start": 27.945913497295596,
+        "energy_consumed_kwh": 76.48074420185159
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 41.69006799409875,
+        "temperature_c": 18.711758044699764,
+        "vehicle_age_years": 6.0,
+        "distance_km": 139.2442142295559,
+        "soc_start": 79.45408421714306,
+        "energy_consumed_kwh": 53.11979970086487
+      },
+      "label": 52.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 41.23721127651863,
+        "temperature_c": 22.89738526887777,
+        "vehicle_age_years": 2.0,
+        "distance_km": 259.92418832966825,
+        "soc_start": 49.96693224975138,
+        "energy_consumed_kwh": 20.79043601283822
+      },
+      "label": 84.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 22.7071329794279,
+        "temperature_c": 10.607186286536084,
+        "vehicle_age_years": 4.0,
+        "distance_km": 29.81287894734365,
+        "soc_start": 87.1299945616067,
+        "energy_consumed_kwh": 33.694161775319
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.0,
+        "charging_rate_kw": 31.31248135190241,
+        "temperature_c": 17.258362408967805,
+        "vehicle_age_years": 5.0,
+        "distance_km": 61.5066692485589,
+        "soc_start": 11.792607718349384,
+        "energy_consumed_kwh": 45.15937317195059
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 57.099752173598255,
+        "temperature_c": 9.383136165270326,
+        "vehicle_age_years": 7.0,
+        "distance_km": 206.43954119464834,
+        "soc_start": 38.42252020734118,
+        "energy_consumed_kwh": 27.63793401856366
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.0,
+        "charging_rate_kw": 36.80042526371527,
+        "temperature_c": 12.616241444127667,
+        "vehicle_age_years": 1.0,
+        "distance_km": 131.97073687718645,
+        "soc_start": 67.3630481060283,
+        "energy_consumed_kwh": 10.201613009568991
+      },
+      "label": 92.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 13.302986684846335,
+        "temperature_c": 14.641852951912686,
+        "vehicle_age_years": 5.0,
+        "distance_km": 1.899537885161329,
+        "soc_start": 55.03840484815587,
+        "energy_consumed_kwh": 42.01795949517358
+      },
+      "label": 60.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 18.68529365558645,
+        "temperature_c": 0.2591031271149493,
+        "vehicle_age_years": 7.0,
+        "distance_km": 209.3717699783492,
+        "soc_start": 34.03764756225564,
+        "energy_consumed_kwh": 39.70699556704798
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 26.726596804263863,
+        "temperature_c": 22.669920271465017,
+        "vehicle_age_years": 7.0,
+        "distance_km": 279.86671797697693,
+        "soc_start": 32.3628019605393,
+        "energy_consumed_kwh": 85.03985430629427
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.0,
+        "charging_rate_kw": 43.773377108489925,
+        "temperature_c": 9.626570733910736,
+        "vehicle_age_years": 7.0,
+        "distance_km": 58.799043403147216,
+        "soc_start": 44.00642537134895,
+        "energy_consumed_kwh": 9.209067930589207
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.0,
+        "charging_rate_kw": 17.12999180051812,
+        "temperature_c": 33.93763722562681,
+        "vehicle_age_years": 4.0,
+        "distance_km": 35.63520160727205,
+        "soc_start": 48.17084638968186,
+        "energy_consumed_kwh": 65.23254316413059
+      },
+      "label": 68.0,
+      "service_required": true,
+      "vehicle_model": "Tesla Model 3"
+    },
+    {
+      "features": {
+        "battery_capacity": 129.35061620415664,
+        "charging_rate_kw": 10.491920900615758,
+        "temperature_c": -1.3699940674453366,
+        "vehicle_age_years": 3.0,
+        "distance_km": 279.55227750602785,
+        "soc_start": 41.856824690728146,
+        "energy_consumed_kwh": 60.7251438890711
+      },
+      "label": 76.0,
+      "service_required": false,
+      "vehicle_model": "Tesla Model 3"
+    }
+  ]
+}

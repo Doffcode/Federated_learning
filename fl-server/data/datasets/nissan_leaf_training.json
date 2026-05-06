@@ -1,0 +1,4207 @@
+{
+  "vehicle_model": "Nissan Leaf",
+  "samples": 300,
+  "data_type": "synthetic_realistic",
+  "data": [
+    {
+      "features": {
+        "battery_capacity": 43.43209473608135,
+        "charging_rate_kw": 44.366722586616895,
+        "temperature_c": 6.132586476339171,
+        "vehicle_age_years": 0.22627551045184288,
+        "distance_km": 259.0585661692954,
+        "soc_start": 82.36688157616442,
+        "energy_consumed_kwh": 76.82021587655113
+      },
+      "label": 98.19,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 106.33940132705885,
+        "charging_rate_kw": 36.07728922771228,
+        "temperature_c": 33.934674389862074,
+        "vehicle_age_years": 3.4692681667856355,
+        "distance_km": 230.60380674805924,
+        "soc_start": 72.57630659696932,
+        "energy_consumed_kwh": 16.85048943827376
+      },
+      "label": 72.25,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 95.54020348750046,
+        "charging_rate_kw": 4,
+        "temperature_c": -6.077310042174714,
+        "vehicle_age_years": 0.7542897214156108,
+        "distance_km": 279.5496346944221,
+        "soc_start": 54.19065816028921,
+        "energy_consumed_kwh": 8.204400925761377
+      },
+      "label": 93.97,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.26433188902635,
+        "charging_rate_kw": 5.9789384482268,
+        "temperature_c": 0.4624585886382482,
+        "vehicle_age_years": 0.6578420479514365,
+        "distance_km": 174.69702280155292,
+        "soc_start": 99.75384331574006,
+        "energy_consumed_kwh": 45.806353983390345
+      },
+      "label": 94.74,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.18859860301757,
+        "charging_rate_kw": 4,
+        "temperature_c": 5.006710635212863,
+        "vehicle_age_years": 2.2896012697261936,
+        "distance_km": 31.089378733301345,
+        "soc_start": 49.46094588780177,
+        "energy_consumed_kwh": 64.20222128080417
+      },
+      "label": 81.68,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 111.8796130381906,
+        "charging_rate_kw": 20.19023748755353,
+        "temperature_c": -10,
+        "vehicle_age_years": 3.7649610668142715,
+        "distance_km": 65.39786015341284,
+        "soc_start": 32.741351643798254,
+        "energy_consumed_kwh": 52.741775030023874
+      },
+      "label": 69.88,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.76231498292749,
+        "charging_rate_kw": 20.48929081042082,
+        "temperature_c": 44.47332743461375,
+        "vehicle_age_years": 2.512191772095346,
+        "distance_km": 85.30291833818839,
+        "soc_start": 46.07245875964363,
+        "energy_consumed_kwh": 5
+      },
+      "label": 79.9,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.25243249565695,
+        "charging_rate_kw": 48.40082760009861,
+        "temperature_c": 37.0687874448702,
+        "vehicle_age_years": 1.0836032364562285,
+        "distance_km": 23.2588256532276,
+        "soc_start": 63.44379490193898,
+        "energy_consumed_kwh": 47.47168095091348
+      },
+      "label": 91.33,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.13145107074024,
+        "charging_rate_kw": 40.430615746831776,
+        "temperature_c": 3.130238819462685,
+        "vehicle_age_years": 0.2316511123397516,
+        "distance_km": 101.7431541178971,
+        "soc_start": 60.68982629868938,
+        "energy_consumed_kwh": 33.36809338607089
+      },
+      "label": 98.15,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.87953201246104,
+        "charging_rate_kw": 39.03218552819694,
+        "temperature_c": 27.61302823240228,
+        "vehicle_age_years": 0.8057270964486999,
+        "distance_km": 59.44530995510851,
+        "soc_start": 77.21677248695342,
+        "energy_consumed_kwh": 55.42013279935551
+      },
+      "label": 93.55,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 92.26154518589406,
+        "charging_rate_kw": 43.26084980742197,
+        "temperature_c": -2.960047806390226,
+        "vehicle_age_years": 1.7374707334344925,
+        "distance_km": 319.6787426525371,
+        "soc_start": 62.973096088613254,
+        "energy_consumed_kwh": 66.56322922342082
+      },
+      "label": 86.1,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 74.97846361402807,
+        "charging_rate_kw": 16.96451021317611,
+        "temperature_c": 45,
+        "vehicle_age_years": 1.3185394517164413,
+        "distance_km": 124.76585913004442,
+        "soc_start": 75.71356507205043,
+        "energy_consumed_kwh": 42.219990320135935
+      },
+      "label": 89.45,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.76646128934951,
+        "charging_rate_kw": 44.613217184364096,
+        "temperature_c": 12.355129270761697,
+        "vehicle_age_years": 0.7476141397584007,
+        "distance_km": 236.895817566184,
+        "soc_start": 49.434934444572434,
+        "energy_consumed_kwh": 48.459166339450675
+      },
+      "label": 94.02,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 43.85441930710489,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.09142422309338047,
+        "distance_km": 177.67578765429136,
+        "soc_start": 82.00451131755015,
+        "energy_consumed_kwh": 20.87595131963779
+      },
+      "label": 99.27,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.16014996948482,
+        "charging_rate_kw": 39.079615148459844,
+        "temperature_c": -4.150538152160937,
+        "vehicle_age_years": 0.559197518736724,
+        "distance_km": 19.62666694499886,
+        "soc_start": 30.86699926702693,
+        "energy_consumed_kwh": 29.087345641506055
+      },
+      "label": 95.53,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.87023986117907,
+        "charging_rate_kw": 15.372682578777027,
+        "temperature_c": 37.81331453798614,
+        "vehicle_age_years": 2.1418458703223475,
+        "distance_km": 109.75704521036995,
+        "soc_start": 48.65975569930091,
+        "energy_consumed_kwh": 35.52796858257731
+      },
+      "label": 82.87,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.665601975893175,
+        "charging_rate_kw": 37.702827285618774,
+        "temperature_c": 38.96458949531944,
+        "vehicle_age_years": 2.439768213838832,
+        "distance_km": 189.51983713141448,
+        "soc_start": 19.157684385442813,
+        "energy_consumed_kwh": 81.68896791373368
+      },
+      "label": 80.48,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.29202453200107,
+        "charging_rate_kw": 46.92889237512283,
+        "temperature_c": 10.829430598460135,
+        "vehicle_age_years": 0.438986132767822,
+        "distance_km": 23.141329461667766,
+        "soc_start": 38.20636990463268,
+        "energy_consumed_kwh": 10.575150504009557
+      },
+      "label": 96.49,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.68006708362408,
+        "charging_rate_kw": 7.5283527599930995,
+        "temperature_c": 39.73307078012617,
+        "vehicle_age_years": 1.8899382124780435,
+        "distance_km": 111.3485714208025,
+        "soc_start": 83.23644288348405,
+        "energy_consumed_kwh": 66.41307335147371
+      },
+      "label": 84.88,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.53318889207101,
+        "charging_rate_kw": 9.052264323585273,
+        "temperature_c": 2.19507775663578,
+        "vehicle_age_years": 1.7840176998171857,
+        "distance_km": 93.65117776966143,
+        "soc_start": 43.597546386787954,
+        "energy_consumed_kwh": 47.88104314442862
+      },
+      "label": 85.73,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.20490384637466,
+        "charging_rate_kw": 27.780443373565053,
+        "temperature_c": 5.297208004855623,
+        "vehicle_age_years": 1.43006942703214,
+        "distance_km": 52.58115513231512,
+        "soc_start": 67.19514778527717,
+        "energy_consumed_kwh": 76.49728347873268
+      },
+      "label": 88.56,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 64.20223844089034,
+        "charging_rate_kw": 16.42353313177236,
+        "temperature_c": 4.247651029607175,
+        "vehicle_age_years": 1.6189691146160476,
+        "distance_km": 194.01961499435217,
+        "soc_start": 14.825013636775314,
+        "energy_consumed_kwh": 70.2564921633567
+      },
+      "label": 87.05,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.75345240992179,
+        "charging_rate_kw": 13.477669773772838,
+        "temperature_c": 29.459471085854204,
+        "vehicle_age_years": 6.0665339579343085,
+        "distance_km": 93.2901283831484,
+        "soc_start": 68.7762784551627,
+        "energy_consumed_kwh": 7.700514316512494
+      },
+      "label": 51.47,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.02965774713311,
+        "charging_rate_kw": 4,
+        "temperature_c": -6.281384250098425,
+        "vehicle_age_years": 3.663810910852149,
+        "distance_km": 319.6987556846307,
+        "soc_start": 36.2880918602836,
+        "energy_consumed_kwh": 36.52533189011814
+      },
+      "label": 70.69,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.64691183301036,
+        "charging_rate_kw": 42.335613144239545,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.5093804539914261,
+        "distance_km": 177.15119646241922,
+        "soc_start": 54.57820087280389,
+        "energy_consumed_kwh": 14.592510673589048
+      },
+      "label": 95.92,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.83423494224655,
+        "charging_rate_kw": 33.90646609365743,
+        "temperature_c": -10,
+        "vehicle_age_years": 2.984314698115948,
+        "distance_km": 127.97278461335806,
+        "soc_start": 74.7082217017039,
+        "energy_consumed_kwh": 20.27225806270139
+      },
+      "label": 76.13,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.36103896838584,
+        "charging_rate_kw": 31.434753010831567,
+        "temperature_c": 16.008329319794043,
+        "vehicle_age_years": 0.49318758040428895,
+        "distance_km": 277.3087027066199,
+        "soc_start": 88.73288616491959,
+        "energy_consumed_kwh": 14.066686822374713
+      },
+      "label": 96.05,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.25651771830842,
+        "charging_rate_kw": 19.931099795582046,
+        "temperature_c": -9.349378401438656,
+        "vehicle_age_years": 0.18200157038166442,
+        "distance_km": 56.86124721721974,
+        "soc_start": 76.38516838038824,
+        "energy_consumed_kwh": 46.30771376250697
+      },
+      "label": 98.54,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.23589761174928,
+        "charging_rate_kw": 17.95094447514658,
+        "temperature_c": 13.28793103446885,
+        "vehicle_age_years": 0.8635078242946654,
+        "distance_km": 64.32606186517607,
+        "soc_start": 28.5957690568096,
+        "energy_consumed_kwh": 49.08225134363589
+      },
+      "label": 93.09,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.69688997261056,
+        "charging_rate_kw": 42.552800635065424,
+        "temperature_c": 16.27245327774193,
+        "vehicle_age_years": 1.5197743150287415,
+        "distance_km": 257.98948198201475,
+        "soc_start": 61.54620218322333,
+        "energy_consumed_kwh": 49.3504087920857
+      },
+      "label": 87.84,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.46191696885077,
+        "charging_rate_kw": 24.8751279981285,
+        "temperature_c": 29.83152315390052,
+        "vehicle_age_years": 1.4656004284598971,
+        "distance_km": 168.2499300436486,
+        "soc_start": 92.68918406468428,
+        "energy_consumed_kwh": 83.90248308279264
+      },
+      "label": 88.28,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.24156764682529,
+        "charging_rate_kw": 13.695286606118547,
+        "temperature_c": 6.838378373335144,
+        "vehicle_age_years": 2.4174784741227353,
+        "distance_km": 179.47580231801587,
+        "soc_start": 85.92000909791223,
+        "energy_consumed_kwh": 74.38548075210977
+      },
+      "label": 80.66,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.40512294777474,
+        "charging_rate_kw": 4,
+        "temperature_c": 11.837998967101719,
+        "vehicle_age_years": 1.3445675886669164,
+        "distance_km": 182.34094698230103,
+        "soc_start": 67.02649870152679,
+        "energy_consumed_kwh": 54.187202512499496
+      },
+      "label": 89.24,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 72.58103054517916,
+        "charging_rate_kw": 23.994505848845087,
+        "temperature_c": 11.66414690906907,
+        "vehicle_age_years": 2.7710084097366794,
+        "distance_km": 147.13658405366195,
+        "soc_start": 62.37599902020824,
+        "energy_consumed_kwh": 75.49418079592502
+      },
+      "label": 77.83,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.84654111678609,
+        "charging_rate_kw": 48.13601484590714,
+        "temperature_c": 14.04802746955575,
+        "vehicle_age_years": 3.756823180175237,
+        "distance_km": 10,
+        "soc_start": 86.50956158116281,
+        "energy_consumed_kwh": 19.442355683361725
+      },
+      "label": 69.95,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 42.273506591819256,
+        "charging_rate_kw": 23.680340296947232,
+        "temperature_c": 30.431947145379127,
+        "vehicle_age_years": 3.484198197721745,
+        "distance_km": 106.84293383734433,
+        "soc_start": 21.75348252767912,
+        "energy_consumed_kwh": 46.20712419807433
+      },
+      "label": 72.13,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 110.67035609913752,
+        "charging_rate_kw": 27.804780280406924,
+        "temperature_c": 7.554561463308303,
+        "vehicle_age_years": 3.105204717584461,
+        "distance_km": 47.984519113076296,
+        "soc_start": 85.30319609762995,
+        "energy_consumed_kwh": 68.68609325132402
+      },
+      "label": 75.16,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.88121347166981,
+        "charging_rate_kw": 14.901771458281813,
+        "temperature_c": 20.88447547435969,
+        "vehicle_age_years": 1.1642349463160233,
+        "distance_km": 128.29086592826064,
+        "soc_start": 21.872177864561216,
+        "energy_consumed_kwh": 85.45615991261208
+      },
+      "label": 90.69,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 111.52978215004035,
+        "charging_rate_kw": 4.303213720723851,
+        "temperature_c": 26.550932183078377,
+        "vehicle_age_years": 0.7186870152835018,
+        "distance_km": 240.85485304058636,
+        "soc_start": 17.417847763493196,
+        "energy_consumed_kwh": 56.68451453814981
+      },
+      "label": 94.25,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.05517867342317,
+        "charging_rate_kw": 4,
+        "temperature_c": 27.30032734978882,
+        "vehicle_age_years": 1.0094934983466453,
+        "distance_km": 280.9309033190091,
+        "soc_start": 73.33282357876398,
+        "energy_consumed_kwh": 76.43234949751691
+      },
+      "label": 91.92,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 109.47491280678322,
+        "charging_rate_kw": 32.57155894010427,
+        "temperature_c": 8.925112071333652,
+        "vehicle_age_years": 0.48012468295050453,
+        "distance_km": 108.1450005920137,
+        "soc_start": 10.725631211725911,
+        "energy_consumed_kwh": 10.933322706955925
+      },
+      "label": 96.16,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.37471649131466,
+        "charging_rate_kw": 37.1820189235058,
+        "temperature_c": -3.5698547622989922,
+        "vehicle_age_years": 2.3685429860372373,
+        "distance_km": 273.4188393327236,
+        "soc_start": 19.288137988758326,
+        "energy_consumed_kwh": 71.71855896233147
+      },
+      "label": 81.05,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.977806241101305,
+        "charging_rate_kw": 22.802701617384308,
+        "temperature_c": 1.948519143473571,
+        "vehicle_age_years": 4.2570786219783034,
+        "distance_km": 72.22153758871363,
+        "soc_start": 99.36461397217465,
+        "energy_consumed_kwh": 64.77352777344436
+      },
+      "label": 65.94,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.6913081546468,
+        "charging_rate_kw": 11.649514178785834,
+        "temperature_c": -3.8442029371222914,
+        "vehicle_age_years": 1.8848548746080223,
+        "distance_km": 215.12497859867221,
+        "soc_start": 92.79047121892788,
+        "energy_consumed_kwh": 27.711157388166825
+      },
+      "label": 84.92,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.17100161005254,
+        "charging_rate_kw": 9.290147891122498,
+        "temperature_c": 12.765408847826501,
+        "vehicle_age_years": 2.320334018742728,
+        "distance_km": 122.16193128202,
+        "soc_start": 63.061652598536185,
+        "energy_consumed_kwh": 35.80505163184319
+      },
+      "label": 81.44,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 63.69247491187967,
+        "charging_rate_kw": 25.397761563173773,
+        "temperature_c": 29.928264919248242,
+        "vehicle_age_years": 3.131575788591288,
+        "distance_km": 208.57334333346495,
+        "soc_start": 74.90616749736203,
+        "energy_consumed_kwh": 70.57139333263646
+      },
+      "label": 74.95,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 79.32784047709158,
+        "charging_rate_kw": 26.051711477482467,
+        "temperature_c": -0.26865697627791896,
+        "vehicle_age_years": 3.0189105358944843,
+        "distance_km": 94.97587084614392,
+        "soc_start": 56.59742150175137,
+        "energy_consumed_kwh": 30.314794041933574
+      },
+      "label": 75.85,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.20593151527065,
+        "charging_rate_kw": 24.558994536527507,
+        "temperature_c": -10,
+        "vehicle_age_years": 2.077876140538223,
+        "distance_km": 77.85656108688922,
+        "soc_start": 31.697358004468885,
+        "energy_consumed_kwh": 30.819006873764714
+      },
+      "label": 83.38,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 63.28427381594435,
+        "charging_rate_kw": 17.79729108923772,
+        "temperature_c": 44.44141026995774,
+        "vehicle_age_years": 1.8024582989162172,
+        "distance_km": 79.66992030623828,
+        "soc_start": 21.878459265943185,
+        "energy_consumed_kwh": 43.34697342053747
+      },
+      "label": 85.58,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.04331750275234,
+        "charging_rate_kw": 4,
+        "temperature_c": 33.44455778797811,
+        "vehicle_age_years": 1.5808860340624749,
+        "distance_km": 53.22254426988023,
+        "soc_start": 62.862714723333205,
+        "energy_consumed_kwh": 48.42411974726859
+      },
+      "label": 87.35,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.73757373012712,
+        "charging_rate_kw": 12.023393189701899,
+        "temperature_c": 28.96436313042058,
+        "vehicle_age_years": 0.6081250779317845,
+        "distance_km": 19.42760282805387,
+        "soc_start": 66.57136264545184,
+        "energy_consumed_kwh": 73.68759000750075
+      },
+      "label": 95.13,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.94536355901695,
+        "charging_rate_kw": 16.539787040538283,
+        "temperature_c": 10.64348306984635,
+        "vehicle_age_years": 1.0292570601280433,
+        "distance_km": 107.00436992875424,
+        "soc_start": 17.111940577756034,
+        "energy_consumed_kwh": 13.167590800520063
+      },
+      "label": 91.77,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.985998475703596,
+        "charging_rate_kw": 40.016803467958624,
+        "temperature_c": 29.560629220402365,
+        "vehicle_age_years": 0.32357042949306347,
+        "distance_km": 216.1363798282402,
+        "soc_start": 68.48555796813228,
+        "energy_consumed_kwh": 39.61000849385465
+      },
+      "label": 97.41,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.602009979683,
+        "charging_rate_kw": 4.906271046279117,
+        "temperature_c": 25.289592585279124,
+        "vehicle_age_years": 2.6183583484077517,
+        "distance_km": 198.36651768123778,
+        "soc_start": 50.80346580674284,
+        "energy_consumed_kwh": 9.090046870137432
+      },
+      "label": 79.05,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.10264028598705,
+        "charging_rate_kw": 23.583325794678345,
+        "temperature_c": 41.70061280334612,
+        "vehicle_age_years": 0.11320127465896393,
+        "distance_km": 221.58250767856737,
+        "soc_start": 22.349061765782274,
+        "energy_consumed_kwh": 74.9476865686891
+      },
+      "label": 99.09,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.66772434025243,
+        "charging_rate_kw": 34.29456843779717,
+        "temperature_c": -10,
+        "vehicle_age_years": 1.4805000615484052,
+        "distance_km": 239.90137658886297,
+        "soc_start": 80.30115819432888,
+        "energy_consumed_kwh": 66.56656104197116
+      },
+      "label": 88.16,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 80.19649471431705,
+        "charging_rate_kw": 36.98037788599964,
+        "temperature_c": -8.557730012387651,
+        "vehicle_age_years": 2.6405326813376044,
+        "distance_km": 151.4687554464709,
+        "soc_start": 57.146879030380234,
+        "energy_consumed_kwh": 20.47681131625463
+      },
+      "label": 78.88,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 150,
+        "charging_rate_kw": 38.94536183148749,
+        "temperature_c": -7.800516217167688,
+        "vehicle_age_years": 0.16040384181508308,
+        "distance_km": 129.4076062082289,
+        "soc_start": 43.091900007113054,
+        "energy_consumed_kwh": 12.45801692939782
+      },
+      "label": 98.72,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.43209741112945,
+        "charging_rate_kw": 28.88068970663415,
+        "temperature_c": -3.3174714295910777,
+        "vehicle_age_years": 2.968510891609931,
+        "distance_km": 89.84141109887362,
+        "soc_start": 10.231165542925972,
+        "energy_consumed_kwh": 61.956850342065486
+      },
+      "label": 76.25,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 74.02410570555116,
+        "charging_rate_kw": 22.012916714670787,
+        "temperature_c": 9.57536768090409,
+        "vehicle_age_years": 1.276426483132716,
+        "distance_km": 112.62114308373381,
+        "soc_start": 59.75783096462781,
+        "energy_consumed_kwh": 56.99327091392711
+      },
+      "label": 89.79,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 43.8354244543492,
+        "charging_rate_kw": 37.836299415667156,
+        "temperature_c": 14.47766193036923,
+        "vehicle_age_years": 2.6992756199097716,
+        "distance_km": 269.64785704061546,
+        "soc_start": 34.4132162208835,
+        "energy_consumed_kwh": 79.04855471350965
+      },
+      "label": 78.41,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.63246840067029,
+        "charging_rate_kw": 43.36532134658141,
+        "temperature_c": 10.347204482854476,
+        "vehicle_age_years": 2.237583360179741,
+        "distance_km": 81.6405436491449,
+        "soc_start": 46.08323623391522,
+        "energy_consumed_kwh": 63.82025302854189
+      },
+      "label": 82.1,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 63.01646597501575,
+        "charging_rate_kw": 38.43074595505628,
+        "temperature_c": 41.25025517389091,
+        "vehicle_age_years": 4.020312060357774,
+        "distance_km": 79.31382786008207,
+        "soc_start": 43.202742323729424,
+        "energy_consumed_kwh": 50.26906929543904
+      },
+      "label": 67.84,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 113.54038106897039,
+        "charging_rate_kw": 33.590536219589836,
+        "temperature_c": 9.083924719309184,
+        "vehicle_age_years": 1.9495221972072603,
+        "distance_km": 10,
+        "soc_start": 27.588018148554113,
+        "energy_consumed_kwh": 32.08756736904958
+      },
+      "label": 84.4,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.027704937945465,
+        "charging_rate_kw": 29.55542101401116,
+        "temperature_c": 15.07847263993768,
+        "vehicle_age_years": 2.8582552564678942,
+        "distance_km": 307.61933615386744,
+        "soc_start": 41.17813279654656,
+        "energy_consumed_kwh": 15.705636601503372
+      },
+      "label": 77.13,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.14296751035647,
+        "charging_rate_kw": 29.083335752013074,
+        "temperature_c": -9.331618710984813,
+        "vehicle_age_years": 0.0029262207194391365,
+        "distance_km": 70.34837595431779,
+        "soc_start": 57.68330401540113,
+        "energy_consumed_kwh": 18.81538392626799
+      },
+      "label": 99.98,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 95.81865357932051,
+        "charging_rate_kw": 12.387807023591682,
+        "temperature_c": 38.62449001334842,
+        "vehicle_age_years": 1.088819424100619,
+        "distance_km": 228.04912456242525,
+        "soc_start": 13.951023913284358,
+        "energy_consumed_kwh": 14.786220750122494
+      },
+      "label": 91.29,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 136.56853340148731,
+        "charging_rate_kw": 4,
+        "temperature_c": 42.577217119950404,
+        "vehicle_age_years": 2.413599657851887,
+        "distance_km": 178.20312616382998,
+        "soc_start": 22.016246522586126,
+        "energy_consumed_kwh": 67.84490893500727
+      },
+      "label": 80.69,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.59608737225525,
+        "charging_rate_kw": 18.35034143397381,
+        "temperature_c": -8.861688803567013,
+        "vehicle_age_years": 1.0029102923990565,
+        "distance_km": 35.518188420513795,
+        "soc_start": 36.25084216512131,
+        "energy_consumed_kwh": 56.243614470454304
+      },
+      "label": 91.98,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.29103433735867,
+        "charging_rate_kw": 4.470344354690768,
+        "temperature_c": 12.188108249952872,
+        "vehicle_age_years": 2.4127888436293037,
+        "distance_km": 163.8285401121691,
+        "soc_start": 28.244136365131034,
+        "energy_consumed_kwh": 54.52605752799645
+      },
+      "label": 80.7,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.92853615679887,
+        "charging_rate_kw": 33.693956315166275,
+        "temperature_c": 4.128390356002186,
+        "vehicle_age_years": 2.9406273045801425,
+        "distance_km": 266.1482128611842,
+        "soc_start": 20.866306336471503,
+        "energy_consumed_kwh": 30.471210684998987
+      },
+      "label": 76.47,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.66684835994116,
+        "charging_rate_kw": 12.186738660397138,
+        "temperature_c": 31.54473943899387,
+        "vehicle_age_years": 0.7372282035231089,
+        "distance_km": 217.36659294599863,
+        "soc_start": 84.37480191456848,
+        "energy_consumed_kwh": 30.20121151854758
+      },
+      "label": 94.1,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.43723931867729,
+        "charging_rate_kw": 21.733569956241613,
+        "temperature_c": 2.7246776501267913,
+        "vehicle_age_years": 1.8491624390927859,
+        "distance_km": 233.57615568333614,
+        "soc_start": 97.1560003758732,
+        "energy_consumed_kwh": 27.79318544786559
+      },
+      "label": 85.21,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 44.76344956830648,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.602661027517084,
+        "distance_km": 158.4950620932106,
+        "soc_start": 77.32706024878382,
+        "energy_consumed_kwh": 21.97014763515545
+      },
+      "label": 95.18,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.40035263177964,
+        "charging_rate_kw": 43.367495678563095,
+        "temperature_c": 27.46489656832727,
+        "vehicle_age_years": 0.1990336400257523,
+        "distance_km": 111.93416387045431,
+        "soc_start": 80.2863994123865,
+        "energy_consumed_kwh": 30.760317510874813
+      },
+      "label": 98.41,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 67.23600447284632,
+        "charging_rate_kw": 29.881605393565856,
+        "temperature_c": 25.644649439778785,
+        "vehicle_age_years": 0.9311938861414686,
+        "distance_km": 190.09575649434197,
+        "soc_start": 83.1472382452253,
+        "energy_consumed_kwh": 26.9555035016485
+      },
+      "label": 92.55,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.71728417557122,
+        "charging_rate_kw": 10.706760994048825,
+        "temperature_c": 19.20526720147767,
+        "vehicle_age_years": 4.728907023100891,
+        "distance_km": 10,
+        "soc_start": 86.2547891187821,
+        "energy_consumed_kwh": 24.74849437536107
+      },
+      "label": 62.17,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.74143240605639,
+        "charging_rate_kw": 46.449917274510796,
+        "temperature_c": 21.443190462129557,
+        "vehicle_age_years": 0.10392956781501338,
+        "distance_km": 89.32317967177678,
+        "soc_start": 44.445649471053194,
+        "energy_consumed_kwh": 42.7240875105486
+      },
+      "label": 99.17,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.13240929358813,
+        "charging_rate_kw": 28.212015402584967,
+        "temperature_c": 28.35221024334245,
+        "vehicle_age_years": 0.3794349872601687,
+        "distance_km": 175.86290924591066,
+        "soc_start": 13.118449935835532,
+        "energy_consumed_kwh": 37.30088120365417
+      },
+      "label": 96.96,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 80.90939730690346,
+        "charging_rate_kw": 25.973276387825948,
+        "temperature_c": -10,
+        "vehicle_age_years": 1.3818657079692,
+        "distance_km": 100.99082056755438,
+        "soc_start": 47.73113390766979,
+        "energy_consumed_kwh": 28.465886117507868
+      },
+      "label": 88.95,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.8554933347248,
+        "charging_rate_kw": 13.541305140961096,
+        "temperature_c": 29.461431524595756,
+        "vehicle_age_years": 4.319612216854955,
+        "distance_km": 233.73163716931387,
+        "soc_start": 99.04632541853805,
+        "energy_consumed_kwh": 77.60330695543423
+      },
+      "label": 65.44,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.604880997038684,
+        "charging_rate_kw": 27.058011398316495,
+        "temperature_c": 23.516402919521255,
+        "vehicle_age_years": 3.0413446201544896,
+        "distance_km": 285.5547359851436,
+        "soc_start": 12.345667099200046,
+        "energy_consumed_kwh": 13.817335843872701
+      },
+      "label": 75.67,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 111.01685151286728,
+        "charging_rate_kw": 30.354314449254627,
+        "temperature_c": 19.248208921879,
+        "vehicle_age_years": 0.4944119569635701,
+        "distance_km": 128.99592549387071,
+        "soc_start": 57.648906276888845,
+        "energy_consumed_kwh": 61.01550755840899
+      },
+      "label": 96.04,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.501803256412266,
+        "charging_rate_kw": 6.042326661407131,
+        "temperature_c": 17.549269310923222,
+        "vehicle_age_years": 0.21101958094186388,
+        "distance_km": 141.8608563219987,
+        "soc_start": 15.031779026720478,
+        "energy_consumed_kwh": 67.95044795495693
+      },
+      "label": 98.31,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.88641806266786,
+        "charging_rate_kw": 10.806468200851542,
+        "temperature_c": 4.616071314573743,
+        "vehicle_age_years": 1.7145918567217875,
+        "distance_km": 50.57410747518775,
+        "soc_start": 25.63408282286698,
+        "energy_consumed_kwh": 32.104966733782554
+      },
+      "label": 86.28,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 91.974289799362,
+        "charging_rate_kw": 28.809396568235293,
+        "temperature_c": 27.898256147367476,
+        "vehicle_age_years": 2.3921849622526983,
+        "distance_km": 108.78790865452945,
+        "soc_start": 60.72458381048743,
+        "energy_consumed_kwh": 33.893555130899806
+      },
+      "label": 80.86,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.55995441219815,
+        "charging_rate_kw": 31.069867972028483,
+        "temperature_c": 24.72196163640143,
+        "vehicle_age_years": 5.927246889466622,
+        "distance_km": 251.28434801709216,
+        "soc_start": 25.800109089458566,
+        "energy_consumed_kwh": 43.87473678596811
+      },
+      "label": 52.58,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.6427144671578,
+        "charging_rate_kw": 6.48081921011827,
+        "temperature_c": -4.1792462907581935,
+        "vehicle_age_years": 0.4938710522857789,
+        "distance_km": 250.67464926465405,
+        "soc_start": 21.744059105726432,
+        "energy_consumed_kwh": 36.3551053584039
+      },
+      "label": 96.05,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 80.20979452604142,
+        "charging_rate_kw": 17.500194267220934,
+        "temperature_c": 19.873094515765555,
+        "vehicle_age_years": 0.39071602097154884,
+        "distance_km": 253.9485038359127,
+        "soc_start": 73.42267075590918,
+        "energy_consumed_kwh": 36.31653150414437
+      },
+      "label": 96.87,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.01455033000629,
+        "charging_rate_kw": 13.388935794057044,
+        "temperature_c": 23.85867663189758,
+        "vehicle_age_years": 3.9418124609641425,
+        "distance_km": 154.51891128798007,
+        "soc_start": 19.092895316261767,
+        "energy_consumed_kwh": 72.01864853535118
+      },
+      "label": 68.47,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.83990201594304,
+        "charging_rate_kw": 27.419375872651923,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.7789961380191609,
+        "distance_km": 103.77527077104169,
+        "soc_start": 53.84800172169673,
+        "energy_consumed_kwh": 43.19696292947747
+      },
+      "label": 93.77,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.43451575333086,
+        "charging_rate_kw": 23.329036143877524,
+        "temperature_c": 29.46391235566971,
+        "vehicle_age_years": 2.365469202150142,
+        "distance_km": 93.83592381836178,
+        "soc_start": 25.78164669911987,
+        "energy_consumed_kwh": 16.89106808494389
+      },
+      "label": 81.08,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 83.61838659017216,
+        "charging_rate_kw": 42.83684693130274,
+        "temperature_c": 44.794063399348424,
+        "vehicle_age_years": 2.6484801465113996,
+        "distance_km": 77.01125294148807,
+        "soc_start": 61.55513134035563,
+        "energy_consumed_kwh": 50.14635089652666
+      },
+      "label": 78.81,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.92869206930645,
+        "charging_rate_kw": 33.74608605672691,
+        "temperature_c": 10.829587475228964,
+        "vehicle_age_years": 0.06583733096167999,
+        "distance_km": 313.45481304375505,
+        "soc_start": 60.899522150828844,
+        "energy_consumed_kwh": 47.28003879731224
+      },
+      "label": 99.47,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.82744563526594,
+        "charging_rate_kw": 7.371214618359069,
+        "temperature_c": 26.632235576433594,
+        "vehicle_age_years": 0.3031425444024633,
+        "distance_km": 79.63517750316196,
+        "soc_start": 89.67882280556236,
+        "energy_consumed_kwh": 18.794952639576042
+      },
+      "label": 97.57,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 91.64990646286294,
+        "charging_rate_kw": 19.02700011679352,
+        "temperature_c": 33.47536106515264,
+        "vehicle_age_years": 2.61338434129377,
+        "distance_km": 96.9842911383923,
+        "soc_start": 41.543304570758444,
+        "energy_consumed_kwh": 46.630677693709494
+      },
+      "label": 79.09,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.90039035751607,
+        "charging_rate_kw": 47.527587048737836,
+        "temperature_c": 5.719778299042076,
+        "vehicle_age_years": 0.2286558755077252,
+        "distance_km": 10,
+        "soc_start": 89.60967978285048,
+        "energy_consumed_kwh": 40.98527998545085
+      },
+      "label": 98.17,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.339168060586246,
+        "charging_rate_kw": 31.72982693269881,
+        "temperature_c": 10.396263820731523,
+        "vehicle_age_years": 0.9411197929570915,
+        "distance_km": 251.32017567295068,
+        "soc_start": 30.30244547604833,
+        "energy_consumed_kwh": 6.273317603794319
+      },
+      "label": 92.47,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.78556182289293,
+        "charging_rate_kw": 10.262031301042562,
+        "temperature_c": 23.878391465499558,
+        "vehicle_age_years": 0.15313451880923276,
+        "distance_km": 259.39149535784134,
+        "soc_start": 16.67803615899934,
+        "energy_consumed_kwh": 26.171286079431045
+      },
+      "label": 98.77,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.80468061880302,
+        "charging_rate_kw": 45.20529756672039,
+        "temperature_c": 11.114153120418315,
+        "vehicle_age_years": 0.1559283176363451,
+        "distance_km": 71.95861750608307,
+        "soc_start": 90.39035553817682,
+        "energy_consumed_kwh": 92.33393366922662
+      },
+      "label": 98.75,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.49350682477349,
+        "charging_rate_kw": 10.394418988622489,
+        "temperature_c": 1.5910420765792046,
+        "vehicle_age_years": 0.06296730750783161,
+        "distance_km": 148.414347355871,
+        "soc_start": 19.113202987600207,
+        "energy_consumed_kwh": 41.6817609225956
+      },
+      "label": 99.5,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.99202280556236,
+        "charging_rate_kw": 19.30137766851145,
+        "temperature_c": -4.783245275457356,
+        "vehicle_age_years": 1.615376898274662,
+        "distance_km": 182.1948445876909,
+        "soc_start": 18.632432926201744,
+        "energy_consumed_kwh": 25.496991293505335
+      },
+      "label": 87.08,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.47193942188935,
+        "charging_rate_kw": 4,
+        "temperature_c": 13.156747392536086,
+        "vehicle_age_years": 1.696188791744221,
+        "distance_km": 189.76622726519136,
+        "soc_start": 36.50945040695933,
+        "energy_consumed_kwh": 49.01966884152473
+      },
+      "label": 86.43,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.78044158129968,
+        "charging_rate_kw": 43.07213692674302,
+        "temperature_c": 22.288882498378943,
+        "vehicle_age_years": 0.20403643136630895,
+        "distance_km": 313.15141874028313,
+        "soc_start": 20.395803136764506,
+        "energy_consumed_kwh": 32.55688406248484
+      },
+      "label": 98.37,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 63.2598597534288,
+        "charging_rate_kw": 38.07649993878632,
+        "temperature_c": 24.04227708923407,
+        "vehicle_age_years": 1.013226843476439,
+        "distance_km": 311.55576300916215,
+        "soc_start": 26.639309848784254,
+        "energy_consumed_kwh": 65.51948053962572
+      },
+      "label": 91.89,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.93741165244937,
+        "charging_rate_kw": 12.880892807725793,
+        "temperature_c": 13.317620675237514,
+        "vehicle_age_years": 0.09128578592022145,
+        "distance_km": 225.82473088089222,
+        "soc_start": 23.601760698118518,
+        "energy_consumed_kwh": 62.76513205879038
+      },
+      "label": 99.27,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.30397354917594,
+        "charging_rate_kw": 17.37581067917982,
+        "temperature_c": -10,
+        "vehicle_age_years": 2.202041127278941,
+        "distance_km": 175.09416093629792,
+        "soc_start": 63.07537980732432,
+        "energy_consumed_kwh": 20.005606829034505
+      },
+      "label": 82.38,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.93188678396557,
+        "charging_rate_kw": 23.404322999465087,
+        "temperature_c": -9.111362427510262,
+        "vehicle_age_years": 1.478726868123711,
+        "distance_km": 85.09035286089309,
+        "soc_start": 31.207781753417883,
+        "energy_consumed_kwh": 46.94519336222808
+      },
+      "label": 88.17,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 41.28704089537743,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.16449287605293386,
+        "distance_km": 184.79579149831144,
+        "soc_start": 82.0405303048617,
+        "energy_consumed_kwh": 15.80968054947082
+      },
+      "label": 98.68,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.0012221386257,
+        "charging_rate_kw": 4,
+        "temperature_c": 34.6309761951508,
+        "vehicle_age_years": 5.961877142027994,
+        "distance_km": 143.25493109642798,
+        "soc_start": 27.345347563600093,
+        "energy_consumed_kwh": 66.23011424425698
+      },
+      "label": 52.3,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 132.8465647403985,
+        "charging_rate_kw": 47.641524961235085,
+        "temperature_c": 13.194407834197936,
+        "vehicle_age_years": 1.10112592498865,
+        "distance_km": 24.304168865119834,
+        "soc_start": 85.06973068084038,
+        "energy_consumed_kwh": 45.650640273463615
+      },
+      "label": 91.19,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.0783017699504,
+        "charging_rate_kw": 4,
+        "temperature_c": 5.495232523082898,
+        "vehicle_age_years": 0.13872577926032767,
+        "distance_km": 97.0378480985029,
+        "soc_start": 51.234146301035366,
+        "energy_consumed_kwh": 69.74721449902276
+      },
+      "label": 98.89,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 43.03787538533295,
+        "charging_rate_kw": 9.213153900825723,
+        "temperature_c": 22.985292804903416,
+        "vehicle_age_years": 3.0887113173021996,
+        "distance_km": 69.02823243672354,
+        "soc_start": 23.33797671641001,
+        "energy_consumed_kwh": 71.69521458073288
+      },
+      "label": 75.29,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.92348634089687,
+        "charging_rate_kw": 17.325939441209677,
+        "temperature_c": -5.046128083515283,
+        "vehicle_age_years": 5.178619694556204,
+        "distance_km": 259.4890157280513,
+        "soc_start": 40.9482260719718,
+        "energy_consumed_kwh": 39.92169417711894
+      },
+      "label": 58.57,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 115.34199272446388,
+        "charging_rate_kw": 4,
+        "temperature_c": 29.817245730598195,
+        "vehicle_age_years": 0.6134216326094362,
+        "distance_km": 169.73303259672795,
+        "soc_start": 46.2676562588419,
+        "energy_consumed_kwh": 61.14015248942784
+      },
+      "label": 95.09,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.82139750213521,
+        "charging_rate_kw": 34.89993509301169,
+        "temperature_c": 28.027703296910204,
+        "vehicle_age_years": 0.0791092053384987,
+        "distance_km": 214.14797633447472,
+        "soc_start": 92.87514846155487,
+        "energy_consumed_kwh": 37.118709371746164
+      },
+      "label": 99.37,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.7930763503719,
+        "charging_rate_kw": 45.48068434779107,
+        "temperature_c": 20.874037623178676,
+        "vehicle_age_years": 0.04088075396084476,
+        "distance_km": 309.0627800623105,
+        "soc_start": 72.65645602074773,
+        "energy_consumed_kwh": 22.575274844511174
+      },
+      "label": 99.67,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.71252117954211,
+        "charging_rate_kw": 36.271813500857114,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.7147230663671874,
+        "distance_km": 212.69759474127315,
+        "soc_start": 64.44812192097257,
+        "energy_consumed_kwh": 20.378797137917722
+      },
+      "label": 94.28,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.85575947966522,
+        "charging_rate_kw": 13.130213099890899,
+        "temperature_c": 29.0590679232,
+        "vehicle_age_years": 0.41635148709674685,
+        "distance_km": 151.5775436647553,
+        "soc_start": 88.04700734952031,
+        "energy_consumed_kwh": 18.257366010850305
+      },
+      "label": 96.67,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.3149690600808,
+        "charging_rate_kw": 6.5807738556574975,
+        "temperature_c": 15.912340644267527,
+        "vehicle_age_years": 0.13573765180862155,
+        "distance_km": 121.7351798087828,
+        "soc_start": 61.180506964067625,
+        "energy_consumed_kwh": 72.17565340482757
+      },
+      "label": 98.91,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 82.58516283601766,
+        "charging_rate_kw": 13.113918857746043,
+        "temperature_c": 4.086535601377681,
+        "vehicle_age_years": 0.4282770541252387,
+        "distance_km": 240.11379407338245,
+        "soc_start": 92.62279624070047,
+        "energy_consumed_kwh": 64.10034991801234
+      },
+      "label": 96.57,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 93.85657123382046,
+        "charging_rate_kw": 32.33063760479646,
+        "temperature_c": 34.612141633122725,
+        "vehicle_age_years": 1.2480575653745687,
+        "distance_km": 259.3372521958916,
+        "soc_start": 53.99080651599111,
+        "energy_consumed_kwh": 44.29936598842848
+      },
+      "label": 90.02,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.30519212109559,
+        "charging_rate_kw": 12.160944527154552,
+        "temperature_c": 10.119879978527731,
+        "vehicle_age_years": 0.3910171146848184,
+        "distance_km": 220.22725197999543,
+        "soc_start": 90.50427282809758,
+        "energy_consumed_kwh": 68.21915013569793
+      },
+      "label": 96.87,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 72.77578977195364,
+        "charging_rate_kw": 37.07063834871521,
+        "temperature_c": 5.046927313769154,
+        "vehicle_age_years": 0.05566858930916976,
+        "distance_km": 120.18509399105218,
+        "soc_start": 29.921596931399332,
+        "energy_consumed_kwh": 35.18769986736997
+      },
+      "label": 99.55,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.01774215188118,
+        "charging_rate_kw": 20.61739438666828,
+        "temperature_c": 20.962298759349792,
+        "vehicle_age_years": 2.2645154806381536,
+        "distance_km": 264.9416641086887,
+        "soc_start": 79.08154555706662,
+        "energy_consumed_kwh": 75.53223521794789
+      },
+      "label": 81.88,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.98446358997663,
+        "charging_rate_kw": 18.02551034486982,
+        "temperature_c": 25.05258179205665,
+        "vehicle_age_years": 0.38038649035680144,
+        "distance_km": 180.03425148003345,
+        "soc_start": 74.14664392942338,
+        "energy_consumed_kwh": 38.28116681517322
+      },
+      "label": 96.96,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.09837577441769,
+        "charging_rate_kw": 6.224678527578882,
+        "temperature_c": -8.643240815170088,
+        "vehicle_age_years": 2.0585846845768843,
+        "distance_km": 288.49175125219574,
+        "soc_start": 52.00282139474941,
+        "energy_consumed_kwh": 30.776788112544356
+      },
+      "label": 83.53,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.61426748861923,
+        "charging_rate_kw": 24.80936814850342,
+        "temperature_c": 13.278990061372852,
+        "vehicle_age_years": 1.7564835052608487,
+        "distance_km": 246.79005270324987,
+        "soc_start": 60.531140552914074,
+        "energy_consumed_kwh": 26.28112082428359
+      },
+      "label": 85.95,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 98.85237462488963,
+        "charging_rate_kw": 34.896194850397336,
+        "temperature_c": 18.575190325454376,
+        "vehicle_age_years": 1.878351744124575,
+        "distance_km": 130.60071886307247,
+        "soc_start": 67.65352710531903,
+        "energy_consumed_kwh": 61.4320550389569
+      },
+      "label": 84.97,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.24160603699989,
+        "charging_rate_kw": 35.428725060955706,
+        "temperature_c": 18.748526019079183,
+        "vehicle_age_years": 6.080948805016967,
+        "distance_km": 223.48672900138115,
+        "soc_start": 15.109720695679512,
+        "energy_consumed_kwh": 74.38381525965971
+      },
+      "label": 51.35,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.21596149306674,
+        "charging_rate_kw": 22.818356160486392,
+        "temperature_c": -0.8383403122072655,
+        "vehicle_age_years": 3.3217674338713814,
+        "distance_km": 286.2235467499264,
+        "soc_start": 54.76355455646082,
+        "energy_consumed_kwh": 5
+      },
+      "label": 73.43,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 116.72189349940487,
+        "charging_rate_kw": 8.865974098084434,
+        "temperature_c": -2.1320612535159995,
+        "vehicle_age_years": 0.9829446294546453,
+        "distance_km": 145.29623404460142,
+        "soc_start": 75.38948889228132,
+        "energy_consumed_kwh": 43.69853448965991
+      },
+      "label": 92.14,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.13089967685602,
+        "charging_rate_kw": 8.526099632691261,
+        "temperature_c": -5.181294921835312,
+        "vehicle_age_years": 2.318751797481709,
+        "distance_km": 76.97826075680368,
+        "soc_start": 37.01753456955949,
+        "energy_consumed_kwh": 35.26300528497306
+      },
+      "label": 81.45,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 110.26364751042706,
+        "charging_rate_kw": 46.02859894288405,
+        "temperature_c": 5.212644803057625,
+        "vehicle_age_years": 0.39967418286733225,
+        "distance_km": 284.10103789184336,
+        "soc_start": 78.66263964873723,
+        "energy_consumed_kwh": 80.23767723162398
+      },
+      "label": 96.8,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 109.4173643636252,
+        "charging_rate_kw": 4,
+        "temperature_c": 13.245604127452449,
+        "vehicle_age_years": 5.872037505335554,
+        "distance_km": 40.84825362254094,
+        "soc_start": 88.42890089480336,
+        "energy_consumed_kwh": 57.013247228326556
+      },
+      "label": 53.02,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 108.00208428086711,
+        "charging_rate_kw": 46.204611180907634,
+        "temperature_c": 31.365058422011558,
+        "vehicle_age_years": 0.6037222040162272,
+        "distance_km": 215.63498374945306,
+        "soc_start": 62.521715776832245,
+        "energy_consumed_kwh": 16.201800879305715
+      },
+      "label": 95.17,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.240965430146225,
+        "charging_rate_kw": 9.418476637835541,
+        "temperature_c": -2.1464259152814495,
+        "vehicle_age_years": 0.1477575850896821,
+        "distance_km": 143.38371830892837,
+        "soc_start": 36.852017843571694,
+        "energy_consumed_kwh": 79.34936996373274
+      },
+      "label": 98.82,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 105.23115217849687,
+        "charging_rate_kw": 30.094772346407026,
+        "temperature_c": 45,
+        "vehicle_age_years": 2.745538004559158,
+        "distance_km": 305.7417458317366,
+        "soc_start": 22.890173706967463,
+        "energy_consumed_kwh": 48.99085322842778
+      },
+      "label": 78.04,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.28705528630634,
+        "charging_rate_kw": 24.527082338084995,
+        "temperature_c": 21.5625545035952,
+        "vehicle_age_years": 0.397772235354207,
+        "distance_km": 245.56728736886583,
+        "soc_start": 15.221222940267728,
+        "energy_consumed_kwh": 31.5175088725531
+      },
+      "label": 96.82,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.62717511555664,
+        "charging_rate_kw": 44.01735839050523,
+        "temperature_c": 13.390821791773828,
+        "vehicle_age_years": 0.36930235230130853,
+        "distance_km": 29.64597436026843,
+        "soc_start": 65.30317648525556,
+        "energy_consumed_kwh": 15.87821554902409
+      },
+      "label": 97.05,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.7773593516947,
+        "charging_rate_kw": 39.34239212558084,
+        "temperature_c": 3.690131961730847,
+        "vehicle_age_years": 1.122167760643685,
+        "distance_km": 107.04434427054652,
+        "soc_start": 75.75931633695309,
+        "energy_consumed_kwh": 42.05830944943285
+      },
+      "label": 91.02,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.79114396239613,
+        "charging_rate_kw": 32.130313303110654,
+        "temperature_c": 18.6940479588362,
+        "vehicle_age_years": 3.5822633314745946,
+        "distance_km": 64.4426625313577,
+        "soc_start": 72.41722724533574,
+        "energy_consumed_kwh": 21.564656739149
+      },
+      "label": 71.34,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.56130428385013,
+        "charging_rate_kw": 35.443219906146986,
+        "temperature_c": -8.311098240415435,
+        "vehicle_age_years": 0.7482010991715976,
+        "distance_km": 242.45686663211956,
+        "soc_start": 14.114651656435447,
+        "energy_consumed_kwh": 69.53793111828575
+      },
+      "label": 94.01,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.19149257411788,
+        "charging_rate_kw": 44.5258631314121,
+        "temperature_c": 27.146278680363686,
+        "vehicle_age_years": 1.814512921225731,
+        "distance_km": 178.53905944544755,
+        "soc_start": 91.1245398530072,
+        "energy_consumed_kwh": 74.00389842117477
+      },
+      "label": 85.48,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.88458741323024,
+        "charging_rate_kw": 18.911043629397305,
+        "temperature_c": 34.620870315235265,
+        "vehicle_age_years": 2.7735135941392963,
+        "distance_km": 62.16755329734407,
+        "soc_start": 30.18892269913251,
+        "energy_consumed_kwh": 16.023410905594552
+      },
+      "label": 77.81,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 49.47726488547577,
+        "charging_rate_kw": 8.011451350901488,
+        "temperature_c": 22.578180420108893,
+        "vehicle_age_years": 1.781698432730216,
+        "distance_km": 17.163290692868166,
+        "soc_start": 88.88897238395286,
+        "energy_consumed_kwh": 22.70497677370651
+      },
+      "label": 85.75,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.316930486249525,
+        "charging_rate_kw": 28.83603198420459,
+        "temperature_c": -7.184994627619067,
+        "vehicle_age_years": 2.9502482062106288,
+        "distance_km": 61.42305705144714,
+        "soc_start": 85.25080086124508,
+        "energy_consumed_kwh": 63.82815307596176
+      },
+      "label": 76.4,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.18450820471809,
+        "charging_rate_kw": 4,
+        "temperature_c": -3.016318994417345,
+        "vehicle_age_years": 0.9568903595432372,
+        "distance_km": 133.14728974781104,
+        "soc_start": 66.72802061466432,
+        "energy_consumed_kwh": 46.0003353907945
+      },
+      "label": 92.34,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 92.80974590149215,
+        "charging_rate_kw": 30.310786767794124,
+        "temperature_c": -10,
+        "vehicle_age_years": 1.0924616328483594,
+        "distance_km": 54.73223780055347,
+        "soc_start": 47.6943176594283,
+        "energy_consumed_kwh": 51.22400801615141
+      },
+      "label": 91.26,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.30376514378451,
+        "charging_rate_kw": 12.753865353548997,
+        "temperature_c": -3.8896669553725207,
+        "vehicle_age_years": 0.25052465086926035,
+        "distance_km": 171.49171530683483,
+        "soc_start": 33.66945240523587,
+        "energy_consumed_kwh": 73.26297104068101
+      },
+      "label": 98.0,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.846737316429014,
+        "charging_rate_kw": 50.21598367545007,
+        "temperature_c": 21.60202008340059,
+        "vehicle_age_years": 0.23272486598687614,
+        "distance_km": 183.04043312231434,
+        "soc_start": 91.93209647158129,
+        "energy_consumed_kwh": 71.9672543969684
+      },
+      "label": 98.14,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.52383722389631,
+        "charging_rate_kw": 11.240278929508275,
+        "temperature_c": 26.488523623339916,
+        "vehicle_age_years": 0.0054835084656452045,
+        "distance_km": 231.85619017020784,
+        "soc_start": 23.42300434000895,
+        "energy_consumed_kwh": 7.269410135124563
+      },
+      "label": 99.96,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.42901864202908,
+        "charging_rate_kw": 48.0410988122693,
+        "temperature_c": 32.07407463222593,
+        "vehicle_age_years": 3.0239530289051935,
+        "distance_km": 251.27833543482305,
+        "soc_start": 51.10761112704823,
+        "energy_consumed_kwh": 39.4298370901994
+      },
+      "label": 75.81,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.10903118556408,
+        "charging_rate_kw": 30.377037280818044,
+        "temperature_c": 20.47585931261448,
+        "vehicle_age_years": 0.21029644318231827,
+        "distance_km": 84.86918428550229,
+        "soc_start": 38.143639626648785,
+        "energy_consumed_kwh": 31.584399284642352
+      },
+      "label": 98.32,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 109.99204432243985,
+        "charging_rate_kw": 32.429873565370244,
+        "temperature_c": 10.304082419322475,
+        "vehicle_age_years": 0.24637258471780524,
+        "distance_km": 48.41072630341621,
+        "soc_start": 68.24787635614055,
+        "energy_consumed_kwh": 26.698076409294323
+      },
+      "label": 98.03,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.9373785189782,
+        "charging_rate_kw": 14.555388994336287,
+        "temperature_c": -1.9182191396330772,
+        "vehicle_age_years": 0.6247950600586323,
+        "distance_km": 187.08631926647493,
+        "soc_start": 46.022520338057674,
+        "energy_consumed_kwh": 8.321738972657347
+      },
+      "label": 95.0,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 63.25090387341084,
+        "charging_rate_kw": 10.358014938509092,
+        "temperature_c": 22.132087218676638,
+        "vehicle_age_years": 0.6344499722329544,
+        "distance_km": 179.9235198030089,
+        "soc_start": 81.72186013318662,
+        "energy_consumed_kwh": 64.0483773770879
+      },
+      "label": 94.92,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.05247550356219,
+        "charging_rate_kw": 45.27671912943993,
+        "temperature_c": 3.8628172764057496,
+        "vehicle_age_years": 0.9874610028649817,
+        "distance_km": 309.12122201060765,
+        "soc_start": 61.2049087960674,
+        "energy_consumed_kwh": 29.794454684420533
+      },
+      "label": 92.1,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.511992045492356,
+        "charging_rate_kw": 31.84697024295217,
+        "temperature_c": 31.13736907135597,
+        "vehicle_age_years": 0.3999787809640611,
+        "distance_km": 271.708211026093,
+        "soc_start": 85.46828288924006,
+        "energy_consumed_kwh": 65.0295148397538
+      },
+      "label": 96.8,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.29691269334609,
+        "charging_rate_kw": 30.161683992423754,
+        "temperature_c": 1.642058766751375,
+        "vehicle_age_years": 0.2396796273407459,
+        "distance_km": 34.10426108403369,
+        "soc_start": 73.41113588325608,
+        "energy_consumed_kwh": 61.56423021515808
+      },
+      "label": 98.08,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.48602684060779,
+        "charging_rate_kw": 33.98770178504091,
+        "temperature_c": 4.648031501899834,
+        "vehicle_age_years": 1.488114410656223,
+        "distance_km": 255.0083647319533,
+        "soc_start": 88.58292073344481,
+        "energy_consumed_kwh": 64.12951677615787
+      },
+      "label": 88.1,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.537724699146516,
+        "charging_rate_kw": 10.486752309168882,
+        "temperature_c": -8.659242948226382,
+        "vehicle_age_years": 0.20017585476399744,
+        "distance_km": 139.6393665076927,
+        "soc_start": 44.63889556660429,
+        "energy_consumed_kwh": 76.28854835997409
+      },
+      "label": 98.4,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.5829500374195,
+        "charging_rate_kw": 20.27458876382779,
+        "temperature_c": 45,
+        "vehicle_age_years": 3.502438717384267,
+        "distance_km": 278.62555439718165,
+        "soc_start": 55.50108146962599,
+        "energy_consumed_kwh": 30.01917314974002
+      },
+      "label": 71.98,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.84257417318062,
+        "charging_rate_kw": 39.26997450822097,
+        "temperature_c": 31.44205347502642,
+        "vehicle_age_years": 0.15563173654380455,
+        "distance_km": 259.8440275970367,
+        "soc_start": 30.043587085191913,
+        "energy_consumed_kwh": 54.22929052017563
+      },
+      "label": 98.75,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 63.326740792842514,
+        "charging_rate_kw": 13.115888557373985,
+        "temperature_c": 20.470068371657295,
+        "vehicle_age_years": 0.9516815606864082,
+        "distance_km": 297.7308139722261,
+        "soc_start": 17.921787553228654,
+        "energy_consumed_kwh": 72.30578040844915
+      },
+      "label": 92.39,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.06764124901329,
+        "charging_rate_kw": 12.612492798944864,
+        "temperature_c": 24.185629081092152,
+        "vehicle_age_years": 2.734858578989567,
+        "distance_km": 118.55355752695985,
+        "soc_start": 84.33178825810997,
+        "energy_consumed_kwh": 13.53730211760885
+      },
+      "label": 78.12,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.00190381124796,
+        "charging_rate_kw": 4.5665764378173686,
+        "temperature_c": 22.794010156337173,
+        "vehicle_age_years": 1.8537090458231777,
+        "distance_km": 134.56763738093673,
+        "soc_start": 70.43269337012404,
+        "energy_consumed_kwh": 25.575731197497724
+      },
+      "label": 85.17,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 82.66689843756882,
+        "charging_rate_kw": 7.062459591669388,
+        "temperature_c": 16.28890837829459,
+        "vehicle_age_years": 3.3920480678320604,
+        "distance_km": 281.00983408684095,
+        "soc_start": 74.49922613162583,
+        "energy_consumed_kwh": 62.441458688670764
+      },
+      "label": 72.86,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 95.18273245792959,
+        "charging_rate_kw": 5.047357384554587,
+        "temperature_c": 29.26016657551027,
+        "vehicle_age_years": 2.516953021454328,
+        "distance_km": 68.5641987123176,
+        "soc_start": 84.6895497070961,
+        "energy_consumed_kwh": 52.63021399534671
+      },
+      "label": 79.86,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.526691329977055,
+        "charging_rate_kw": 52.83704089235297,
+        "temperature_c": 24.839642564338547,
+        "vehicle_age_years": 0.9364595603665717,
+        "distance_km": 95.4052653523461,
+        "soc_start": 76.82598013386368,
+        "energy_consumed_kwh": 74.57622075106285
+      },
+      "label": 92.51,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.04485424473985,
+        "charging_rate_kw": 11.864058012298731,
+        "temperature_c": 10.884836598827901,
+        "vehicle_age_years": 0.22625118422736654,
+        "distance_km": 116.67873673967509,
+        "soc_start": 51.134140746369,
+        "energy_consumed_kwh": 44.47671580246398
+      },
+      "label": 98.19,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 49.53937006617603,
+        "charging_rate_kw": 34.67255870458333,
+        "temperature_c": 5.889705388761369,
+        "vehicle_age_years": 2.830617199842703,
+        "distance_km": 101.4309806031545,
+        "soc_start": 90.25789194215396,
+        "energy_consumed_kwh": 43.72955195083841
+      },
+      "label": 77.36,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.14029533092772,
+        "charging_rate_kw": 37.04066288711415,
+        "temperature_c": 3.421731774250466,
+        "vehicle_age_years": 2.1485615996244882,
+        "distance_km": 223.033177295994,
+        "soc_start": 14.37144450687147,
+        "energy_consumed_kwh": 87.7582535414664
+      },
+      "label": 82.81,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 95.0598227166813,
+        "charging_rate_kw": 22.338407923816188,
+        "temperature_c": 16.185152862621198,
+        "vehicle_age_years": 5.163827605106259,
+        "distance_km": 60.17646163632958,
+        "soc_start": 83.37197386886447,
+        "energy_consumed_kwh": 5
+      },
+      "label": 58.69,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.63448210649548,
+        "charging_rate_kw": 46.502766850105246,
+        "temperature_c": 27.36699319872458,
+        "vehicle_age_years": 0.98010438413941,
+        "distance_km": 46.04949942704607,
+        "soc_start": 98.15506841845387,
+        "energy_consumed_kwh": 73.47233421671682
+      },
+      "label": 92.16,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.16296109048716,
+        "charging_rate_kw": 35.88318501854654,
+        "temperature_c": -0.04202137507378101,
+        "vehicle_age_years": 1.014563808511261,
+        "distance_km": 203.37105463328726,
+        "soc_start": 64.22720047087435,
+        "energy_consumed_kwh": 18.531075751998642
+      },
+      "label": 91.88,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 67.56397460022852,
+        "charging_rate_kw": 44.45758491490848,
+        "temperature_c": 32.57629736940314,
+        "vehicle_age_years": 1.4360875801731063,
+        "distance_km": 77.44302008168697,
+        "soc_start": 59.82234065929424,
+        "energy_consumed_kwh": 20.420512874154237
+      },
+      "label": 88.51,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.37356448084762,
+        "charging_rate_kw": 34.02753017631616,
+        "temperature_c": 27.549447717171034,
+        "vehicle_age_years": 0.6866136660553936,
+        "distance_km": 288.77439574899773,
+        "soc_start": 96.24938075246769,
+        "energy_consumed_kwh": 73.93801764217369
+      },
+      "label": 94.51,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.78358648986388,
+        "charging_rate_kw": 37.76977344788783,
+        "temperature_c": 9.627312930810936,
+        "vehicle_age_years": 1.5639195361175195,
+        "distance_km": 52.32004504198456,
+        "soc_start": 62.45256439862725,
+        "energy_consumed_kwh": 71.33564238106212
+      },
+      "label": 87.49,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.5626827024752,
+        "charging_rate_kw": 48.971060140537766,
+        "temperature_c": 7.948364141271175,
+        "vehicle_age_years": 2.755610776261044,
+        "distance_km": 177.9797479515035,
+        "soc_start": 57.04569875882821,
+        "energy_consumed_kwh": 45.76449299952266
+      },
+      "label": 77.96,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.58063618586237,
+        "charging_rate_kw": 19.200975797192406,
+        "temperature_c": 45,
+        "vehicle_age_years": 0.9588810372104921,
+        "distance_km": 128.54715585112953,
+        "soc_start": 98.51791542616039,
+        "energy_consumed_kwh": 36.23104621854479
+      },
+      "label": 92.33,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.88679592340037,
+        "charging_rate_kw": 43.08719634219247,
+        "temperature_c": 13.837939646442246,
+        "vehicle_age_years": 2.3462073940771937,
+        "distance_km": 333.7945973812248,
+        "soc_start": 19.223200570417895,
+        "energy_consumed_kwh": 34.68179536548053
+      },
+      "label": 81.23,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.70389301698025,
+        "charging_rate_kw": 43.924033023226706,
+        "temperature_c": 7.980364108546384,
+        "vehicle_age_years": 2.6902471026130157,
+        "distance_km": 138.3831138676787,
+        "soc_start": 80.58764555837979,
+        "energy_consumed_kwh": 54.44991795857615
+      },
+      "label": 78.48,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.7186709243482,
+        "charging_rate_kw": 26.296142117627344,
+        "temperature_c": 21.560433010467527,
+        "vehicle_age_years": 0.09623852922395305,
+        "distance_km": 380.6710533248639,
+        "soc_start": 96.92498922117959,
+        "energy_consumed_kwh": 68.78870709131171
+      },
+      "label": 99.23,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.9061517606289,
+        "charging_rate_kw": 9.733708618818179,
+        "temperature_c": 21.964941953969177,
+        "vehicle_age_years": 0.026100039962137174,
+        "distance_km": 217.10166008451918,
+        "soc_start": 84.698513375963,
+        "energy_consumed_kwh": 75.8010787439802
+      },
+      "label": 99.79,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 43.40421209719598,
+        "charging_rate_kw": 13.17972448900234,
+        "temperature_c": 24.113800278159317,
+        "vehicle_age_years": 0.9169127001249886,
+        "distance_km": 251.74560077138312,
+        "soc_start": 27.414794090956406,
+        "energy_consumed_kwh": 53.39682056849659
+      },
+      "label": 92.66,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.88646722900527,
+        "charging_rate_kw": 13.300516259155634,
+        "temperature_c": 14.639145474842522,
+        "vehicle_age_years": 0.3906334147547091,
+        "distance_km": 237.68694446431948,
+        "soc_start": 43.947840434738104,
+        "energy_consumed_kwh": 62.52479965346718
+      },
+      "label": 96.87,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.43056022486794,
+        "charging_rate_kw": 23.647461937783547,
+        "temperature_c": 37.75055518786743,
+        "vehicle_age_years": 0.3509195449663159,
+        "distance_km": 180.69488710158765,
+        "soc_start": 13.594653038928687,
+        "energy_consumed_kwh": 34.349383340912986
+      },
+      "label": 97.19,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.66046318814135,
+        "charging_rate_kw": 39.07640577896931,
+        "temperature_c": 42.040851116510595,
+        "vehicle_age_years": 1.8170436364438116,
+        "distance_km": 10,
+        "soc_start": 81.09173641756868,
+        "energy_consumed_kwh": 5.708213987349323
+      },
+      "label": 85.46,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.0352803461555,
+        "charging_rate_kw": 5.240231351835374,
+        "temperature_c": -3.2980185518946254,
+        "vehicle_age_years": 0.7650378110297945,
+        "distance_km": 302.25775570637217,
+        "soc_start": 47.43381193933795,
+        "energy_consumed_kwh": 37.35866361083097
+      },
+      "label": 93.88,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 40.30186149288637,
+        "charging_rate_kw": 40.94569794161938,
+        "temperature_c": 12.111578912159244,
+        "vehicle_age_years": 1.0330740269065188,
+        "distance_km": 276.4527851621981,
+        "soc_start": 36.421692145318346,
+        "energy_consumed_kwh": 26.58018651443867
+      },
+      "label": 91.74,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.58949555943461,
+        "charging_rate_kw": 28.253735190413614,
+        "temperature_c": -10,
+        "vehicle_age_years": 4.386327667614374,
+        "distance_km": 175.32723486736074,
+        "soc_start": 50.11005216562232,
+        "energy_consumed_kwh": 27.69325084646408
+      },
+      "label": 64.91,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.36468419150023,
+        "charging_rate_kw": 8.997416628758797,
+        "temperature_c": 24.787319544232744,
+        "vehicle_age_years": 1.9022876984663062,
+        "distance_km": 260.2256745421506,
+        "soc_start": 92.43391872688079,
+        "energy_consumed_kwh": 81.30920280275605
+      },
+      "label": 84.78,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 82.32344900150264,
+        "charging_rate_kw": 45.41256627349978,
+        "temperature_c": 34.47930173015101,
+        "vehicle_age_years": 2.5745320833971586,
+        "distance_km": 34.57434858861297,
+        "soc_start": 55.78620337024421,
+        "energy_consumed_kwh": 37.86656344436308
+      },
+      "label": 79.4,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 104.19902818451514,
+        "charging_rate_kw": 29.77253153615378,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.08968442311237841,
+        "distance_km": 29.638830821718024,
+        "soc_start": 25.065532829214543,
+        "energy_consumed_kwh": 63.213266766054396
+      },
+      "label": 99.28,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.30305066325,
+        "charging_rate_kw": 33.91412219201857,
+        "temperature_c": 45,
+        "vehicle_age_years": 1.9719949089098099,
+        "distance_km": 210.04045367496806,
+        "soc_start": 85.20985699708322,
+        "energy_consumed_kwh": 86.8593593552122
+      },
+      "label": 84.22,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 43.59920518202875,
+        "charging_rate_kw": 29.96123022462159,
+        "temperature_c": 37.963924319515115,
+        "vehicle_age_years": 1.5433170501755906,
+        "distance_km": 199.72701911364499,
+        "soc_start": 94.57760003574822,
+        "energy_consumed_kwh": 42.23374245705243
+      },
+      "label": 87.65,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.37821286073984,
+        "charging_rate_kw": 38.616323793516486,
+        "temperature_c": 10.028792598637441,
+        "vehicle_age_years": 2.523686122950662,
+        "distance_km": 232.75360144413904,
+        "soc_start": 16.339788300891264,
+        "energy_consumed_kwh": 82.40968443529796
+      },
+      "label": 79.81,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.56941467823259,
+        "charging_rate_kw": 40.71866652471675,
+        "temperature_c": 24.14000134555774,
+        "vehicle_age_years": 0.5166236243589519,
+        "distance_km": 245.3680064512145,
+        "soc_start": 11.520187147372715,
+        "energy_consumed_kwh": 44.81107685776764
+      },
+      "label": 95.87,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.22953769566865,
+        "charging_rate_kw": 18.80455737840208,
+        "temperature_c": 29.799256396347847,
+        "vehicle_age_years": 2.547972972087647,
+        "distance_km": 340.17665938533673,
+        "soc_start": 42.1930124873243,
+        "energy_consumed_kwh": 79.40298720763153
+      },
+      "label": 79.62,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 63.556426878802604,
+        "charging_rate_kw": 38.87619528231016,
+        "temperature_c": 16.478484345886145,
+        "vehicle_age_years": 0.22440225626591348,
+        "distance_km": 117.20953059387908,
+        "soc_start": 49.39085345214025,
+        "energy_consumed_kwh": 58.15980881323374
+      },
+      "label": 98.2,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.20280158165889,
+        "charging_rate_kw": 25.413791013761408,
+        "temperature_c": 4.798732376336552,
+        "vehicle_age_years": 0.3399722421221808,
+        "distance_km": 147.6987932868265,
+        "soc_start": 36.548062238187214,
+        "energy_consumed_kwh": 17.969043497558985
+      },
+      "label": 97.28,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 67.17959017534669,
+        "charging_rate_kw": 31.90202144512147,
+        "temperature_c": -0.22815804849981713,
+        "vehicle_age_years": 0.3111463028573534,
+        "distance_km": 59.38390237265445,
+        "soc_start": 43.58174634102916,
+        "energy_consumed_kwh": 38.0563662194203
+      },
+      "label": 97.51,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.82808733085282,
+        "charging_rate_kw": 48.523118350329426,
+        "temperature_c": 5.398682613732923,
+        "vehicle_age_years": 0.3048433719884509,
+        "distance_km": 257.3448333070035,
+        "soc_start": 17.6614171074495,
+        "energy_consumed_kwh": 75.05057406369663
+      },
+      "label": 97.56,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.03617047265385,
+        "charging_rate_kw": 46.197765956861716,
+        "temperature_c": 10.683520068463196,
+        "vehicle_age_years": 2.7590076321556043,
+        "distance_km": 210.70273893504856,
+        "soc_start": 56.12974250928283,
+        "energy_consumed_kwh": 12.260611158301408
+      },
+      "label": 77.93,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.789265051625605,
+        "charging_rate_kw": 45.49937840324152,
+        "temperature_c": 9.441377489694926,
+        "vehicle_age_years": 0.5826889493460295,
+        "distance_km": 270.28915330820763,
+        "soc_start": 77.59376327628857,
+        "energy_consumed_kwh": 48.84867232909981
+      },
+      "label": 95.34,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.690222173436815,
+        "charging_rate_kw": 26.61868911053732,
+        "temperature_c": 24.686954956256656,
+        "vehicle_age_years": 1.237063716535781,
+        "distance_km": 256.7738031442714,
+        "soc_start": 75.30303316007263,
+        "energy_consumed_kwh": 8.346972556183317
+      },
+      "label": 90.1,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.57653832813806,
+        "charging_rate_kw": 12.799916158868285,
+        "temperature_c": 8.833919095008469,
+        "vehicle_age_years": 2.2251926164593985,
+        "distance_km": 207.19080772985873,
+        "soc_start": 53.727510724649854,
+        "energy_consumed_kwh": 72.38732524333766
+      },
+      "label": 82.2,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.36777244528837,
+        "charging_rate_kw": 22.624051580215955,
+        "temperature_c": 13.312294219782846,
+        "vehicle_age_years": 1.916009739406517,
+        "distance_km": 257.020631572346,
+        "soc_start": 38.46998435466962,
+        "energy_consumed_kwh": 28.13585031429729
+      },
+      "label": 84.67,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.342811327749,
+        "charging_rate_kw": 39.17233885194128,
+        "temperature_c": 19.2211402157851,
+        "vehicle_age_years": 3.0803845250654924,
+        "distance_km": 99.81109582039117,
+        "soc_start": 71.16221618628167,
+        "energy_consumed_kwh": 34.83808325783135
+      },
+      "label": 75.36,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.66309458759739,
+        "charging_rate_kw": 19.544681217846513,
+        "temperature_c": 15.512088246453256,
+        "vehicle_age_years": 4.2055976963073105,
+        "distance_km": 304.17162077401184,
+        "soc_start": 25.81931448057028,
+        "energy_consumed_kwh": 21.052631251403685
+      },
+      "label": 66.36,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.46043609646276,
+        "charging_rate_kw": 45.44725057714329,
+        "temperature_c": 17.451007580595544,
+        "vehicle_age_years": 0.30164966020828093,
+        "distance_km": 259.9060941922787,
+        "soc_start": 16.785996111403897,
+        "energy_consumed_kwh": 65.15480953171708
+      },
+      "label": 97.59,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.08696900720334,
+        "charging_rate_kw": 4,
+        "temperature_c": 16.13159554597943,
+        "vehicle_age_years": 3.7887444988238212,
+        "distance_km": 224.69005161797898,
+        "soc_start": 29.148461755866716,
+        "energy_consumed_kwh": 38.039327047272664
+      },
+      "label": 69.69,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.41920864160934,
+        "charging_rate_kw": 42.288860349571294,
+        "temperature_c": 28.83463741922406,
+        "vehicle_age_years": 1.277711782282817,
+        "distance_km": 38.5577874715592,
+        "soc_start": 75.9904144491611,
+        "energy_consumed_kwh": 52.30478154499873
+      },
+      "label": 89.78,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.51444203701567,
+        "charging_rate_kw": 36.46440750822037,
+        "temperature_c": 12.329022124275225,
+        "vehicle_age_years": 0.28746653203187483,
+        "distance_km": 177.73598679791488,
+        "soc_start": 31.499272408473225,
+        "energy_consumed_kwh": 58.52729025940012
+      },
+      "label": 97.7,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.919498029776086,
+        "charging_rate_kw": 46.64047742078308,
+        "temperature_c": 30.939696322485435,
+        "vehicle_age_years": 0.3626686134486136,
+        "distance_km": 129.30629423276446,
+        "soc_start": 69.3471976257679,
+        "energy_consumed_kwh": 37.303329234644096
+      },
+      "label": 97.1,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 92.49832473488658,
+        "charging_rate_kw": 19.313721291238586,
+        "temperature_c": 3.4567499791859544,
+        "vehicle_age_years": 2.663004935092618,
+        "distance_km": 166.63552314029016,
+        "soc_start": 15.657504527212229,
+        "energy_consumed_kwh": 29.524434688416598
+      },
+      "label": 78.7,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.73082706921222,
+        "charging_rate_kw": 38.57194899446995,
+        "temperature_c": 32.038107532909194,
+        "vehicle_age_years": 1.4591461616309975,
+        "distance_km": 296.3568760625445,
+        "soc_start": 13.591422872640788,
+        "energy_consumed_kwh": 37.19584046758489
+      },
+      "label": 88.33,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.21659168438312,
+        "charging_rate_kw": 5.169267440276105,
+        "temperature_c": 27.166667928991433,
+        "vehicle_age_years": 0.783334801749231,
+        "distance_km": 175.2019304972491,
+        "soc_start": 33.69844624457381,
+        "energy_consumed_kwh": 57.41536479591082
+      },
+      "label": 93.73,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.51988068643276,
+        "charging_rate_kw": 35.11113862117178,
+        "temperature_c": 22.30338616876081,
+        "vehicle_age_years": 0.9512983252266487,
+        "distance_km": 166.0110569242742,
+        "soc_start": 97.54066975155337,
+        "energy_consumed_kwh": 55.18730565262944
+      },
+      "label": 92.39,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.30645262920154,
+        "charging_rate_kw": 22.37650015833017,
+        "temperature_c": 6.610102494725385,
+        "vehicle_age_years": 1.452877624828685,
+        "distance_km": 261.21629967954607,
+        "soc_start": 64.37898822571182,
+        "energy_consumed_kwh": 61.803251227255394
+      },
+      "label": 88.38,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 64.9965884514042,
+        "charging_rate_kw": 39.068556539790976,
+        "temperature_c": 30.876931427267515,
+        "vehicle_age_years": 0.5227055440664883,
+        "distance_km": 260.66710287422177,
+        "soc_start": 64.18182488200995,
+        "energy_consumed_kwh": 56.898672735476076
+      },
+      "label": 95.82,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.79920963350149,
+        "charging_rate_kw": 24.373541123321314,
+        "temperature_c": -8.542920584432768,
+        "vehicle_age_years": 0.25187539075129983,
+        "distance_km": 15.267995159540732,
+        "soc_start": 53.09331784480739,
+        "energy_consumed_kwh": 50.20814246284585
+      },
+      "label": 97.98,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.60031012469391,
+        "charging_rate_kw": 42.199389208216225,
+        "temperature_c": 7.137972078427934,
+        "vehicle_age_years": 1.0583159692224642,
+        "distance_km": 265.940971923026,
+        "soc_start": 56.13785344009978,
+        "energy_consumed_kwh": 48.0601682258249
+      },
+      "label": 91.53,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.07729712198945,
+        "charging_rate_kw": 15.634295509442651,
+        "temperature_c": 17.895659799391034,
+        "vehicle_age_years": 0.3176751927605291,
+        "distance_km": 242.1624517125173,
+        "soc_start": 97.23193184081035,
+        "energy_consumed_kwh": 38.214202567004335
+      },
+      "label": 97.46,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 12.109434395573484,
+        "temperature_c": 26.052503250675098,
+        "vehicle_age_years": 2.1679108304563752,
+        "distance_km": 60.812666564276896,
+        "soc_start": 88.05721590928849,
+        "energy_consumed_kwh": 80.01677914491871
+      },
+      "label": 82.66,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 46.24014275901415,
+        "charging_rate_kw": 15.131264916218454,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.49529213941988615,
+        "distance_km": 148.70912169299908,
+        "soc_start": 66.08905650204709,
+        "energy_consumed_kwh": 53.30187232566922
+      },
+      "label": 96.04,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.67115222612754,
+        "charging_rate_kw": 46.049951671515416,
+        "temperature_c": 33.34778694449412,
+        "vehicle_age_years": 0.8391420849849138,
+        "distance_km": 101.56313942359945,
+        "soc_start": 19.771310251136395,
+        "energy_consumed_kwh": 31.198887652432227
+      },
+      "label": 93.29,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.23092094150262,
+        "charging_rate_kw": 39.471988117339315,
+        "temperature_c": 18.57217818094991,
+        "vehicle_age_years": 1.4792676404326899,
+        "distance_km": 243.2394017473489,
+        "soc_start": 25.967996588559643,
+        "energy_consumed_kwh": 38.8850103023561
+      },
+      "label": 88.17,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.72483625716963,
+        "charging_rate_kw": 37.79429139694678,
+        "temperature_c": 16.5635463213105,
+        "vehicle_age_years": 1.5161393382105346,
+        "distance_km": 256.32698702447857,
+        "soc_start": 58.53573876974701,
+        "energy_consumed_kwh": 52.83127264188459
+      },
+      "label": 87.87,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.80219982612496,
+        "charging_rate_kw": 26.388143883088315,
+        "temperature_c": 9.547539648455208,
+        "vehicle_age_years": 4.5454498150165055,
+        "distance_km": 108.12860787182971,
+        "soc_start": 13.909445500283333,
+        "energy_consumed_kwh": 8.792061189771323
+      },
+      "label": 63.64,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.92411201247475,
+        "charging_rate_kw": 21.65250115260928,
+        "temperature_c": -6.175878238163011,
+        "vehicle_age_years": 1.3160367629781258,
+        "distance_km": 303.02117891407073,
+        "soc_start": 85.347146263001,
+        "energy_consumed_kwh": 5
+      },
+      "label": 89.47,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.68139727873783,
+        "charging_rate_kw": 50.37626388102325,
+        "temperature_c": 45,
+        "vehicle_age_years": 0.20565391864054175,
+        "distance_km": 90.22461023872728,
+        "soc_start": 35.49400012080602,
+        "energy_consumed_kwh": 60.18047433640359
+      },
+      "label": 98.35,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.266270769169864,
+        "charging_rate_kw": 10.538492216626045,
+        "temperature_c": -5.361486925321855,
+        "vehicle_age_years": 0.01096893275304379,
+        "distance_km": 104.12610482552225,
+        "soc_start": 43.7526893534448,
+        "energy_consumed_kwh": 71.05665758785656
+      },
+      "label": 99.91,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 46.94698838219798,
+        "charging_rate_kw": 40.41116265694601,
+        "temperature_c": 40.91601391913709,
+        "vehicle_age_years": 2.3280094639647015,
+        "distance_km": 278.4496984085113,
+        "soc_start": 32.826945360878554,
+        "energy_consumed_kwh": 45.50628056670531
+      },
+      "label": 81.38,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.36413928833194,
+        "charging_rate_kw": 4.737997587237416,
+        "temperature_c": 28.194052457130475,
+        "vehicle_age_years": 1.8928849063231956,
+        "distance_km": 52.48655347816337,
+        "soc_start": 60.18064076767935,
+        "energy_consumed_kwh": 54.64932158330319
+      },
+      "label": 84.86,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 79.23948338540802,
+        "charging_rate_kw": 32.92598243403159,
+        "temperature_c": 29.8631743344243,
+        "vehicle_age_years": 0.9247471251736991,
+        "distance_km": 203.1071286222213,
+        "soc_start": 73.49451471739766,
+        "energy_consumed_kwh": 48.87273441369672
+      },
+      "label": 92.6,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 46.34105375052569,
+        "charging_rate_kw": 29.196173767158104,
+        "temperature_c": 23.089912980596704,
+        "vehicle_age_years": 0.25359001363096256,
+        "distance_km": 305.4172313367279,
+        "soc_start": 55.75091888048113,
+        "energy_consumed_kwh": 25.79028420074536
+      },
+      "label": 97.97,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.2554066941781,
+        "charging_rate_kw": 46.05506978049717,
+        "temperature_c": 6.365908231242842,
+        "vehicle_age_years": 0.826302682249883,
+        "distance_km": 67.89530019960326,
+        "soc_start": 96.81132262370657,
+        "energy_consumed_kwh": 48.04305653517542
+      },
+      "label": 93.39,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.11620681599894,
+        "charging_rate_kw": 17.97964517483652,
+        "temperature_c": 1.0659324084137456,
+        "vehicle_age_years": 1.2760633087677165,
+        "distance_km": 130.23163129683056,
+        "soc_start": 64.81259750871345,
+        "energy_consumed_kwh": 35.33013014596506
+      },
+      "label": 89.79,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 95.98519324240145,
+        "charging_rate_kw": 41.35494340812739,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.9700753864978078,
+        "distance_km": 200.04438428457482,
+        "soc_start": 63.77253074326867,
+        "energy_consumed_kwh": 17.065209401217754
+      },
+      "label": 92.24,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 80.04239505404952,
+        "charging_rate_kw": 25.096284711722163,
+        "temperature_c": 33.48117599843267,
+        "vehicle_age_years": 1.3638937876753294,
+        "distance_km": 118.30246705814253,
+        "soc_start": 27.527184508925984,
+        "energy_consumed_kwh": 36.643487142453736
+      },
+      "label": 89.09,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.22065447389653,
+        "charging_rate_kw": 37.55837284355098,
+        "temperature_c": 19.43157730749056,
+        "vehicle_age_years": 1.830157497707208,
+        "distance_km": 298.2931832997235,
+        "soc_start": 31.53309627586395,
+        "energy_consumed_kwh": 64.83475165485306
+      },
+      "label": 85.36,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.00845233547093,
+        "charging_rate_kw": 35.44705050555889,
+        "temperature_c": 0.4723460652758451,
+        "vehicle_age_years": 3.025283846495733,
+        "distance_km": 166.7888614978259,
+        "soc_start": 76.32329861317555,
+        "energy_consumed_kwh": 17.98877955085139
+      },
+      "label": 75.8,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 49.744580612179654,
+        "charging_rate_kw": 27.60142437972333,
+        "temperature_c": 13.474913160243009,
+        "vehicle_age_years": 5.030997821545778,
+        "distance_km": 254.11551720634108,
+        "soc_start": 41.27275799733317,
+        "energy_consumed_kwh": 42.69722893216912
+      },
+      "label": 59.75,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.74805924676246,
+        "charging_rate_kw": 43.89892523703576,
+        "temperature_c": 28.22943474621975,
+        "vehicle_age_years": 1.213054792214193,
+        "distance_km": 263.5819731356616,
+        "soc_start": 60.276764158269295,
+        "energy_consumed_kwh": 82.01172670674477
+      },
+      "label": 90.3,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.62724098891269,
+        "charging_rate_kw": 39.581880125684066,
+        "temperature_c": 19.0354009851464,
+        "vehicle_age_years": 0.6969935939995302,
+        "distance_km": 74.32283524279202,
+        "soc_start": 83.18326146457368,
+        "energy_consumed_kwh": 57.11178943467537
+      },
+      "label": 94.42,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.41651965098842,
+        "charging_rate_kw": 5.971913611549993,
+        "temperature_c": -3.242807515553242,
+        "vehicle_age_years": 1.6564159587971135,
+        "distance_km": 188.72887532291253,
+        "soc_start": 51.464839731806094,
+        "energy_consumed_kwh": 45.85222862349836
+      },
+      "label": 86.75,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.861825261417245,
+        "charging_rate_kw": 29.675288677874754,
+        "temperature_c": -4.2776326944182745,
+        "vehicle_age_years": 3.9613405969012936,
+        "distance_km": 274.42013952827006,
+        "soc_start": 29.834409064964703,
+        "energy_consumed_kwh": 74.7445792583511
+      },
+      "label": 68.31,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.52556288453235,
+        "charging_rate_kw": 6.096536548398453,
+        "temperature_c": 32.77486863562137,
+        "vehicle_age_years": 6.222092639899935,
+        "distance_km": 177.81348221228262,
+        "soc_start": 18.370848714588256,
+        "energy_consumed_kwh": 63.4203541443602
+      },
+      "label": 50.22,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.441366544030565,
+        "charging_rate_kw": 50.829181878209134,
+        "temperature_c": 13.278834902772028,
+        "vehicle_age_years": 2.7629172000089737,
+        "distance_km": 170.1360392116748,
+        "soc_start": 29.670952040616136,
+        "energy_consumed_kwh": 50.36419166876958
+      },
+      "label": 77.9,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 59.72906614500305,
+        "charging_rate_kw": 50.58631048113578,
+        "temperature_c": 32.61737826339616,
+        "vehicle_age_years": 2.298384150212976,
+        "distance_km": 47.538807565048316,
+        "soc_start": 88.54682485674682,
+        "energy_consumed_kwh": 27.470842513598484
+      },
+      "label": 81.61,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.74309286647546,
+        "charging_rate_kw": 32.89208242591813,
+        "temperature_c": 31.458000803332425,
+        "vehicle_age_years": 0.5206722286442149,
+        "distance_km": 283.43090264211,
+        "soc_start": 20.789064338929442,
+        "energy_consumed_kwh": 53.28941199027266
+      },
+      "label": 95.83,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.45834819402131,
+        "charging_rate_kw": 17.56658770805425,
+        "temperature_c": 26.041167527387877,
+        "vehicle_age_years": 1.9029395187412674,
+        "distance_km": 71.21195367436285,
+        "soc_start": 65.86007273485899,
+        "energy_consumed_kwh": 12.063850616555648
+      },
+      "label": 84.78,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.6681942345649,
+        "charging_rate_kw": 14.56476912705956,
+        "temperature_c": 31.768285679090255,
+        "vehicle_age_years": 4.567942822718675,
+        "distance_km": 56.831058872406444,
+        "soc_start": 78.78360928923348,
+        "energy_consumed_kwh": 5.5341180365089375
+      },
+      "label": 63.46,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.43675282150271,
+        "charging_rate_kw": 43.693650647460345,
+        "temperature_c": 32.870275361706845,
+        "vehicle_age_years": 1.7191837827731624,
+        "distance_km": 10,
+        "soc_start": 55.22276909095053,
+        "energy_consumed_kwh": 54.209974242473734
+      },
+      "label": 86.25,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.43302918792347,
+        "charging_rate_kw": 4,
+        "temperature_c": 20.939795712066697,
+        "vehicle_age_years": 3.9379500469067708,
+        "distance_km": 190.33337503088953,
+        "soc_start": 38.40861389062516,
+        "energy_consumed_kwh": 60.05146586465506
+      },
+      "label": 68.5,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.63337214659443,
+        "charging_rate_kw": 23.880989670694646,
+        "temperature_c": 23.54280728458064,
+        "vehicle_age_years": 1.7398079499102532,
+        "distance_km": 247.97744366836392,
+        "soc_start": 31.342523725679072,
+        "energy_consumed_kwh": 46.92524352119732
+      },
+      "label": 86.08,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.18380663711246,
+        "charging_rate_kw": 43.40495829377609,
+        "temperature_c": 32.71833865468078,
+        "vehicle_age_years": 6.365416509750399,
+        "distance_km": 232.67044977694385,
+        "soc_start": 77.6976187043478,
+        "energy_consumed_kwh": 31.33301157273403
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.06874428876762,
+        "charging_rate_kw": 14.998770937345034,
+        "temperature_c": 33.834691165278564,
+        "vehicle_age_years": 0.3966317218579133,
+        "distance_km": 194.17039359008194,
+        "soc_start": 34.29541962122829,
+        "energy_consumed_kwh": 26.109754192994277
+      },
+      "label": 96.83,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.273607647033,
+        "charging_rate_kw": 12.774431742339555,
+        "temperature_c": 38.6215731628446,
+        "vehicle_age_years": 1.6208908808713494,
+        "distance_km": 162.3600034122096,
+        "soc_start": 52.56883220754677,
+        "energy_consumed_kwh": 18.885451936759864
+      },
+      "label": 87.03,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.89226361633105,
+        "charging_rate_kw": 38.591957638268525,
+        "temperature_c": -6.290120710603944,
+        "vehicle_age_years": 3.83499939634579,
+        "distance_km": 223.89248573734258,
+        "soc_start": 37.00307639381038,
+        "energy_consumed_kwh": 5
+      },
+      "label": 69.32,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.48957494860382,
+        "charging_rate_kw": 18.97609875804123,
+        "temperature_c": 35.06980774631102,
+        "vehicle_age_years": 3.910939144478109,
+        "distance_km": 105.01828819190372,
+        "soc_start": 32.88607145017794,
+        "energy_consumed_kwh": 11.511241794529822
+      },
+      "label": 68.71,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 150,
+        "charging_rate_kw": 4,
+        "temperature_c": 23.888338339843177,
+        "vehicle_age_years": 0.8149037764423966,
+        "distance_km": 173.95791622040858,
+        "soc_start": 11.7851800252384,
+        "energy_consumed_kwh": 13.50103365584635
+      },
+      "label": 93.48,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 98.1674465539698,
+        "charging_rate_kw": 10.737738248492612,
+        "temperature_c": -2.555277140889289,
+        "vehicle_age_years": 0.8649240032584387,
+        "distance_km": 111.10490198233221,
+        "soc_start": 58.45944289645921,
+        "energy_consumed_kwh": 76.29572104713631
+      },
+      "label": 93.08,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.15379447491271,
+        "charging_rate_kw": 38.670714664979855,
+        "temperature_c": 6.578874365152586,
+        "vehicle_age_years": 2.236770014524901,
+        "distance_km": 123.55840899808899,
+        "soc_start": 35.78712189002101,
+        "energy_consumed_kwh": 6.586278233189326
+      },
+      "label": 82.11,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.74254156671581,
+        "charging_rate_kw": 4,
+        "temperature_c": 13.731124560941392,
+        "vehicle_age_years": 6.274335055781939,
+        "distance_km": 233.80414586812776,
+        "soc_start": 65.10791243201032,
+        "energy_consumed_kwh": 20.17746661955743
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.82278843816742,
+        "charging_rate_kw": 32.59307526630255,
+        "temperature_c": 15.52774874451502,
+        "vehicle_age_years": 0.35347313730354757,
+        "distance_km": 254.62571779982548,
+        "soc_start": 68.01798638396694,
+        "energy_consumed_kwh": 28.661235504960985
+      },
+      "label": 97.17,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.65663934247587,
+        "charging_rate_kw": 7.833411942603101,
+        "temperature_c": 34.341995735103495,
+        "vehicle_age_years": 4.37301691978574,
+        "distance_km": 10,
+        "soc_start": 50.52597908123594,
+        "energy_consumed_kwh": 77.81932138513066
+      },
+      "label": 65.02,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 98.62825341160011,
+        "charging_rate_kw": 8.820127650326622,
+        "temperature_c": -5.350668516323896,
+        "vehicle_age_years": 2.602233716470833,
+        "distance_km": 185.64237987520534,
+        "soc_start": 25.02194185356872,
+        "energy_consumed_kwh": 69.04925433184661
+      },
+      "label": 79.18,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.35246327137226,
+        "charging_rate_kw": 48.85688125725287,
+        "temperature_c": 40.390622812439744,
+        "vehicle_age_years": 0.20086473342978275,
+        "distance_km": 63.901409715534015,
+        "soc_start": 57.158451220763276,
+        "energy_consumed_kwh": 68.49324298191516
+      },
+      "label": 98.39,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 49.906140439565576,
+        "charging_rate_kw": 8.165510900776411,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.33748678621071704,
+        "distance_km": 156.89803791981024,
+        "soc_start": 35.57577520522801,
+        "energy_consumed_kwh": 73.60779675142933
+      },
+      "label": 97.3,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 135.68933735415382,
+        "charging_rate_kw": 41.36180206550655,
+        "temperature_c": -4.5295197320617495,
+        "vehicle_age_years": 0.27029215033124965,
+        "distance_km": 174.39212877363136,
+        "soc_start": 92.37451485744207,
+        "energy_consumed_kwh": 16.132474183433562
+      },
+      "label": 97.84,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.23794488405125,
+        "charging_rate_kw": 40.295642137456646,
+        "temperature_c": 32.73780215750398,
+        "vehicle_age_years": 5.462358402229458,
+        "distance_km": 65.3542971515572,
+        "soc_start": 63.17478339212072,
+        "energy_consumed_kwh": 41.84608351897087
+      },
+      "label": 56.3,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.22480271963565,
+        "charging_rate_kw": 4,
+        "temperature_c": 12.835939992522112,
+        "vehicle_age_years": 1.9941748617611978,
+        "distance_km": 214.915843293448,
+        "soc_start": 37.869519530259694,
+        "energy_consumed_kwh": 54.62666966747283
+      },
+      "label": 84.05,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.67595207345171,
+        "charging_rate_kw": 4.8232978417896515,
+        "temperature_c": 7.0591244190161095,
+        "vehicle_age_years": 0.18764142885940047,
+        "distance_km": 110.58082664853639,
+        "soc_start": 57.09846163827315,
+        "energy_consumed_kwh": 66.78249741103954
+      },
+      "label": 98.5,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.99133658268948,
+        "charging_rate_kw": 48.13259058600207,
+        "temperature_c": 30.310282859713762,
+        "vehicle_age_years": 3.767045539953905,
+        "distance_km": 108.4020260219987,
+        "soc_start": 95.2261760681312,
+        "energy_consumed_kwh": 27.035792255763745
+      },
+      "label": 69.86,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.15560841283849,
+        "charging_rate_kw": 32.49259635921649,
+        "temperature_c": 11.609822423207444,
+        "vehicle_age_years": 3.1986264436106433,
+        "distance_km": 150.69033798943434,
+        "soc_start": 89.39458616413096,
+        "energy_consumed_kwh": 76.71357317670727
+      },
+      "label": 74.41,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.778852155028,
+        "charging_rate_kw": 8.509620297344057,
+        "temperature_c": 22.957787699414066,
+        "vehicle_age_years": 1.0042342382775662,
+        "distance_km": 189.60590595236715,
+        "soc_start": 33.66822479016241,
+        "energy_consumed_kwh": 5
+      },
+      "label": 91.97,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.7790147802393,
+        "charging_rate_kw": 42.98057518043134,
+        "temperature_c": 7.3867265516279526,
+        "vehicle_age_years": 3.218466569840045,
+        "distance_km": 91.52154030409923,
+        "soc_start": 57.87498394245489,
+        "energy_consumed_kwh": 34.659802289070335
+      },
+      "label": 74.25,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.61547230434554,
+        "charging_rate_kw": 31.11645160126747,
+        "temperature_c": -7.613984944464697,
+        "vehicle_age_years": 1.0651334374995016,
+        "distance_km": 165.50714881376274,
+        "soc_start": 65.59564725122638,
+        "energy_consumed_kwh": 20.613090234398573
+      },
+      "label": 91.48,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.06272146513098,
+        "charging_rate_kw": 15.129192741712036,
+        "temperature_c": 6.037415667499017,
+        "vehicle_age_years": 0.7732191617379713,
+        "distance_km": 219.68051045955735,
+        "soc_start": 35.390308381822415,
+        "energy_consumed_kwh": 73.7678159247691
+      },
+      "label": 93.81,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.1651122369027,
+        "charging_rate_kw": 10.39984691992008,
+        "temperature_c": 8.1645391908513,
+        "vehicle_age_years": 2.511907703384294,
+        "distance_km": 217.77887652691885,
+        "soc_start": 40.772156848176365,
+        "energy_consumed_kwh": 67.61277430532483
+      },
+      "label": 79.9,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 113.28097593644898,
+        "charging_rate_kw": 48.49614205414463,
+        "temperature_c": 17.650205486015278,
+        "vehicle_age_years": 1.246065221050331,
+        "distance_km": 315.74428674760344,
+        "soc_start": 15.043450996170353,
+        "energy_consumed_kwh": 5
+      },
+      "label": 90.03,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 80.12055614874369,
+        "charging_rate_kw": 43.192033055213564,
+        "temperature_c": 22.173106395021218,
+        "vehicle_age_years": 0.9965486935724768,
+        "distance_km": 14.678544112929595,
+        "soc_start": 44.341966767182086,
+        "energy_consumed_kwh": 31.52615587450331
+      },
+      "label": 92.03,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.71688564663119,
+        "charging_rate_kw": 36.98499127620097,
+        "temperature_c": 16.018435979878188,
+        "vehicle_age_years": 0.5725990186182484,
+        "distance_km": 244.98873847479916,
+        "soc_start": 51.47511717810519,
+        "energy_consumed_kwh": 73.4843053204663
+      },
+      "label": 95.42,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.2454058893957,
+        "charging_rate_kw": 13.060736965777075,
+        "temperature_c": 8.679173707102514,
+        "vehicle_age_years": 0.19734431859426513,
+        "distance_km": 329.61894367056993,
+        "soc_start": 94.25937219765548,
+        "energy_consumed_kwh": 13.58996720362099
+      },
+      "label": 98.42,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 150,
+        "charging_rate_kw": 4,
+        "temperature_c": 18.473047964944517,
+        "vehicle_age_years": 5.5426486001485085,
+        "distance_km": 140.0164954127093,
+        "soc_start": 89.87676184391883,
+        "energy_consumed_kwh": 12.559385967815562
+      },
+      "label": 55.66,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 93.59240203087033,
+        "charging_rate_kw": 31.354465952911504,
+        "temperature_c": 16.67949146705609,
+        "vehicle_age_years": 0.49125958766399036,
+        "distance_km": 386.05667951244317,
+        "soc_start": 34.8490039454603,
+        "energy_consumed_kwh": 82.61759454239234
+      },
+      "label": 96.07,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 59.63991944233257,
+        "charging_rate_kw": 6.203114787671886,
+        "temperature_c": -10,
+        "vehicle_age_years": 6.936914691928709,
+        "distance_km": 197.09074667346172,
+        "soc_start": 79.37173000017695,
+        "energy_consumed_kwh": 16.941906870759297
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 59.32629831549996,
+        "charging_rate_kw": 42.44539972237221,
+        "temperature_c": 41.62301420850253,
+        "vehicle_age_years": 0.3432344016414526,
+        "distance_km": 61.52415606775372,
+        "soc_start": 66.2619097188466,
+        "energy_consumed_kwh": 36.875187883384484
+      },
+      "label": 97.25,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 89.220846580754,
+        "charging_rate_kw": 21.615317182107734,
+        "temperature_c": 19.055624867013634,
+        "vehicle_age_years": 1.5372649896042643,
+        "distance_km": 84.19200778450752,
+        "soc_start": 68.01813817100805,
+        "energy_consumed_kwh": 17.29540819264171
+      },
+      "label": 87.7,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 95.14505851037885,
+        "charging_rate_kw": 34.04630213964875,
+        "temperature_c": -9.430609816586733,
+        "vehicle_age_years": 3.274907190635783,
+        "distance_km": 205.89236673159994,
+        "soc_start": 22.1258956384857,
+        "energy_consumed_kwh": 68.94148742649111
+      },
+      "label": 73.8,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.51795828295168,
+        "charging_rate_kw": 26.551190558812007,
+        "temperature_c": 22.127639565711313,
+        "vehicle_age_years": 1.6375332394147655,
+        "distance_km": 229.17886741389168,
+        "soc_start": 39.131278812261044,
+        "energy_consumed_kwh": 59.87182728642007
+      },
+      "label": 86.9,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.67832195827869,
+        "charging_rate_kw": 35.187869033182274,
+        "temperature_c": 34.74140577121428,
+        "vehicle_age_years": 0.644062518556197,
+        "distance_km": 58.389013074171274,
+        "soc_start": 23.952293026779426,
+        "energy_consumed_kwh": 51.42607804501081
+      },
+      "label": 94.85,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.9989835718047,
+        "charging_rate_kw": 4,
+        "temperature_c": 22.594104602821318,
+        "vehicle_age_years": 1.210561930681069,
+        "distance_km": 35.210007085809124,
+        "soc_start": 65.77611459132012,
+        "energy_consumed_kwh": 38.27686786419068
+      },
+      "label": 90.32,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.89987957856042,
+        "charging_rate_kw": 6.503942003384246,
+        "temperature_c": 25.06310491179835,
+        "vehicle_age_years": 2.9923663864923573,
+        "distance_km": 10.275534962459641,
+        "soc_start": 44.87417561626621,
+        "energy_consumed_kwh": 42.77919671981006
+      },
+      "label": 76.06,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.58591522059531,
+        "charging_rate_kw": 12.44335319655047,
+        "temperature_c": 42.0237696384913,
+        "vehicle_age_years": 0.3347827705588736,
+        "distance_km": 246.949390041777,
+        "soc_start": 69.30019271374633,
+        "energy_consumed_kwh": 17.210540261670992
+      },
+      "label": 97.32,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.15273698121275,
+        "charging_rate_kw": 27.722837519472108,
+        "temperature_c": 9.371850336104789,
+        "vehicle_age_years": 3.6059647166074575,
+        "distance_km": 91.87931512528837,
+        "soc_start": 18.887822798367907,
+        "energy_consumed_kwh": 52.54932657223198
+      },
+      "label": 71.15,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.43225383231579,
+        "charging_rate_kw": 25.679146141578858,
+        "temperature_c": 9.726168046533923,
+        "vehicle_age_years": 1.3463347767864895,
+        "distance_km": 312.5086142892521,
+        "soc_start": 74.6060675112803,
+        "energy_consumed_kwh": 27.582837420415018
+      },
+      "label": 89.23,
+      "service_required": false,
+      "vehicle_model": "Nissan Leaf"
+    }
+  ]
+}

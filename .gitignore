@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.env
+backend_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Frontend / React Native
+.expo/
+.metro-cache/
+dist/
+build/
+
+# Databases & Logs
+*.db
+*.sqlite3
+db.json
+*.log
+logs/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/

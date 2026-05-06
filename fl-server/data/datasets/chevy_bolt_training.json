@@ -1,0 +1,4207 @@
+{
+  "vehicle_model": "Chevy Bolt",
+  "samples": 300,
+  "data_type": "synthetic_realistic",
+  "data": [
+    {
+      "features": {
+        "battery_capacity": 61.6818123579436,
+        "charging_rate_kw": 16.249498087383166,
+        "temperature_c": 3.8816883012117143,
+        "vehicle_age_years": 0.23606103592798813,
+        "distance_km": 94.75063732494068,
+        "soc_start": 76.66009702009083,
+        "energy_consumed_kwh": 54.30643678231366
+      },
+      "label": 98.11,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.99392107010682,
+        "charging_rate_kw": 26.767306838166082,
+        "temperature_c": 40.66570140838193,
+        "vehicle_age_years": 0.060500354414717177,
+        "distance_km": 42.7030939532563,
+        "soc_start": 68.48959940015709,
+        "energy_consumed_kwh": 71.16982848206364
+      },
+      "label": 99.52,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.86648958072209,
+        "charging_rate_kw": 10.394026465293743,
+        "temperature_c": 41.78362693785388,
+        "vehicle_age_years": 1.0877992461278518,
+        "distance_km": 120.57761937681087,
+        "soc_start": 24.36933847392011,
+        "energy_consumed_kwh": 8.012817652229403
+      },
+      "label": 91.3,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.01651694961392,
+        "charging_rate_kw": 5.605852313259385,
+        "temperature_c": 35.169445362708124,
+        "vehicle_age_years": 6.303045296876609,
+        "distance_km": 70.30516000428857,
+        "soc_start": 64.3353428230202,
+        "energy_consumed_kwh": 19.555398886052615
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.00235398189093,
+        "charging_rate_kw": 18.27624691361663,
+        "temperature_c": 26.204873071117976,
+        "vehicle_age_years": 0.08884536119027676,
+        "distance_km": 87.64728767589081,
+        "soc_start": 36.38604532663836,
+        "energy_consumed_kwh": 60.268398321833324
+      },
+      "label": 99.29,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 92.87506109993491,
+        "charging_rate_kw": 31.444704480527975,
+        "temperature_c": 16.421168800970904,
+        "vehicle_age_years": 1.7224318826976917,
+        "distance_km": 175.0945608828893,
+        "soc_start": 17.181277923126473,
+        "energy_consumed_kwh": 78.11360921789941
+      },
+      "label": 86.22,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 26.24818644182917,
+        "temperature_c": 9.819024531195126,
+        "vehicle_age_years": 4.027062924446138,
+        "distance_km": 139.7801378096762,
+        "soc_start": 41.974363020476936,
+        "energy_consumed_kwh": 17.023436675938928
+      },
+      "label": 67.78,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 15.553388450688981,
+        "temperature_c": -10,
+        "vehicle_age_years": 2.0884492694117514,
+        "distance_km": 133.26567480582656,
+        "soc_start": 44.1509897581883,
+        "energy_consumed_kwh": 75.97442226163788
+      },
+      "label": 83.29,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.61632853488818,
+        "charging_rate_kw": 55.503522528642115,
+        "temperature_c": 14.147614951853209,
+        "vehicle_age_years": 2.043301160920479,
+        "distance_km": 163.1291890122997,
+        "soc_start": 30.614326476769392,
+        "energy_consumed_kwh": 31.90284018763521
+      },
+      "label": 83.65,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.39528582024942,
+        "charging_rate_kw": 26.707661971002317,
+        "temperature_c": 12.087295014752947,
+        "vehicle_age_years": 0.1369615878382763,
+        "distance_km": 19.320241008092992,
+        "soc_start": 54.93081335430496,
+        "energy_consumed_kwh": 24.776306616174608
+      },
+      "label": 98.9,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.857956207918775,
+        "charging_rate_kw": 29.52820769389528,
+        "temperature_c": 12.131383237688679,
+        "vehicle_age_years": 4.919591326308261,
+        "distance_km": 66.17080648323446,
+        "soc_start": 33.64674476706418,
+        "energy_consumed_kwh": 68.05978862629422
+      },
+      "label": 60.64,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.34017104769029,
+        "charging_rate_kw": 5.939453567957303,
+        "temperature_c": 9.668968507599445,
+        "vehicle_age_years": 0.8988228430725704,
+        "distance_km": 156.83462355464252,
+        "soc_start": 87.49926186999993,
+        "energy_consumed_kwh": 37.572224649066676
+      },
+      "label": 92.81,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.18954652326033,
+        "charging_rate_kw": 26.895314251782544,
+        "temperature_c": 8.462029107814054,
+        "vehicle_age_years": 1.9747467943291446,
+        "distance_km": 280.36433436678425,
+        "soc_start": 99.6509242216087,
+        "energy_consumed_kwh": 51.144132659147424
+      },
+      "label": 84.2,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.125972267299,
+        "charging_rate_kw": 13.197339150258774,
+        "temperature_c": 36.43344353466593,
+        "vehicle_age_years": 5.709537285419617,
+        "distance_km": 56.78232871501663,
+        "soc_start": 79.17388593917013,
+        "energy_consumed_kwh": 67.41966221477212
+      },
+      "label": 54.32,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.93138869578522,
+        "charging_rate_kw": 8.077181984454734,
+        "temperature_c": 7.528117395207195,
+        "vehicle_age_years": 0.23655870819473576,
+        "distance_km": 246.29368739230915,
+        "soc_start": 33.70501456759817,
+        "energy_consumed_kwh": 12.117248897107952
+      },
+      "label": 98.11,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.98151638549135,
+        "charging_rate_kw": 37.17210940635427,
+        "temperature_c": 16.09660888801129,
+        "vehicle_age_years": 0.22501828551437597,
+        "distance_km": 239.96710141617896,
+        "soc_start": 43.65224673320331,
+        "energy_consumed_kwh": 20.630165482698672
+      },
+      "label": 98.2,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.7595634412001,
+        "charging_rate_kw": 4,
+        "temperature_c": 9.246132995121554,
+        "vehicle_age_years": 1.5503595306377498,
+        "distance_km": 154.0690308505215,
+        "soc_start": 11.752906814724907,
+        "energy_consumed_kwh": 61.322864361255
+      },
+      "label": 87.6,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.919147004833285,
+        "charging_rate_kw": 8.327461193759085,
+        "temperature_c": 18.268458996231033,
+        "vehicle_age_years": 3.2877979115072162,
+        "distance_km": 283.21391109628297,
+        "soc_start": 75.87168353601649,
+        "energy_consumed_kwh": 54.79674307992735
+      },
+      "label": 73.7,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.907403864267614,
+        "charging_rate_kw": 5.453086772845616,
+        "temperature_c": 6.411874254409199,
+        "vehicle_age_years": 0.14344859358794435,
+        "distance_km": 311.4159917381668,
+        "soc_start": 59.48232341454495,
+        "energy_consumed_kwh": 58.24005630960358
+      },
+      "label": 98.85,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 91.16213870463713,
+        "charging_rate_kw": 7.1767055921654865,
+        "temperature_c": 2.266363462920545,
+        "vehicle_age_years": 6.668736435022604,
+        "distance_km": 216.39848086140054,
+        "soc_start": 45.909306999768624,
+        "energy_consumed_kwh": 60.039355589318376
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.062040967512914,
+        "charging_rate_kw": 36.50179803578953,
+        "temperature_c": 7.373863291537404,
+        "vehicle_age_years": 2.0989475568675906,
+        "distance_km": 206.61763315375032,
+        "soc_start": 40.427700593270984,
+        "energy_consumed_kwh": 5
+      },
+      "label": 83.21,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.95197792106408,
+        "charging_rate_kw": 31.27954632753204,
+        "temperature_c": 24.245621076107156,
+        "vehicle_age_years": 0.014433635363494698,
+        "distance_km": 300.9682910342784,
+        "soc_start": 39.73856401724488,
+        "energy_consumed_kwh": 33.04399287748769
+      },
+      "label": 99.88,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.2925275862478,
+        "charging_rate_kw": 12.616298235772787,
+        "temperature_c": 2.497195828215358,
+        "vehicle_age_years": 0.5436296103261208,
+        "distance_km": 350.8689196284471,
+        "soc_start": 61.3938783992756,
+        "energy_consumed_kwh": 5
+      },
+      "label": 95.65,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.39538521773153,
+        "charging_rate_kw": 21.535610249395233,
+        "temperature_c": 28.512472164771193,
+        "vehicle_age_years": 1.0453240011750913,
+        "distance_km": 74.53465937493178,
+        "soc_start": 87.7453073532643,
+        "energy_consumed_kwh": 71.53766973673474
+      },
+      "label": 91.64,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.62360186452774,
+        "charging_rate_kw": 45.18446571765726,
+        "temperature_c": -8.298663839966249,
+        "vehicle_age_years": 2.23782110697956,
+        "distance_km": 119.47667374721405,
+        "soc_start": 87.55052827175119,
+        "energy_consumed_kwh": 41.03800194782344
+      },
+      "label": 82.1,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 80.19647805512575,
+        "charging_rate_kw": 31.241030918847528,
+        "temperature_c": 40.104887064167606,
+        "vehicle_age_years": 0.3020697711402595,
+        "distance_km": 238.07322916944676,
+        "soc_start": 82.72200202585323,
+        "energy_consumed_kwh": 20.46363286937132
+      },
+      "label": 97.58,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 128.91655102959598,
+        "charging_rate_kw": 44.75264655139623,
+        "temperature_c": 45,
+        "vehicle_age_years": 1.5984617484063297,
+        "distance_km": 178.05770683562338,
+        "soc_start": 93.37302847073148,
+        "energy_consumed_kwh": 14.7560997062732
+      },
+      "label": 87.21,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.07321998660086,
+        "charging_rate_kw": 14.247463934562617,
+        "temperature_c": 4.215180192872904,
+        "vehicle_age_years": 1.3130844555576962,
+        "distance_km": 179.1221593657865,
+        "soc_start": 45.13795818290318,
+        "energy_consumed_kwh": 51.48926048143442
+      },
+      "label": 89.5,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.94310299114817,
+        "charging_rate_kw": 37.67803237788807,
+        "temperature_c": 28.440951951512094,
+        "vehicle_age_years": 3.0656075712032735,
+        "distance_km": 105.87886138399777,
+        "soc_start": 60.01914910650564,
+        "energy_consumed_kwh": 9.629782378244494
+      },
+      "label": 75.48,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.45140469478085,
+        "charging_rate_kw": 15.842275362023576,
+        "temperature_c": 40.90272522077215,
+        "vehicle_age_years": 0.4910362574368401,
+        "distance_km": 301.7837977843436,
+        "soc_start": 14.512810353755821,
+        "energy_consumed_kwh": 46.96499091126124
+      },
+      "label": 96.07,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.816691241560164,
+        "charging_rate_kw": 8.487056199359053,
+        "temperature_c": 39.249799234512,
+        "vehicle_age_years": 1.3977285155713708,
+        "distance_km": 71.05294749884108,
+        "soc_start": 26.724246488265088,
+        "energy_consumed_kwh": 63.22132270087293
+      },
+      "label": 88.82,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.254057008259956,
+        "charging_rate_kw": 33.083140555111065,
+        "temperature_c": 1.7283765528344421,
+        "vehicle_age_years": 1.0342761821236102,
+        "distance_km": 262.86753185530324,
+        "soc_start": 17.378506494538794,
+        "energy_consumed_kwh": 6.207974773509859
+      },
+      "label": 91.73,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 20.067834591566562,
+        "temperature_c": 40.590212952495264,
+        "vehicle_age_years": 1.752565125437771,
+        "distance_km": 60.57733797225953,
+        "soc_start": 31.481735735426142,
+        "energy_consumed_kwh": 31.69101949378048
+      },
+      "label": 85.98,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.271501273299,
+        "charging_rate_kw": 44.84057489783863,
+        "temperature_c": -3.879016963492001,
+        "vehicle_age_years": 1.222119244145533,
+        "distance_km": 175.45159979916215,
+        "soc_start": 60.66942810750515,
+        "energy_consumed_kwh": 65.38972669769808
+      },
+      "label": 90.22,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.44102500208675,
+        "charging_rate_kw": 5.315824600267116,
+        "temperature_c": 45,
+        "vehicle_age_years": 0.15216601101971397,
+        "distance_km": 10,
+        "soc_start": 89.13432182360884,
+        "energy_consumed_kwh": 18.256743553447553
+      },
+      "label": 98.78,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.05839549534575,
+        "charging_rate_kw": 20.785474763761513,
+        "temperature_c": 22.838476779835226,
+        "vehicle_age_years": 1.5670978867042789,
+        "distance_km": 312.5878233217839,
+        "soc_start": 70.10768833413252,
+        "energy_consumed_kwh": 56.518248532083305
+      },
+      "label": 87.46,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.2060985927515,
+        "charging_rate_kw": 31.106435582623575,
+        "temperature_c": 7.85714101235615,
+        "vehicle_age_years": 0.7115756813480724,
+        "distance_km": 86.75483575795607,
+        "soc_start": 19.633237993847587,
+        "energy_consumed_kwh": 71.85642755679628
+      },
+      "label": 94.31,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.90621593260026,
+        "charging_rate_kw": 5.8435574000964285,
+        "temperature_c": 45,
+        "vehicle_age_years": 0.47303936544133124,
+        "distance_km": 178.086120443272,
+        "soc_start": 32.60091268629047,
+        "energy_consumed_kwh": 55.969482817150734
+      },
+      "label": 96.22,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 92.02445750147334,
+        "charging_rate_kw": 43.41562444862233,
+        "temperature_c": 18.641442037974468,
+        "vehicle_age_years": 3.7429527328003163,
+        "distance_km": 141.73732185381104,
+        "soc_start": 79.40073007176643,
+        "energy_consumed_kwh": 50.581631664816335
+      },
+      "label": 70.06,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.268422380616556,
+        "charging_rate_kw": 33.66413681163441,
+        "temperature_c": 0.505033910689118,
+        "vehicle_age_years": 1.1662031568580196,
+        "distance_km": 329.59449638171867,
+        "soc_start": 72.19176613802888,
+        "energy_consumed_kwh": 45.48923639105707
+      },
+      "label": 90.67,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 67.35937234588994,
+        "charging_rate_kw": 44.108018993853044,
+        "temperature_c": -7.257856463036633,
+        "vehicle_age_years": 1.5775120824342093,
+        "distance_km": 199.28582480760087,
+        "soc_start": 37.74325149371203,
+        "energy_consumed_kwh": 80.00884916557285
+      },
+      "label": 87.38,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.54031748950695,
+        "charging_rate_kw": 10.978530537917939,
+        "temperature_c": 44.5651396622659,
+        "vehicle_age_years": 0.08142499709535372,
+        "distance_km": 10,
+        "soc_start": 60.38951672294827,
+        "energy_consumed_kwh": 68.89118409135827
+      },
+      "label": 99.35,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.63392091328527,
+        "charging_rate_kw": 38.27260742443227,
+        "temperature_c": 8.212956604961814,
+        "vehicle_age_years": 1.0430229958978094,
+        "distance_km": 30.39022636522742,
+        "soc_start": 97.85854296378666,
+        "energy_consumed_kwh": 75.65332999341135
+      },
+      "label": 91.66,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 46.669678391079174,
+        "charging_rate_kw": 21.578926395768505,
+        "temperature_c": -4.028469288475326,
+        "vehicle_age_years": 0.39534312751428174,
+        "distance_km": 172.20258511827518,
+        "soc_start": 76.15517849450885,
+        "energy_consumed_kwh": 50.72821593282211
+      },
+      "label": 96.84,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 8.464443803975916,
+        "temperature_c": 40.10177075026646,
+        "vehicle_age_years": 0.6206891005468215,
+        "distance_km": 168.93609255730553,
+        "soc_start": 30.0190345791098,
+        "energy_consumed_kwh": 52.8530656459536
+      },
+      "label": 95.03,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 41.881306074438676,
+        "charging_rate_kw": 17.33477768462275,
+        "temperature_c": 12.37056633725078,
+        "vehicle_age_years": 3.4355655422067595,
+        "distance_km": 63.22886099277013,
+        "soc_start": 35.074275492070356,
+        "energy_consumed_kwh": 22.211241517314225
+      },
+      "label": 72.52,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.91478801595824,
+        "charging_rate_kw": 35.50265249085849,
+        "temperature_c": 24.409911871191184,
+        "vehicle_age_years": 6.8157857358778635,
+        "distance_km": 141.2184787141789,
+        "soc_start": 58.25941592308497,
+        "energy_consumed_kwh": 76.45085117885682
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.52434639285652,
+        "charging_rate_kw": 34.15055931635175,
+        "temperature_c": 0.03159050150037945,
+        "vehicle_age_years": 0.39341179310527274,
+        "distance_km": 103.50206506889177,
+        "soc_start": 75.56905545874339,
+        "energy_consumed_kwh": 68.9027452786545
+      },
+      "label": 96.85,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 131.22705315737676,
+        "charging_rate_kw": 49.62268752758933,
+        "temperature_c": 34.24000769142598,
+        "vehicle_age_years": 1.1467992942381249,
+        "distance_km": 203.96498120664478,
+        "soc_start": 13.994788034190798,
+        "energy_consumed_kwh": 47.82432130420289
+      },
+      "label": 90.83,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.78980785843434,
+        "charging_rate_kw": 16.942923964944757,
+        "temperature_c": 16.33726704650252,
+        "vehicle_age_years": 1.546338430963094,
+        "distance_km": 79.6925011306743,
+        "soc_start": 16.297643001367916,
+        "energy_consumed_kwh": 63.27902383994028
+      },
+      "label": 87.63,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 41.55607966596158,
+        "charging_rate_kw": 4.757808666553566,
+        "temperature_c": 6.969404318508817,
+        "vehicle_age_years": 5.070822141607517,
+        "distance_km": 141.54537202350917,
+        "soc_start": 55.64102536317422,
+        "energy_consumed_kwh": 27.76541147851419
+      },
+      "label": 59.43,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 93.83861785046851,
+        "charging_rate_kw": 9.678230357710653,
+        "temperature_c": 7.672620949278995,
+        "vehicle_age_years": 0.7009745471651464,
+        "distance_km": 129.6695578704434,
+        "soc_start": 91.25249911593244,
+        "energy_consumed_kwh": 69.33683287014091
+      },
+      "label": 94.39,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 10.8379472880869,
+        "temperature_c": 6.561321671830089,
+        "vehicle_age_years": 1.6837828590565045,
+        "distance_km": 221.6530763751913,
+        "soc_start": 80.71829447298221,
+        "energy_consumed_kwh": 36.815058700580025
+      },
+      "label": 86.53,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 80.61728140515122,
+        "charging_rate_kw": 47.957707462489225,
+        "temperature_c": 22.11688749077625,
+        "vehicle_age_years": 1.1673654725949643,
+        "distance_km": 324.7663129298143,
+        "soc_start": 25.272225657824926,
+        "energy_consumed_kwh": 16.28463170102238
+      },
+      "label": 90.66,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.27189140483193,
+        "charging_rate_kw": 21.04849388860398,
+        "temperature_c": 35.58127670216648,
+        "vehicle_age_years": 0.667553678920661,
+        "distance_km": 271.4278726738651,
+        "soc_start": 31.138173867401555,
+        "energy_consumed_kwh": 61.06049481971533
+      },
+      "label": 94.66,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 98.46856532929962,
+        "charging_rate_kw": 32.21007010336503,
+        "temperature_c": 4.46806992049644,
+        "vehicle_age_years": 0.04945727131838291,
+        "distance_km": 219.39411490790093,
+        "soc_start": 47.29969098979474,
+        "energy_consumed_kwh": 10.553056792785366
+      },
+      "label": 99.6,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.31332087094098,
+        "charging_rate_kw": 37.5259433411523,
+        "temperature_c": 0.5619063954789407,
+        "vehicle_age_years": 1.7144918883683788,
+        "distance_km": 106.24782536287894,
+        "soc_start": 71.88601717724676,
+        "energy_consumed_kwh": 27.92112006084
+      },
+      "label": 86.28,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.01111361216193,
+        "charging_rate_kw": 27.263066878792188,
+        "temperature_c": 13.404756465490872,
+        "vehicle_age_years": 0.22541330192330009,
+        "distance_km": 62.65050887794706,
+        "soc_start": 14.519654662657683,
+        "energy_consumed_kwh": 75.68939431745305
+      },
+      "label": 98.2,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 10.968653710413951,
+        "temperature_c": 27.23153613524991,
+        "vehicle_age_years": 4.989187181062648,
+        "distance_km": 219.77015759180284,
+        "soc_start": 60.30327613346806,
+        "energy_consumed_kwh": 47.154451982078626
+      },
+      "label": 60.09,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.24027199786124,
+        "charging_rate_kw": 46.50738572256833,
+        "temperature_c": 10.785049218260788,
+        "vehicle_age_years": 1.8968651969347046,
+        "distance_km": 299.58552902606505,
+        "soc_start": 90.7487292909936,
+        "energy_consumed_kwh": 15.961620788446218
+      },
+      "label": 84.83,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.29673946257847,
+        "charging_rate_kw": 11.991665061072712,
+        "temperature_c": 35.03901517709382,
+        "vehicle_age_years": 3.9536964031253574,
+        "distance_km": 205.96918712811583,
+        "soc_start": 79.99073518005746,
+        "energy_consumed_kwh": 73.21210212651023
+      },
+      "label": 68.37,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.571671515891694,
+        "charging_rate_kw": 44.34040377889975,
+        "temperature_c": -1.3719412035302936,
+        "vehicle_age_years": 0.16129971727836837,
+        "distance_km": 30.912130500933618,
+        "soc_start": 22.453665536454015,
+        "energy_consumed_kwh": 53.13639036402621
+      },
+      "label": 98.71,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 25.698248918257935,
+        "temperature_c": 4.460739648494468,
+        "vehicle_age_years": 0.9658869135270515,
+        "distance_km": 168.92574398430762,
+        "soc_start": 51.93318730160356,
+        "energy_consumed_kwh": 29.506643715889645
+      },
+      "label": 92.27,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.77054053443933,
+        "charging_rate_kw": 7.930526903795332,
+        "temperature_c": 6.683978303041062,
+        "vehicle_age_years": 4.704359206269684,
+        "distance_km": 319.9556301346945,
+        "soc_start": 44.23429260349405,
+        "energy_consumed_kwh": 50.05526949747481
+      },
+      "label": 62.37,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.60809348831866,
+        "charging_rate_kw": 52.55502025833621,
+        "temperature_c": 10.96530925161846,
+        "vehicle_age_years": 5.720363850977993,
+        "distance_km": 245.02493376003827,
+        "soc_start": 58.43985108492084,
+        "energy_consumed_kwh": 67.582562088614
+      },
+      "label": 54.24,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.71678665591159,
+        "charging_rate_kw": 32.26704318567304,
+        "temperature_c": 24.37050736467971,
+        "vehicle_age_years": 0.4983044632886692,
+        "distance_km": 232.54520808659072,
+        "soc_start": 71.12276965255148,
+        "energy_consumed_kwh": 95.18613550231301
+      },
+      "label": 96.01,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.67158496136733,
+        "charging_rate_kw": 15.43331449157439,
+        "temperature_c": 38.88056469280308,
+        "vehicle_age_years": 2.5760235892180523,
+        "distance_km": 255.52398351042316,
+        "soc_start": 91.62359763280915,
+        "energy_consumed_kwh": 68.61061249659267
+      },
+      "label": 79.39,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.55962339760747,
+        "charging_rate_kw": 26.81865700462801,
+        "temperature_c": 29.510815101996176,
+        "vehicle_age_years": 2.0586369537887386,
+        "distance_km": 258.3338451876122,
+        "soc_start": 29.049425579033336,
+        "energy_consumed_kwh": 65.93583304187725
+      },
+      "label": 83.53,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 43.9969590906709,
+        "charging_rate_kw": 24.57027058602005,
+        "temperature_c": 42.1873585852489,
+        "vehicle_age_years": 0.8234710968068323,
+        "distance_km": 207.21236539746974,
+        "soc_start": 85.14198234209091,
+        "energy_consumed_kwh": 12.832661975210717
+      },
+      "label": 93.41,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 64.46737780171429,
+        "charging_rate_kw": 42.76535626308301,
+        "temperature_c": 1.2913496825836033,
+        "vehicle_age_years": 4.583719371458795,
+        "distance_km": 112.28469401786623,
+        "soc_start": 77.88098836535735,
+        "energy_consumed_kwh": 33.88757938586749
+      },
+      "label": 63.33,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 135.27889823621018,
+        "charging_rate_kw": 6.951060463070886,
+        "temperature_c": -0.962683138807761,
+        "vehicle_age_years": 0.5681327107055446,
+        "distance_km": 313.4483450342674,
+        "soc_start": 20.295050149837593,
+        "energy_consumed_kwh": 66.01917567483669
+      },
+      "label": 95.45,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.115190603024125,
+        "charging_rate_kw": 39.26166579296952,
+        "temperature_c": 18.20921767324737,
+        "vehicle_age_years": 2.9125591498276346,
+        "distance_km": 57.39909377672239,
+        "soc_start": 83.73710568799765,
+        "energy_consumed_kwh": 64.75918992763712
+      },
+      "label": 76.7,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.82822595686033,
+        "charging_rate_kw": 43.252581183828696,
+        "temperature_c": 33.15252423044183,
+        "vehicle_age_years": 0.2287997168493105,
+        "distance_km": 54.79456202680245,
+        "soc_start": 45.69889973649646,
+        "energy_consumed_kwh": 6.440405578144269
+      },
+      "label": 98.17,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.89580829161035,
+        "charging_rate_kw": 10.082235924015082,
+        "temperature_c": 11.454608718805414,
+        "vehicle_age_years": 3.5506501193256614,
+        "distance_km": 26.234228978667957,
+        "soc_start": 82.49751672815498,
+        "energy_consumed_kwh": 50.149654160033926
+      },
+      "label": 71.59,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.504457352010284,
+        "charging_rate_kw": 35.14762303293588,
+        "temperature_c": 31.819679436084492,
+        "vehicle_age_years": 1.2509710780973968,
+        "distance_km": 68.98591008616897,
+        "soc_start": 55.53647107093701,
+        "energy_consumed_kwh": 31.18731810241113
+      },
+      "label": 89.99,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.08246519611879,
+        "charging_rate_kw": 29.95691492952168,
+        "temperature_c": 40.42680077289381,
+        "vehicle_age_years": 1.3474802629514067,
+        "distance_km": 108.85942276523843,
+        "soc_start": 23.76920341844739,
+        "energy_consumed_kwh": 72.67055994907233
+      },
+      "label": 89.22,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.19923858371014,
+        "charging_rate_kw": 9.68457193139473,
+        "temperature_c": 29.096321866221416,
+        "vehicle_age_years": 2.6469794647110114,
+        "distance_km": 209.22741929789464,
+        "soc_start": 53.51477534948765,
+        "energy_consumed_kwh": 25.917462785776447
+      },
+      "label": 78.82,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.10590020193577,
+        "charging_rate_kw": 23.587506109258324,
+        "temperature_c": 27.11965454210626,
+        "vehicle_age_years": 0.7781146588287734,
+        "distance_km": 17.536908782638733,
+        "soc_start": 77.54286536443055,
+        "energy_consumed_kwh": 33.547383544448955
+      },
+      "label": 93.78,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 83.60104961433197,
+        "charging_rate_kw": 41.565986248471056,
+        "temperature_c": 27.462476390068005,
+        "vehicle_age_years": 1.8849188508538386,
+        "distance_km": 105.05792195368893,
+        "soc_start": 29.09078651617651,
+        "energy_consumed_kwh": 69.25301654302078
+      },
+      "label": 84.92,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 93.0297142216114,
+        "charging_rate_kw": 14.167944625089795,
+        "temperature_c": 32.0886898318234,
+        "vehicle_age_years": 1.813448315319173,
+        "distance_km": 160.31963531660034,
+        "soc_start": 31.722044533541194,
+        "energy_consumed_kwh": 17.28935833448186
+      },
+      "label": 85.49,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.62836064333581,
+        "charging_rate_kw": 9.501612017137374,
+        "temperature_c": 12.08306555286724,
+        "vehicle_age_years": 1.3411197968515707,
+        "distance_km": 129.0699620967205,
+        "soc_start": 81.36395813190857,
+        "energy_consumed_kwh": 44.93201828806341
+      },
+      "label": 89.27,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.12534548188957,
+        "charging_rate_kw": 11.628042468447047,
+        "temperature_c": 15.890119128338064,
+        "vehicle_age_years": 0.5575904590220957,
+        "distance_km": 161.43132118701286,
+        "soc_start": 99.69683175633988,
+        "energy_consumed_kwh": 41.73188365678462
+      },
+      "label": 95.54,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.14359892455989,
+        "charging_rate_kw": 24.892577340736565,
+        "temperature_c": 22.457327180411923,
+        "vehicle_age_years": 0.8033186103322378,
+        "distance_km": 301.6526411010482,
+        "soc_start": 27.332586410636566,
+        "energy_consumed_kwh": 25.04657158031044
+      },
+      "label": 93.57,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.765065231789784,
+        "charging_rate_kw": 35.09777804833027,
+        "temperature_c": 45,
+        "vehicle_age_years": 2.3434214294628246,
+        "distance_km": 23.79684898943428,
+        "soc_start": 78.41871058357744,
+        "energy_consumed_kwh": 16.561543622169307
+      },
+      "label": 81.25,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.83765265359354,
+        "charging_rate_kw": 24.5433688489934,
+        "temperature_c": -8.159704764242136,
+        "vehicle_age_years": 0.665355259683102,
+        "distance_km": 157.5618763956495,
+        "soc_start": 11.273353053045746,
+        "energy_consumed_kwh": 54.99839543548217
+      },
+      "label": 94.68,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.63649710910319,
+        "charging_rate_kw": 44.81441675925154,
+        "temperature_c": -7.029766203614465,
+        "vehicle_age_years": 1.6120001294143151,
+        "distance_km": 127.40388261353307,
+        "soc_start": 88.54477614986811,
+        "energy_consumed_kwh": 36.737186357157185
+      },
+      "label": 87.1,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.76295365816084,
+        "charging_rate_kw": 19.643178381056718,
+        "temperature_c": 31.54267177607798,
+        "vehicle_age_years": 0.6690982898799104,
+        "distance_km": 151.27358119285617,
+        "soc_start": 87.55506681647618,
+        "energy_consumed_kwh": 44.64028554884789
+      },
+      "label": 94.65,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 101.9322623701401,
+        "charging_rate_kw": 17.35023646121929,
+        "temperature_c": -9.265835483877837,
+        "vehicle_age_years": 0.1539395701008944,
+        "distance_km": 167.27874025549556,
+        "soc_start": 37.345196065800494,
+        "energy_consumed_kwh": 79.53430546641255
+      },
+      "label": 98.77,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 5.780569127236883,
+        "temperature_c": 34.13977121830442,
+        "vehicle_age_years": 0.25215065875177894,
+        "distance_km": 190.87686249858572,
+        "soc_start": 57.031528161719606,
+        "energy_consumed_kwh": 45.44931895548719
+      },
+      "label": 97.98,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.64670412677062,
+        "charging_rate_kw": 10.317289718947784,
+        "temperature_c": 41.47068129143285,
+        "vehicle_age_years": 1.7760147023667303,
+        "distance_km": 90.07049593340207,
+        "soc_start": 18.93102172973094,
+        "energy_consumed_kwh": 77.62993909903618
+      },
+      "label": 85.79,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.850658997632586,
+        "charging_rate_kw": 37.61067886793221,
+        "temperature_c": 39.50858788609099,
+        "vehicle_age_years": 0.4658522546824782,
+        "distance_km": 45.89892645640141,
+        "soc_start": 16.755838201105114,
+        "energy_consumed_kwh": 15.451540287284455
+      },
+      "label": 96.27,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.742937926455674,
+        "charging_rate_kw": 25.800995653224394,
+        "temperature_c": -7.763667581009283,
+        "vehicle_age_years": 1.269426304242633,
+        "distance_km": 126.74781990599737,
+        "soc_start": 16.406178413813134,
+        "energy_consumed_kwh": 68.6098392652842
+      },
+      "label": 89.84,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 19.908876704206136,
+        "temperature_c": 2.149274482535354,
+        "vehicle_age_years": 5.151704311647538,
+        "distance_km": 95.9364871630495,
+        "soc_start": 48.262506949379045,
+        "energy_consumed_kwh": 13.822628134854922
+      },
+      "label": 58.79,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.80681529276107,
+        "charging_rate_kw": 42.34921951455745,
+        "temperature_c": 20.078370559770804,
+        "vehicle_age_years": 0.6174913117006543,
+        "distance_km": 149.9197661994516,
+        "soc_start": 84.18162711880083,
+        "energy_consumed_kwh": 46.63650684843067
+      },
+      "label": 95.06,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.67697785124281,
+        "charging_rate_kw": 34.540026334693096,
+        "temperature_c": 13.544654687536612,
+        "vehicle_age_years": 0.681070606674219,
+        "distance_km": 10,
+        "soc_start": 55.0424959406133,
+        "energy_consumed_kwh": 43.1132231098767
+      },
+      "label": 94.55,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.1276979338496,
+        "charging_rate_kw": 25.205590507646598,
+        "temperature_c": 26.305839910744726,
+        "vehicle_age_years": 4.40408433388029,
+        "distance_km": 115.20484954905541,
+        "soc_start": 70.68685304549541,
+        "energy_consumed_kwh": 36.490584139013095
+      },
+      "label": 64.77,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 105.01646994452264,
+        "charging_rate_kw": 10.229064231104807,
+        "temperature_c": 36.80794879223397,
+        "vehicle_age_years": 1.7122694242334129,
+        "distance_km": 10,
+        "soc_start": 13.620850583015455,
+        "energy_consumed_kwh": 73.16275949770805
+      },
+      "label": 86.3,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.98560978719354,
+        "charging_rate_kw": 17.289653107775948,
+        "temperature_c": 45,
+        "vehicle_age_years": 1.1676150403320933,
+        "distance_km": 70.46096106806178,
+        "soc_start": 97.21497124591333,
+        "energy_consumed_kwh": 54.11113379071026
+      },
+      "label": 90.66,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.044255737157066,
+        "charging_rate_kw": 26.442410304725303,
+        "temperature_c": 17.83447703461746,
+        "vehicle_age_years": 0.8553019784595888,
+        "distance_km": 194.00188172470664,
+        "soc_start": 72.43063065850893,
+        "energy_consumed_kwh": 62.335155667190485
+      },
+      "label": 93.16,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.72647110232978,
+        "charging_rate_kw": 11.807636854396472,
+        "temperature_c": 2.973712970669989,
+        "vehicle_age_years": 2.8584018207781208,
+        "distance_km": 286.5920675886452,
+        "soc_start": 79.5293133435827,
+        "energy_consumed_kwh": 61.68028899095942
+      },
+      "label": 77.13,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.68103912208115,
+        "charging_rate_kw": 7.115506534441099,
+        "temperature_c": -0.28047614046734015,
+        "vehicle_age_years": 1.4455485298612356,
+        "distance_km": 147.11308980004588,
+        "soc_start": 26.88242872550744,
+        "energy_consumed_kwh": 66.8498519329215
+      },
+      "label": 88.44,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 72.26365244826975,
+        "charging_rate_kw": 45.71886006534893,
+        "temperature_c": 25.39031385497008,
+        "vehicle_age_years": 1.1669394332925331,
+        "distance_km": 309.93288824998007,
+        "soc_start": 89.2761955622025,
+        "energy_consumed_kwh": 61.13501361112833
+      },
+      "label": 90.66,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.80591870477713,
+        "charging_rate_kw": 9.28760967508978,
+        "temperature_c": 12.519803039337415,
+        "vehicle_age_years": 0.25891047059182243,
+        "distance_km": 195.6924348422233,
+        "soc_start": 59.575510630240295,
+        "energy_consumed_kwh": 49.113231153451075
+      },
+      "label": 97.93,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 13.515837111415388,
+        "temperature_c": 19.19886365651144,
+        "vehicle_age_years": 4.88208298106358,
+        "distance_km": 79.20004407260357,
+        "soc_start": 74.4942993392612,
+        "energy_consumed_kwh": 63.34204746871186
+      },
+      "label": 60.94,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 42.08182373658683,
+        "charging_rate_kw": 28.16894221553782,
+        "temperature_c": 30.968919064331573,
+        "vehicle_age_years": 2.444352505476916,
+        "distance_km": 241.65074402161227,
+        "soc_start": 23.017777163704785,
+        "energy_consumed_kwh": 50.354080541208965
+      },
+      "label": 80.45,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.73566785705096,
+        "charging_rate_kw": 39.18479505051531,
+        "temperature_c": 6.921822619304444,
+        "vehicle_age_years": 4.229329397075488,
+        "distance_km": 175.389635803636,
+        "soc_start": 94.0823554314268,
+        "energy_consumed_kwh": 61.07714278720593
+      },
+      "label": 66.17,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.87218101816107,
+        "charging_rate_kw": 33.054309475577114,
+        "temperature_c": 29.566150673191554,
+        "vehicle_age_years": 0.6216903231024873,
+        "distance_km": 171.703103796172,
+        "soc_start": 69.39466777494275,
+        "energy_consumed_kwh": 61.88517513571729
+      },
+      "label": 95.03,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.4713164486712,
+        "charging_rate_kw": 35.14351764733427,
+        "temperature_c": -9.67478269748974,
+        "vehicle_age_years": 0.8466185704215746,
+        "distance_km": 200.23206326240003,
+        "soc_start": 26.978713633639487,
+        "energy_consumed_kwh": 56.08010979510005
+      },
+      "label": 93.23,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.3193700324134,
+        "charging_rate_kw": 11.456659331614896,
+        "temperature_c": 0.2208934851972253,
+        "vehicle_age_years": 0.5457328540841312,
+        "distance_km": 101.63919615189697,
+        "soc_start": 52.56786252163729,
+        "energy_consumed_kwh": 76.28130062601747
+      },
+      "label": 95.63,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.94349487424859,
+        "charging_rate_kw": 7.69544726330111,
+        "temperature_c": -2.887585275047342,
+        "vehicle_age_years": 3.144223184058237,
+        "distance_km": 34.14834213397228,
+        "soc_start": 96.88182311591683,
+        "energy_consumed_kwh": 36.54910927141907
+      },
+      "label": 74.85,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 106.06345579152487,
+        "charging_rate_kw": 66.24555373039765,
+        "temperature_c": -10,
+        "vehicle_age_years": 4.075836399565948,
+        "distance_km": 102.30102117086889,
+        "soc_start": 75.01994448135784,
+        "energy_consumed_kwh": 25.574464892341375
+      },
+      "label": 67.39,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 91.25325076323523,
+        "charging_rate_kw": 30.39143139629806,
+        "temperature_c": 0.09807928961195644,
+        "vehicle_age_years": 0.1555517622625806,
+        "distance_km": 247.3470752349792,
+        "soc_start": 17.22837885215041,
+        "energy_consumed_kwh": 60.71233518463431
+      },
+      "label": 98.76,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 104.96125469364777,
+        "charging_rate_kw": 66.27465859075973,
+        "temperature_c": -10,
+        "vehicle_age_years": 3.8257039940740643,
+        "distance_km": 151.33402452139353,
+        "soc_start": 78.34616284009273,
+        "energy_consumed_kwh": 32.67127937353256
+      },
+      "label": 69.39,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 98.44541671063006,
+        "charging_rate_kw": 30.28812393327578,
+        "temperature_c": 32.02200044554604,
+        "vehicle_age_years": 0.5351583088660455,
+        "distance_km": 93.22583465090518,
+        "soc_start": 98.0503955398491,
+        "energy_consumed_kwh": 76.30824471776928
+      },
+      "label": 95.72,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.03230261240852,
+        "charging_rate_kw": 31.68285873189772,
+        "temperature_c": -10,
+        "vehicle_age_years": 2.0088663808497174,
+        "distance_km": 214.09014597333427,
+        "soc_start": 14.139187180949147,
+        "energy_consumed_kwh": 50.60046159283837
+      },
+      "label": 83.93,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.61136115418151,
+        "charging_rate_kw": 18.012367170526446,
+        "temperature_c": 10.692938410777318,
+        "vehicle_age_years": 1.126649071185313,
+        "distance_km": 101.15414165613998,
+        "soc_start": 25.75624195566141,
+        "energy_consumed_kwh": 65.07372383337301
+      },
+      "label": 90.99,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.66350833041517,
+        "charging_rate_kw": 6.934309258318707,
+        "temperature_c": 1.9589844818206386,
+        "vehicle_age_years": 4.093400451341735,
+        "distance_km": 219.63671266102187,
+        "soc_start": 51.50349220194978,
+        "energy_consumed_kwh": 72.98020954010168
+      },
+      "label": 67.25,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 106.14101610415575,
+        "charging_rate_kw": 8.826382840601708,
+        "temperature_c": 36.86974192289494,
+        "vehicle_age_years": 4.583459090487703,
+        "distance_km": 162.21932235836698,
+        "soc_start": 95.07120714411815,
+        "energy_consumed_kwh": 27.03905888453593
+      },
+      "label": 63.33,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 111.90216253888268,
+        "charging_rate_kw": 46.204831336470285,
+        "temperature_c": 7.939703538372246,
+        "vehicle_age_years": 0.7109349154125545,
+        "distance_km": 299.68906979558716,
+        "soc_start": 99.94362089501612,
+        "energy_consumed_kwh": 55.084168885901214
+      },
+      "label": 94.31,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.97364637136437,
+        "charging_rate_kw": 30.317310767071614,
+        "temperature_c": -10,
+        "vehicle_age_years": 1.696902948724787,
+        "distance_km": 10,
+        "soc_start": 69.24068343358127,
+        "energy_consumed_kwh": 46.19538977002212
+      },
+      "label": 86.42,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 109.18759560706293,
+        "charging_rate_kw": 31.871354199500548,
+        "temperature_c": 12.490941442689348,
+        "vehicle_age_years": 0.016261864763788013,
+        "distance_km": 186.6437707123156,
+        "soc_start": 77.0654938720573,
+        "energy_consumed_kwh": 51.93008036840923
+      },
+      "label": 99.87,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.00968234404223,
+        "charging_rate_kw": 14.18454182624602,
+        "temperature_c": 32.84531448052038,
+        "vehicle_age_years": 3.2075093802346206,
+        "distance_km": 223.5002388325264,
+        "soc_start": 70.99880127610234,
+        "energy_consumed_kwh": 34.21855063423271
+      },
+      "label": 74.34,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 60.17366688243505,
+        "charging_rate_kw": 47.11321310815955,
+        "temperature_c": 3.487486077001077,
+        "vehicle_age_years": 2.917478721519337,
+        "distance_km": 101.8765031690351,
+        "soc_start": 13.548031656473565,
+        "energy_consumed_kwh": 68.83210407357714
+      },
+      "label": 76.66,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.97691455569065,
+        "charging_rate_kw": 18.791993200655327,
+        "temperature_c": 20.861025889990053,
+        "vehicle_age_years": 2.6362232360096414,
+        "distance_km": 110.40064615833414,
+        "soc_start": 21.89438179721052,
+        "energy_consumed_kwh": 35.95984000522928
+      },
+      "label": 78.91,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.71670431002345,
+        "charging_rate_kw": 47.09450265920768,
+        "temperature_c": 25.477201685833556,
+        "vehicle_age_years": 4.182390237588742,
+        "distance_km": 261.63744659435054,
+        "soc_start": 92.26440581844808,
+        "energy_consumed_kwh": 27.84452716821778
+      },
+      "label": 66.54,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 54.80921306880961,
+        "charging_rate_kw": 10.489601766343462,
+        "temperature_c": 40.07129389906951,
+        "vehicle_age_years": 2.7452512169580228,
+        "distance_km": 293.7213102662115,
+        "soc_start": 96.98501885164768,
+        "energy_consumed_kwh": 44.707647660238145
+      },
+      "label": 78.04,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.31772949632526,
+        "charging_rate_kw": 11.139775373223104,
+        "temperature_c": 42.27948050956084,
+        "vehicle_age_years": 2.2560228260781185,
+        "distance_km": 10,
+        "soc_start": 18.127258801172495,
+        "energy_consumed_kwh": 69.85066067215483
+      },
+      "label": 81.95,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.85625972570024,
+        "charging_rate_kw": 7.824556421384386,
+        "temperature_c": 18.151396072146653,
+        "vehicle_age_years": 1.2131539034145693,
+        "distance_km": 88.19148066175383,
+        "soc_start": 94.62627026015987,
+        "energy_consumed_kwh": 9.167243446022166
+      },
+      "label": 90.29,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 74.05616270787013,
+        "charging_rate_kw": 46.43016061043754,
+        "temperature_c": 39.27101939488669,
+        "vehicle_age_years": 2.2468546330600794,
+        "distance_km": 29.926110742680013,
+        "soc_start": 64.90739762725717,
+        "energy_consumed_kwh": 6.018447209197998
+      },
+      "label": 82.03,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 75.90560685326116,
+        "charging_rate_kw": 9.424138042045758,
+        "temperature_c": -2.3143160880447287,
+        "vehicle_age_years": 4.802329268094424,
+        "distance_km": 198.37593409914678,
+        "soc_start": 37.39281259204047,
+        "energy_consumed_kwh": 56.36604474987693
+      },
+      "label": 61.58,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.94744344211931,
+        "charging_rate_kw": 27.138868801759156,
+        "temperature_c": 24.73633555722199,
+        "vehicle_age_years": 0.24686903209179142,
+        "distance_km": 297.5295882136715,
+        "soc_start": 95.44426915707149,
+        "energy_consumed_kwh": 45.14094138524793
+      },
+      "label": 98.03,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.58604794708401,
+        "charging_rate_kw": 49.0438603760288,
+        "temperature_c": 16.29835559203321,
+        "vehicle_age_years": 2.7116778618634827,
+        "distance_km": 321.1358428541706,
+        "soc_start": 46.73042971279305,
+        "energy_consumed_kwh": 57.026823184556896
+      },
+      "label": 78.31,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 127.29844175438349,
+        "charging_rate_kw": 8.538161376938213,
+        "temperature_c": -4.820368680657172,
+        "vehicle_age_years": 0.6562864310784611,
+        "distance_km": 287.0502652554131,
+        "soc_start": 42.64174348817702,
+        "energy_consumed_kwh": 65.47525544228685
+      },
+      "label": 94.75,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.084850219844434,
+        "charging_rate_kw": 34.09523325763326,
+        "temperature_c": 7.824690774495508,
+        "vehicle_age_years": 0.6191611371320844,
+        "distance_km": 55.56675630532358,
+        "soc_start": 86.32298696173129,
+        "energy_consumed_kwh": 46.33021676392995
+      },
+      "label": 95.05,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.6952450043196,
+        "charging_rate_kw": 23.568845699167394,
+        "temperature_c": 5.443098973269506,
+        "vehicle_age_years": 0.1923025992914657,
+        "distance_km": 291.4608649291471,
+        "soc_start": 40.01582407892644,
+        "energy_consumed_kwh": 53.530051406906686
+      },
+      "label": 98.46,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 49.01260774831756,
+        "charging_rate_kw": 9.331428522122165,
+        "temperature_c": -5.8033161984650645,
+        "vehicle_age_years": 0.14215469819838883,
+        "distance_km": 201.46029803508532,
+        "soc_start": 39.57035980890073,
+        "energy_consumed_kwh": 22.784021207390552
+      },
+      "label": 98.86,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 79.69018964857698,
+        "charging_rate_kw": 30.72847347420678,
+        "temperature_c": 13.52510261476087,
+        "vehicle_age_years": 3.1084204016902075,
+        "distance_km": 203.65225530170477,
+        "soc_start": 58.61939111768363,
+        "energy_consumed_kwh": 12.852213286124819
+      },
+      "label": 75.13,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.3171856037409,
+        "charging_rate_kw": 12.720054262415008,
+        "temperature_c": 5.522406685949631,
+        "vehicle_age_years": 0.05223656380988167,
+        "distance_km": 157.31538610060502,
+        "soc_start": 25.682158126555947,
+        "energy_consumed_kwh": 76.6886505009266
+      },
+      "label": 99.58,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.54504710482571,
+        "charging_rate_kw": 46.02222658177354,
+        "temperature_c": 0.4516893821134307,
+        "vehicle_age_years": 0.2710863583077131,
+        "distance_km": 116.50963110432171,
+        "soc_start": 42.583507643576084,
+        "energy_consumed_kwh": 36.449177275286665
+      },
+      "label": 97.83,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 70.12903567507082,
+        "charging_rate_kw": 36.60560436271723,
+        "temperature_c": 28.279600090377215,
+        "vehicle_age_years": 5.816015877129217,
+        "distance_km": 318.48302914634985,
+        "soc_start": 51.22382698879138,
+        "energy_consumed_kwh": 28.021697326935143
+      },
+      "label": 53.47,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.83921926891868,
+        "charging_rate_kw": 36.70371045220794,
+        "temperature_c": 0.7743272286972371,
+        "vehicle_age_years": 0.12550776509381892,
+        "distance_km": 101.93418234128515,
+        "soc_start": 91.87307462037064,
+        "energy_consumed_kwh": 52.10632718216926
+      },
+      "label": 99.0,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.46296900091579,
+        "charging_rate_kw": 11.003760029816043,
+        "temperature_c": -4.094950729990839,
+        "vehicle_age_years": 0.3211212861748022,
+        "distance_km": 178.40645790980744,
+        "soc_start": 44.28139589366687,
+        "energy_consumed_kwh": 31.811583170770227
+      },
+      "label": 97.43,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 24.55272118110349,
+        "temperature_c": -2.287124938008313,
+        "vehicle_age_years": 1.5124160943075005,
+        "distance_km": 166.1180317960995,
+        "soc_start": 86.75134635660176,
+        "energy_consumed_kwh": 53.919648933721376
+      },
+      "label": 87.9,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.87464375818196,
+        "charging_rate_kw": 42.906925706759864,
+        "temperature_c": 2.1816803180585786,
+        "vehicle_age_years": 4.012267898494831,
+        "distance_km": 29.518796520635306,
+        "soc_start": 45.8857165831258,
+        "energy_consumed_kwh": 73.3502109595283
+      },
+      "label": 67.9,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 6.754765725401377,
+        "temperature_c": 21.377097571351744,
+        "vehicle_age_years": 0.19983037961816144,
+        "distance_km": 302.10973930923785,
+        "soc_start": 93.06865321609459,
+        "energy_consumed_kwh": 32.76874837470104
+      },
+      "label": 98.4,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 91.18406176615215,
+        "charging_rate_kw": 6.540333531190377,
+        "temperature_c": 10.343825492186042,
+        "vehicle_age_years": 1.1308329739446414,
+        "distance_km": 186.31115759455227,
+        "soc_start": 96.09621614622158,
+        "energy_consumed_kwh": 57.20041785619494
+      },
+      "label": 90.95,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.37557121375067,
+        "charging_rate_kw": 23.7988251102896,
+        "temperature_c": 6.1321531806425185,
+        "vehicle_age_years": 0.7998986403957249,
+        "distance_km": 136.02367879959786,
+        "soc_start": 88.12829339821585,
+        "energy_consumed_kwh": 5
+      },
+      "label": 93.6,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 79.3185177241458,
+        "charging_rate_kw": 34.932838853041794,
+        "temperature_c": 18.225240326482247,
+        "vehicle_age_years": 0.7492382472077362,
+        "distance_km": 140.12685303322118,
+        "soc_start": 86.25473633214573,
+        "energy_consumed_kwh": 39.763175113904964
+      },
+      "label": 94.01,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40.86527474568129,
+        "charging_rate_kw": 19.96719320061379,
+        "temperature_c": 32.148659449839464,
+        "vehicle_age_years": 3.7334844420126228,
+        "distance_km": 102.99165230371358,
+        "soc_start": 86.06396451955223,
+        "energy_consumed_kwh": 34.2505329815878
+      },
+      "label": 70.13,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.64668788018549,
+        "charging_rate_kw": 4,
+        "temperature_c": 5.310525365281228,
+        "vehicle_age_years": 2.247716883321228,
+        "distance_km": 176.96530377756977,
+        "soc_start": 12.605786295514148,
+        "energy_consumed_kwh": 33.83592162857676
+      },
+      "label": 82.02,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 59.35947064107354,
+        "charging_rate_kw": 51.86746231977829,
+        "temperature_c": 22.344937436550538,
+        "vehicle_age_years": 2.426018842780504,
+        "distance_km": 44.08597897521479,
+        "soc_start": 60.968898528523866,
+        "energy_consumed_kwh": 62.6972044978191
+      },
+      "label": 80.59,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.58354151619403,
+        "charging_rate_kw": 31.531073656569664,
+        "temperature_c": 3.1203873616228717,
+        "vehicle_age_years": 0.13759856281129057,
+        "distance_km": 53.921259022404726,
+        "soc_start": 24.16683482605798,
+        "energy_consumed_kwh": 42.81576715488248
+      },
+      "label": 98.9,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.73843930557272,
+        "charging_rate_kw": 39.00620475844922,
+        "temperature_c": 40.12088086550294,
+        "vehicle_age_years": 2.5573637338876667,
+        "distance_km": 127.66127352880113,
+        "soc_start": 24.166890739643783,
+        "energy_consumed_kwh": 5
+      },
+      "label": 79.54,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.92027076817349,
+        "charging_rate_kw": 45.677106754493096,
+        "temperature_c": 15.395248260783776,
+        "vehicle_age_years": 1.1707857721454922,
+        "distance_km": 23.82298810832723,
+        "soc_start": 56.11116752209943,
+        "energy_consumed_kwh": 66.73183017380848
+      },
+      "label": 90.63,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 72.50074447872208,
+        "charging_rate_kw": 39.005713265865694,
+        "temperature_c": 14.935157169332184,
+        "vehicle_age_years": 1.1239348185540248,
+        "distance_km": 10,
+        "soc_start": 14.087562634398477,
+        "energy_consumed_kwh": 49.64749896535972
+      },
+      "label": 91.01,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 106.61741085009128,
+        "charging_rate_kw": 54.534219811889905,
+        "temperature_c": 0.7047941900171701,
+        "vehicle_age_years": 0.45737559545209194,
+        "distance_km": 283.1192253860293,
+        "soc_start": 20.79859093349942,
+        "energy_consumed_kwh": 64.33000449402256
+      },
+      "label": 96.34,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 78.5220273918157,
+        "charging_rate_kw": 24.092144935605017,
+        "temperature_c": 17.27674150579396,
+        "vehicle_age_years": 2.7488432312917985,
+        "distance_km": 197.34309617571984,
+        "soc_start": 85.00187821778904,
+        "energy_consumed_kwh": 65.1196241290061
+      },
+      "label": 78.01,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 72.0965686683389,
+        "charging_rate_kw": 10.759661828774334,
+        "temperature_c": 40.83147790764285,
+        "vehicle_age_years": 2.7099117810263342,
+        "distance_km": 42.25702855025432,
+        "soc_start": 48.635585767075206,
+        "energy_consumed_kwh": 74.97702200182037
+      },
+      "label": 78.32,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.5599237350154,
+        "charging_rate_kw": 21.8421088647924,
+        "temperature_c": 37.139039493124294,
+        "vehicle_age_years": 2.472296256125886,
+        "distance_km": 263.47849601129434,
+        "soc_start": 82.11899388794069,
+        "energy_consumed_kwh": 67.82932537616139
+      },
+      "label": 80.22,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 30.00401507850032,
+        "temperature_c": 18.174349410634534,
+        "vehicle_age_years": 0.8983722616122435,
+        "distance_km": 33.60617090215844,
+        "soc_start": 17.07823787345739,
+        "energy_consumed_kwh": 47.148218941621074
+      },
+      "label": 92.81,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.160333168209455,
+        "charging_rate_kw": 51.617525654214944,
+        "temperature_c": 40.51710345320376,
+        "vehicle_age_years": 0.742923352568881,
+        "distance_km": 210.5105801643613,
+        "soc_start": 20.262397585469728,
+        "energy_consumed_kwh": 5
+      },
+      "label": 94.06,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.91306032840911,
+        "charging_rate_kw": 20.3776926191775,
+        "temperature_c": 38.38711658025715,
+        "vehicle_age_years": 0.8649524978119383,
+        "distance_km": 135.80682734967777,
+        "soc_start": 33.037139980155686,
+        "energy_consumed_kwh": 26.99643939871945
+      },
+      "label": 93.08,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.749121844473414,
+        "charging_rate_kw": 19.381685296284523,
+        "temperature_c": -1.5283642469018597,
+        "vehicle_age_years": 1.8446125041462202,
+        "distance_km": 79.8984933813087,
+        "soc_start": 54.470532251564975,
+        "energy_consumed_kwh": 44.395378668189636
+      },
+      "label": 85.24,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.49211566548808,
+        "charging_rate_kw": 33.06053185845038,
+        "temperature_c": 30.167099536606447,
+        "vehicle_age_years": 2.285965382163317,
+        "distance_km": 256.1153197250034,
+        "soc_start": 97.38757577873443,
+        "energy_consumed_kwh": 21.494524438974246
+      },
+      "label": 81.71,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 135.1409710961853,
+        "charging_rate_kw": 51.11830167120056,
+        "temperature_c": 30.31374899083039,
+        "vehicle_age_years": 0.327291837783828,
+        "distance_km": 238.19456824158033,
+        "soc_start": 15.055490819177024,
+        "energy_consumed_kwh": 49.093051826420655
+      },
+      "label": 97.38,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.682156958925766,
+        "charging_rate_kw": 7.156455146702935,
+        "temperature_c": 32.83490888041891,
+        "vehicle_age_years": 0.07666528599655051,
+        "distance_km": 84.28843192701268,
+        "soc_start": 18.126685361197254,
+        "energy_consumed_kwh": 19.69279440013004
+      },
+      "label": 99.39,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 24.265027160303447,
+        "temperature_c": -5.840747454890028,
+        "vehicle_age_years": 1.4147673498337687,
+        "distance_km": 77.26119847735598,
+        "soc_start": 50.476033328581565,
+        "energy_consumed_kwh": 61.57657271446623
+      },
+      "label": 88.68,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.18999282752101,
+        "charging_rate_kw": 14.568680392825627,
+        "temperature_c": 39.803690439043066,
+        "vehicle_age_years": 1.8577685679754414,
+        "distance_km": 89.15497710319669,
+        "soc_start": 85.36394604227989,
+        "energy_consumed_kwh": 19.263817036693567
+      },
+      "label": 85.14,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.62706982276114,
+        "charging_rate_kw": 11.355840382524114,
+        "temperature_c": 0.9079617654265428,
+        "vehicle_age_years": 0.1761965866284069,
+        "distance_km": 173.26995852441425,
+        "soc_start": 57.16616978531571,
+        "energy_consumed_kwh": 31.286836962944577
+      },
+      "label": 98.59,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.15660109389152,
+        "charging_rate_kw": 20.416283852466734,
+        "temperature_c": 13.07183123855445,
+        "vehicle_age_years": 0.6650620469504799,
+        "distance_km": 10,
+        "soc_start": 68.25748212723762,
+        "energy_consumed_kwh": 28.603295460447775
+      },
+      "label": 94.68,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.60981680930398,
+        "charging_rate_kw": 43.06570828955049,
+        "temperature_c": 16.685893043248157,
+        "vehicle_age_years": 0.8000322271143605,
+        "distance_km": 114.27076395991753,
+        "soc_start": 96.79690257885188,
+        "energy_consumed_kwh": 5.650402099491397
+      },
+      "label": 93.6,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 47.25319819487418,
+        "charging_rate_kw": 21.468772474617705,
+        "temperature_c": -5.744148358446338,
+        "vehicle_age_years": 1.7480891738901665,
+        "distance_km": 304.1469241926527,
+        "soc_start": 45.27621859018243,
+        "energy_consumed_kwh": 16.144023794000045
+      },
+      "label": 86.02,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.41536304335251,
+        "charging_rate_kw": 25.32768631425131,
+        "temperature_c": -10,
+        "vehicle_age_years": 2.467723554150098,
+        "distance_km": 117.88458848978581,
+        "soc_start": 21.501438769031132,
+        "energy_consumed_kwh": 55.36995934872826
+      },
+      "label": 80.26,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.44831301388703,
+        "charging_rate_kw": 33.31959267974996,
+        "temperature_c": 9.312113226274926,
+        "vehicle_age_years": 4.871044420660496,
+        "distance_km": 119.8774389250044,
+        "soc_start": 37.79794630574928,
+        "energy_consumed_kwh": 55.35745359903762
+      },
+      "label": 61.03,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 138.08935319250017,
+        "charging_rate_kw": 9.373813386867837,
+        "temperature_c": -0.9705206511743951,
+        "vehicle_age_years": 0.4820872652812707,
+        "distance_km": 295.696867441157,
+        "soc_start": 16.944857587078868,
+        "energy_consumed_kwh": 62.016122431644376
+      },
+      "label": 96.14,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 46.937006476042164,
+        "charging_rate_kw": 4,
+        "temperature_c": 33.838827488581835,
+        "vehicle_age_years": 1.5520611247202485,
+        "distance_km": 30.792576944032184,
+        "soc_start": 65.62283189441573,
+        "energy_consumed_kwh": 35.66298794911971
+      },
+      "label": 87.58,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.50276158219725,
+        "charging_rate_kw": 28.201034707455783,
+        "temperature_c": -7.400510186339823,
+        "vehicle_age_years": 0.9455184314104628,
+        "distance_km": 84.76981239353597,
+        "soc_start": 24.898524916965282,
+        "energy_consumed_kwh": 54.156603789580146
+      },
+      "label": 92.44,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.14097820222575,
+        "charging_rate_kw": 70,
+        "temperature_c": 20.045749962030015,
+        "vehicle_age_years": 2.542974066164197,
+        "distance_km": 167.34341181176032,
+        "soc_start": 31.0602649901882,
+        "energy_consumed_kwh": 5
+      },
+      "label": 79.66,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.24118248104168,
+        "charging_rate_kw": 35.2201116205194,
+        "temperature_c": 16.618296234696754,
+        "vehicle_age_years": 0.7405856283671287,
+        "distance_km": 10,
+        "soc_start": 95.24171532197107,
+        "energy_consumed_kwh": 58.53478489901612
+      },
+      "label": 94.08,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.13092074807948,
+        "charging_rate_kw": 24.75273163518205,
+        "temperature_c": -2.2291762940921243,
+        "vehicle_age_years": 3.0112735592132154,
+        "distance_km": 250.8952174654892,
+        "soc_start": 64.41971028190753,
+        "energy_consumed_kwh": 44.40937614143908
+      },
+      "label": 75.91,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 64.71150544575528,
+        "charging_rate_kw": 34.73315177352297,
+        "temperature_c": -3.022266097370352,
+        "vehicle_age_years": 0.5753727091592507,
+        "distance_km": 51.28446446956498,
+        "soc_start": 86.13030490600946,
+        "energy_consumed_kwh": 74.23776098239956
+      },
+      "label": 95.4,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.72626066944572,
+        "charging_rate_kw": 29.91347853205943,
+        "temperature_c": 39.68382312064569,
+        "vehicle_age_years": 0.34945056554395637,
+        "distance_km": 36.84750640911667,
+        "soc_start": 91.94544583546683,
+        "energy_consumed_kwh": 8.065926018214602
+      },
+      "label": 97.2,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 59.219764585431186,
+        "charging_rate_kw": 47.10875615566497,
+        "temperature_c": 16.71037177051398,
+        "vehicle_age_years": 1.1997799960469395,
+        "distance_km": 236.19382873839749,
+        "soc_start": 31.220026647708938,
+        "energy_consumed_kwh": 45.9757979565483
+      },
+      "label": 90.4,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.60938901680507,
+        "charging_rate_kw": 40.163388230493624,
+        "temperature_c": 7.660548632931677,
+        "vehicle_age_years": 0.7674606838070777,
+        "distance_km": 125.38428951769328,
+        "soc_start": 13.447287200533935,
+        "energy_consumed_kwh": 52.68469821544174
+      },
+      "label": 93.86,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.54634537969661,
+        "charging_rate_kw": 21.16039313248185,
+        "temperature_c": 9.102747659524427,
+        "vehicle_age_years": 3.5411107448140107,
+        "distance_km": 10,
+        "soc_start": 10.472607847505614,
+        "energy_consumed_kwh": 37.07214066663002
+      },
+      "label": 71.67,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.56885118954345,
+        "charging_rate_kw": 27.40196918606304,
+        "temperature_c": 6.7371499807143325,
+        "vehicle_age_years": 0.3239078699550189,
+        "distance_km": 253.67425250672324,
+        "soc_start": 31.387620397684028,
+        "energy_consumed_kwh": 66.27452763673917
+      },
+      "label": 97.41,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.54786913495225,
+        "charging_rate_kw": 12.487194817173627,
+        "temperature_c": 22.42326689117014,
+        "vehicle_age_years": 0.09785418498696187,
+        "distance_km": 140.15014302290555,
+        "soc_start": 91.46321970957986,
+        "energy_consumed_kwh": 13.12993408424691
+      },
+      "label": 99.22,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.1682486778047,
+        "charging_rate_kw": 13.946540219910682,
+        "temperature_c": -9.460554482655386,
+        "vehicle_age_years": 1.711555562141314,
+        "distance_km": 326.95425671530694,
+        "soc_start": 61.35973444201859,
+        "energy_consumed_kwh": 10.238104725304174
+      },
+      "label": 86.31,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 118.62604258736192,
+        "charging_rate_kw": 10.509011946652214,
+        "temperature_c": 35.69478440368368,
+        "vehicle_age_years": 2.183499589522989,
+        "distance_km": 218.85303657552763,
+        "soc_start": 55.65949269218079,
+        "energy_consumed_kwh": 43.847927579255234
+      },
+      "label": 82.53,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.25517019306646,
+        "charging_rate_kw": 14.783431066492849,
+        "temperature_c": 11.906701481438175,
+        "vehicle_age_years": 4.132362712096835,
+        "distance_km": 253.38947749454172,
+        "soc_start": 42.13844888632596,
+        "energy_consumed_kwh": 62.6541768246055
+      },
+      "label": 66.94,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 98.79600303891851,
+        "charging_rate_kw": 27.08122973013609,
+        "temperature_c": 36.89096517015452,
+        "vehicle_age_years": 0.8456371032898966,
+        "distance_km": 42.92527531289689,
+        "soc_start": 39.926674753478636,
+        "energy_consumed_kwh": 80.19508662881566
+      },
+      "label": 93.23,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.76461484361507,
+        "charging_rate_kw": 12.759050162120179,
+        "temperature_c": -4.165061603362254,
+        "vehicle_age_years": 2.0588943147726915,
+        "distance_km": 320.8025524069609,
+        "soc_start": 26.405019857248593,
+        "energy_consumed_kwh": 58.51256896747987
+      },
+      "label": 83.53,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 51.449788745593544,
+        "charging_rate_kw": 70,
+        "temperature_c": 9.932552352488118,
+        "vehicle_age_years": 0.13035859845276093,
+        "distance_km": 249.44222355660727,
+        "soc_start": 27.952285034366952,
+        "energy_consumed_kwh": 33.05690008664009
+      },
+      "label": 98.96,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 104.84623312910708,
+        "charging_rate_kw": 15.792651220079307,
+        "temperature_c": -10,
+        "vehicle_age_years": 1.0157401769529677,
+        "distance_km": 341.1161294554382,
+        "soc_start": 35.74998059963938,
+        "energy_consumed_kwh": 11.837691156982476
+      },
+      "label": 91.87,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 79.77873595158854,
+        "charging_rate_kw": 11.812817536332568,
+        "temperature_c": 42.06521157699977,
+        "vehicle_age_years": 3.0359207445328322,
+        "distance_km": 39.5637327358895,
+        "soc_start": 90.05378653110533,
+        "energy_consumed_kwh": 72.49483233665245
+      },
+      "label": 75.71,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 20.929508700602767,
+        "temperature_c": 44.96867437376048,
+        "vehicle_age_years": 0.8281137085878444,
+        "distance_km": 69.41655468436653,
+        "soc_start": 34.004862622196434,
+        "energy_consumed_kwh": 59.786905493917665
+      },
+      "label": 93.38,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 84.55713387971521,
+        "charging_rate_kw": 26.560581736029352,
+        "temperature_c": 28.077201458919834,
+        "vehicle_age_years": 2.597162839081179,
+        "distance_km": 196.64580746799908,
+        "soc_start": 38.90902853931347,
+        "energy_consumed_kwh": 70.86154818464782
+      },
+      "label": 79.22,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 55.672683442993986,
+        "charging_rate_kw": 15.497828399938406,
+        "temperature_c": 11.981998219091887,
+        "vehicle_age_years": 1.1808771032538405,
+        "distance_km": 48.77732015746058,
+        "soc_start": 75.41329561399925,
+        "energy_consumed_kwh": 28.347224924450124
+      },
+      "label": 90.55,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 91.40926507109523,
+        "charging_rate_kw": 41.20928131782078,
+        "temperature_c": 34.95637977931194,
+        "vehicle_age_years": 0.8694561770718032,
+        "distance_km": 250.79635577336018,
+        "soc_start": 16.753704848934333,
+        "energy_consumed_kwh": 17.705076239118387
+      },
+      "label": 93.04,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 94.21909044965362,
+        "charging_rate_kw": 27.54991825535308,
+        "temperature_c": 20.456543883045445,
+        "vehicle_age_years": 2.7717727628049875,
+        "distance_km": 237.73800859171016,
+        "soc_start": 49.43555424460699,
+        "energy_consumed_kwh": 19.923008187986426
+      },
+      "label": 77.83,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.0596243945567,
+        "charging_rate_kw": 5.604850957599286,
+        "temperature_c": -0.035332051031155665,
+        "vehicle_age_years": 0.13920046120313104,
+        "distance_km": 144.76310396516433,
+        "soc_start": 64.45853459693069,
+        "energy_consumed_kwh": 73.57749635774802
+      },
+      "label": 98.89,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 67.39986095969311,
+        "charging_rate_kw": 19.345778723998006,
+        "temperature_c": 6.807367861137948,
+        "vehicle_age_years": 1.173755597124743,
+        "distance_km": 91.53336923895432,
+        "soc_start": 35.08207896698302,
+        "energy_consumed_kwh": 71.16260876930099
+      },
+      "label": 90.61,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.77864559987475,
+        "charging_rate_kw": 32.970530740636704,
+        "temperature_c": -0.7678364764128798,
+        "vehicle_age_years": 0.05251001375733741,
+        "distance_km": 273.21533226479863,
+        "soc_start": 79.74680351783394,
+        "energy_consumed_kwh": 21.75291926154798
+      },
+      "label": 99.58,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.67011030646579,
+        "charging_rate_kw": 11.47403736593148,
+        "temperature_c": -3.3256642133226273,
+        "vehicle_age_years": 0.6725597677992101,
+        "distance_km": 270.4586738097689,
+        "soc_start": 50.68384167208576,
+        "energy_consumed_kwh": 79.89388315677631
+      },
+      "label": 94.62,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.5896134070265,
+        "charging_rate_kw": 35.9086373809408,
+        "temperature_c": 18.292907601729524,
+        "vehicle_age_years": 2.4991254500296787,
+        "distance_km": 32.08263673281684,
+        "soc_start": 70.10558114400712,
+        "energy_consumed_kwh": 42.36918380533593
+      },
+      "label": 80.01,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.21511215626794,
+        "charging_rate_kw": 38.74274212464282,
+        "temperature_c": -0.3732730895414198,
+        "vehicle_age_years": 4.438909986673162,
+        "distance_km": 177.91876523720748,
+        "soc_start": 81.43267454605025,
+        "energy_consumed_kwh": 61.26176838848851
+      },
+      "label": 64.49,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 64.11662408199109,
+        "charging_rate_kw": 25.92926152187915,
+        "temperature_c": 36.894643446128605,
+        "vehicle_age_years": 0.5078283342689961,
+        "distance_km": 270.7916540124723,
+        "soc_start": 42.48068719999439,
+        "energy_consumed_kwh": 42.84502672618075
+      },
+      "label": 95.94,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.0606523881366,
+        "charging_rate_kw": 38.002035042069735,
+        "temperature_c": 4.985187556016758,
+        "vehicle_age_years": 0.27799829509591156,
+        "distance_km": 37.41974543287346,
+        "soc_start": 53.07985989237285,
+        "energy_consumed_kwh": 80.36583844744138
+      },
+      "label": 97.78,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 76.39248391530425,
+        "charging_rate_kw": 19.028480633901733,
+        "temperature_c": 22.710941398964824,
+        "vehicle_age_years": 2.9321003231578593,
+        "distance_km": 24.748537971890897,
+        "soc_start": 50.49770460966965,
+        "energy_consumed_kwh": 35.15468051229625
+      },
+      "label": 76.54,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.34478920802955,
+        "charging_rate_kw": 22.35604297478874,
+        "temperature_c": -4.550383450499433,
+        "vehicle_age_years": 3.5328119429454725,
+        "distance_km": 33.06455615924623,
+        "soc_start": 55.25774078044372,
+        "energy_consumed_kwh": 8.81035552738175
+      },
+      "label": 71.74,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.27730130662319,
+        "charging_rate_kw": 50.54933473716819,
+        "temperature_c": 39.83157076780146,
+        "vehicle_age_years": 0.1140146505464475,
+        "distance_km": 202.0570014308513,
+        "soc_start": 73.83989192763212,
+        "energy_consumed_kwh": 5
+      },
+      "label": 99.09,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.6685069622385,
+        "charging_rate_kw": 33.39891472260597,
+        "temperature_c": 20.69079487853902,
+        "vehicle_age_years": 0.6682851734684858,
+        "distance_km": 228.97326638471247,
+        "soc_start": 66.25201253037315,
+        "energy_consumed_kwh": 93.28062765544814
+      },
+      "label": 94.65,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 45.13853797500601,
+        "charging_rate_kw": 7.646096088843122,
+        "temperature_c": 10.403013724287923,
+        "vehicle_age_years": 1.5249003278319984,
+        "distance_km": 195.98587904155926,
+        "soc_start": 69.28595860453788,
+        "energy_consumed_kwh": 39.02069011668186
+      },
+      "label": 87.8,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 20.762496476831593,
+        "temperature_c": 21.15463747789085,
+        "vehicle_age_years": 5.152195398092224,
+        "distance_km": 125.57745415278274,
+        "soc_start": 79.39201319150187,
+        "energy_consumed_kwh": 74.39988663670604
+      },
+      "label": 58.78,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.8832847926419,
+        "charging_rate_kw": 35.247352465843434,
+        "temperature_c": 9.423952955422862,
+        "vehicle_age_years": 2.106111708947727,
+        "distance_km": 80.00364348857171,
+        "soc_start": 66.4447609268276,
+        "energy_consumed_kwh": 25.773791708478335
+      },
+      "label": 83.15,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 116.41279251753704,
+        "charging_rate_kw": 39.78182174395912,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.5617516701133137,
+        "distance_km": 181.74663807070795,
+        "soc_start": 24.227240231368647,
+        "energy_consumed_kwh": 57.057884745469465
+      },
+      "label": 95.51,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.11334862935212,
+        "charging_rate_kw": 29.725012065972443,
+        "temperature_c": 19.120370400516006,
+        "vehicle_age_years": 1.3242706364506835,
+        "distance_km": 56.08425572085561,
+        "soc_start": 76.07797793240921,
+        "energy_consumed_kwh": 32.646573232872676
+      },
+      "label": 89.41,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 27.67209614716362,
+        "temperature_c": 18.23731745532584,
+        "vehicle_age_years": 2.85978202618188,
+        "distance_km": 43.17195262566023,
+        "soc_start": 50.46364107960983,
+        "energy_consumed_kwh": 52.7143338145329
+      },
+      "label": 77.12,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 83.0308914266398,
+        "charging_rate_kw": 49.188216226173715,
+        "temperature_c": 25.902483014958342,
+        "vehicle_age_years": 0.20364833529544968,
+        "distance_km": 72.09569539253113,
+        "soc_start": 87.87767515486459,
+        "energy_consumed_kwh": 38.55127563594988
+      },
+      "label": 98.37,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.00900987219616,
+        "charging_rate_kw": 13.614917854336332,
+        "temperature_c": 4.234037299661248,
+        "vehicle_age_years": 2.554007842997302,
+        "distance_km": 189.35944076009957,
+        "soc_start": 89.11680972403767,
+        "energy_consumed_kwh": 70.02935952191915
+      },
+      "label": 79.57,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 83.93683307203278,
+        "charging_rate_kw": 20.27077784527772,
+        "temperature_c": 22.371334085068717,
+        "vehicle_age_years": 0.04689818350950091,
+        "distance_km": 226.85317159803768,
+        "soc_start": 41.760557997071984,
+        "energy_consumed_kwh": 70.0023807995854
+      },
+      "label": 99.62,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.9194839807572,
+        "charging_rate_kw": 10.228822818661582,
+        "temperature_c": 32.82050163268704,
+        "vehicle_age_years": 3.7011045378514007,
+        "distance_km": 194.03757455748894,
+        "soc_start": 22.054144959308317,
+        "energy_consumed_kwh": 17.751364139513743
+      },
+      "label": 70.39,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.66403856662174,
+        "charging_rate_kw": 35.491205370126075,
+        "temperature_c": 7.923111124305315,
+        "vehicle_age_years": 2.6002925112526705,
+        "distance_km": 129.80320704338612,
+        "soc_start": 27.518977169894715,
+        "energy_consumed_kwh": 27.018144888375943
+      },
+      "label": 79.2,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.97379116311542,
+        "charging_rate_kw": 27.645168683668118,
+        "temperature_c": 23.24792840948614,
+        "vehicle_age_years": 1.1969630737230421,
+        "distance_km": 175.9228401087638,
+        "soc_start": 21.579705162029367,
+        "energy_consumed_kwh": 53.47710956311315
+      },
+      "label": 90.42,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 64.02673752598204,
+        "charging_rate_kw": 28.974856930901712,
+        "temperature_c": 39.025032982233,
+        "vehicle_age_years": 1.0014328312953935,
+        "distance_km": 272.1582367244111,
+        "soc_start": 27.915209339720498,
+        "energy_consumed_kwh": 70.7199693884332
+      },
+      "label": 91.99,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 49.46033630117601,
+        "charging_rate_kw": 11.310035615354467,
+        "temperature_c": -6.96566032570727,
+        "vehicle_age_years": 0.07938269756185051,
+        "distance_km": 47.22303701152551,
+        "soc_start": 90.38185228702065,
+        "energy_consumed_kwh": 57.58036128496489
+      },
+      "label": 99.36,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.388225133252426,
+        "charging_rate_kw": 8.998205710518576,
+        "temperature_c": 31.912696230151067,
+        "vehicle_age_years": 0.7948922355618502,
+        "distance_km": 257.7624573242197,
+        "soc_start": 36.931090827548644,
+        "energy_consumed_kwh": 42.46720052995506
+      },
+      "label": 93.64,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 87.85984631187577,
+        "charging_rate_kw": 11.391178705247924,
+        "temperature_c": -8.545165299644733,
+        "vehicle_age_years": 1.3460878324731687,
+        "distance_km": 287.2522642441989,
+        "soc_start": 19.86441305421905,
+        "energy_consumed_kwh": 39.17919912432396
+      },
+      "label": 89.23,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 88.7239623581159,
+        "charging_rate_kw": 21.180459902016437,
+        "temperature_c": 21.729187407822486,
+        "vehicle_age_years": 1.7527085395181976,
+        "distance_km": 10,
+        "soc_start": 52.71311926765545,
+        "energy_consumed_kwh": 32.47357563821219
+      },
+      "label": 85.98,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.12761247125644,
+        "charging_rate_kw": 16.508513512512184,
+        "temperature_c": 37.35660800944635,
+        "vehicle_age_years": 1.7277492142647148,
+        "distance_km": 214.5216315255115,
+        "soc_start": 74.9064551724212,
+        "energy_consumed_kwh": 40.23560516709516
+      },
+      "label": 86.18,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.2415922241842,
+        "charging_rate_kw": 20.001431206888086,
+        "temperature_c": 45,
+        "vehicle_age_years": 3.679805459843465,
+        "distance_km": 265.19779384588713,
+        "soc_start": 19.890596920032714,
+        "energy_consumed_kwh": 43.79652841326953
+      },
+      "label": 70.56,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 62.82398822451613,
+        "charging_rate_kw": 48.537874155489774,
+        "temperature_c": -3.161120382904387,
+        "vehicle_age_years": 1.0653250107927692,
+        "distance_km": 160.8160313947309,
+        "soc_start": 86.3539295362335,
+        "energy_consumed_kwh": 69.18840031671262
+      },
+      "label": 91.48,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 53.52667145655691,
+        "charging_rate_kw": 6.344122281638693,
+        "temperature_c": 20.05653652374554,
+        "vehicle_age_years": 0.1286105068573191,
+        "distance_km": 329.22369248159646,
+        "soc_start": 57.292943626003186,
+        "energy_consumed_kwh": 22.95335603338962
+      },
+      "label": 98.97,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 89.54319218507347,
+        "charging_rate_kw": 36.92299486576565,
+        "temperature_c": 20.745868570910204,
+        "vehicle_age_years": 1.5233962904322993,
+        "distance_km": 290.46713201644354,
+        "soc_start": 82.32872771023361,
+        "energy_consumed_kwh": 15.20695137078495
+      },
+      "label": 87.81,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.13597211068425,
+        "charging_rate_kw": 40.454381000013655,
+        "temperature_c": 9.860778287265731,
+        "vehicle_age_years": 1.883609836631436,
+        "distance_km": 99.35751827250273,
+        "soc_start": 97.5619564831512,
+        "energy_consumed_kwh": 27.64692125094694
+      },
+      "label": 84.93,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.31402337089602,
+        "charging_rate_kw": 28.460156131313532,
+        "temperature_c": 7.53115119505649,
+        "vehicle_age_years": 2.343914378788493,
+        "distance_km": 10,
+        "soc_start": 74.94979407348616,
+        "energy_consumed_kwh": 65.91412802845346
+      },
+      "label": 81.25,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.1672514640902,
+        "charging_rate_kw": 30.211602836005344,
+        "temperature_c": 23.64680064057658,
+        "vehicle_age_years": 0.2599306161557436,
+        "distance_km": 181.8141323916482,
+        "soc_start": 95.91479770523152,
+        "energy_consumed_kwh": 33.2038746525377
+      },
+      "label": 97.92,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.40463815484362,
+        "charging_rate_kw": 38.825690968888104,
+        "temperature_c": 19.891018150960043,
+        "vehicle_age_years": 6.216177415330835,
+        "distance_km": 160.98506770278865,
+        "soc_start": 29.258812726930678,
+        "energy_consumed_kwh": 24.922332808033694
+      },
+      "label": 50.27,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.27112430706808,
+        "charging_rate_kw": 32.74458108409134,
+        "temperature_c": -4.6639393146393,
+        "vehicle_age_years": 1.5468841761372023,
+        "distance_km": 94.03873046413418,
+        "soc_start": 62.814744871373364,
+        "energy_consumed_kwh": 50.88313502085046
+      },
+      "label": 87.62,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.89647620485482,
+        "charging_rate_kw": 14.65966054098788,
+        "temperature_c": 28.24926235109879,
+        "vehicle_age_years": 0.511518531484192,
+        "distance_km": 182.90304635861784,
+        "soc_start": 71.30727879232872,
+        "energy_consumed_kwh": 21.77764668444385
+      },
+      "label": 95.91,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.50830590761356,
+        "charging_rate_kw": 8.016023256304205,
+        "temperature_c": 13.980038946465177,
+        "vehicle_age_years": 0.010389833301885629,
+        "distance_km": 299.39308765657984,
+        "soc_start": 89.05596593628054,
+        "energy_consumed_kwh": 44.01288979350299
+      },
+      "label": 99.92,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 72.39907734954716,
+        "charging_rate_kw": 28.85054422782307,
+        "temperature_c": 5.816377687766536,
+        "vehicle_age_years": 0.7747623318084292,
+        "distance_km": 221.87110813912895,
+        "soc_start": 58.16370492042442,
+        "energy_consumed_kwh": 35.29212499851907
+      },
+      "label": 93.8,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 79.55299583052981,
+        "charging_rate_kw": 51.323262511197456,
+        "temperature_c": 4.514919871249473,
+        "vehicle_age_years": 3.7986862628329954,
+        "distance_km": 262.9668356888118,
+        "soc_start": 94.05303495203802,
+        "energy_consumed_kwh": 40.03755962378969
+      },
+      "label": 69.61,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.44447066461981,
+        "charging_rate_kw": 48.48244879704442,
+        "temperature_c": 34.57170539239211,
+        "vehicle_age_years": 1.3679146630322652,
+        "distance_km": 196.3447564778279,
+        "soc_start": 10.83404516320898,
+        "energy_consumed_kwh": 50.37932497310415
+      },
+      "label": 89.06,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 91.50891061786099,
+        "charging_rate_kw": 39.88939042481137,
+        "temperature_c": 18.717742729370638,
+        "vehicle_age_years": 1.846544922580634,
+        "distance_km": 132.5215429490372,
+        "soc_start": 57.18866813519684,
+        "energy_consumed_kwh": 69.96309222015404
+      },
+      "label": 85.23,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 72.24705962545036,
+        "charging_rate_kw": 33.49225731682556,
+        "temperature_c": 28.414585225530473,
+        "vehicle_age_years": 1.2623016597761219,
+        "distance_km": 222.7692375394105,
+        "soc_start": 33.15383922065672,
+        "energy_consumed_kwh": 63.00670664358239
+      },
+      "label": 89.9,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 96.51871893289334,
+        "charging_rate_kw": 8.483830507648339,
+        "temperature_c": 28.6306263667396,
+        "vehicle_age_years": 0.02836863823861255,
+        "distance_km": 186.24953286226804,
+        "soc_start": 64.98590496967125,
+        "energy_consumed_kwh": 34.22813189513029
+      },
+      "label": 99.77,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.7555460242257,
+        "charging_rate_kw": 12.807670570067788,
+        "temperature_c": 15.567980223635516,
+        "vehicle_age_years": 1.4483704676223295,
+        "distance_km": 251.89460313576635,
+        "soc_start": 39.12415030765745,
+        "energy_consumed_kwh": 70.76303760803498
+      },
+      "label": 88.41,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 12.04048038263335,
+        "temperature_c": 32.757728816246185,
+        "vehicle_age_years": 0.01370710513904984,
+        "distance_km": 238.31195701743135,
+        "soc_start": 62.42146763994863,
+        "energy_consumed_kwh": 47.10444077806354
+      },
+      "label": 99.89,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 102.16321185724723,
+        "charging_rate_kw": 33.09513882446681,
+        "temperature_c": 18.845029944361748,
+        "vehicle_age_years": 2.360308076435216,
+        "distance_km": 160.973635994786,
+        "soc_start": 55.22684241145507,
+        "energy_consumed_kwh": 78.7975995776912
+      },
+      "label": 81.12,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 86.52303542749068,
+        "charging_rate_kw": 27.096489068253785,
+        "temperature_c": 11.470805954307945,
+        "vehicle_age_years": 4.374969777108271,
+        "distance_km": 151.27459955130206,
+        "soc_start": 43.07895127919532,
+        "energy_consumed_kwh": 96.65293818359723
+      },
+      "label": 65.0,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.75955306870803,
+        "charging_rate_kw": 9.831568110302236,
+        "temperature_c": 30.447095177363067,
+        "vehicle_age_years": 0.3325473859431289,
+        "distance_km": 41.344103604994565,
+        "soc_start": 52.374526919138034,
+        "energy_consumed_kwh": 72.60647120845901
+      },
+      "label": 97.34,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.198388716416886,
+        "charging_rate_kw": 39.81717528075062,
+        "temperature_c": 1.3994289227551793,
+        "vehicle_age_years": 3.238925909134486,
+        "distance_km": 50.03514358556051,
+        "soc_start": 80.86336208409315,
+        "energy_consumed_kwh": 41.1482185490187
+      },
+      "label": 74.09,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.35247204750782,
+        "charging_rate_kw": 30.71813549163585,
+        "temperature_c": 17.190198805404922,
+        "vehicle_age_years": 0.16264294787954844,
+        "distance_km": 137.64331708036022,
+        "soc_start": 61.54315068050782,
+        "energy_consumed_kwh": 72.27035545990407
+      },
+      "label": 98.7,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 67.27303753112596,
+        "charging_rate_kw": 44.95986101473143,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.35953880841401964,
+        "distance_km": 143.56058121741276,
+        "soc_start": 53.99451701480707,
+        "energy_consumed_kwh": 77.19901681126404
+      },
+      "label": 97.12,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.84457514532584,
+        "charging_rate_kw": 9.706852783923576,
+        "temperature_c": 10.232936816936432,
+        "vehicle_age_years": 1.2081942002707964,
+        "distance_km": 305.2681554076306,
+        "soc_start": 82.62238172989532,
+        "energy_consumed_kwh": 81.79546158835612
+      },
+      "label": 90.33,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 61.982590051172416,
+        "charging_rate_kw": 49.984858835306376,
+        "temperature_c": 13.197415526165416,
+        "vehicle_age_years": 0.044021861711461815,
+        "distance_km": 246.19313369528302,
+        "soc_start": 48.13276463007627,
+        "energy_consumed_kwh": 28.859259001593234
+      },
+      "label": 99.65,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 52.49533138501463,
+        "charging_rate_kw": 11.797954328565726,
+        "temperature_c": 42.79529217219007,
+        "vehicle_age_years": 5.453940082218911,
+        "distance_km": 221.60824576999383,
+        "soc_start": 79.20748563251344,
+        "energy_consumed_kwh": 69.58855942947125
+      },
+      "label": 56.37,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 97.32575415251021,
+        "charging_rate_kw": 13.849425565670051,
+        "temperature_c": 5.989173256944142,
+        "vehicle_age_years": 2.0517927137236773,
+        "distance_km": 326.158015609324,
+        "soc_start": 50.368341939641724,
+        "energy_consumed_kwh": 79.79387235556084
+      },
+      "label": 83.59,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 46.124385642512316,
+        "charging_rate_kw": 17.748015883848723,
+        "temperature_c": -10,
+        "vehicle_age_years": 2.296006497398185,
+        "distance_km": 242.84552857682044,
+        "soc_start": 26.06262661037005,
+        "energy_consumed_kwh": 13.90561611147545
+      },
+      "label": 81.63,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.46433473734639,
+        "charging_rate_kw": 50.309350337661314,
+        "temperature_c": 8.519897906772481,
+        "vehicle_age_years": 0.9986461706259202,
+        "distance_km": 43.197368579562486,
+        "soc_start": 98.06416144112251,
+        "energy_consumed_kwh": 39.44451942813215
+      },
+      "label": 92.01,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.93683214619449,
+        "charging_rate_kw": 4,
+        "temperature_c": 2.5128414208251213,
+        "vehicle_age_years": 1.5182902618791316,
+        "distance_km": 220.19647906007998,
+        "soc_start": 94.36693250215602,
+        "energy_consumed_kwh": 70.68644428731935
+      },
+      "label": 87.85,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.51423225235597,
+        "charging_rate_kw": 50.63798282137127,
+        "temperature_c": 4.003626337231772,
+        "vehicle_age_years": 2.9005134929068035,
+        "distance_km": 188.22270893879795,
+        "soc_start": 90.0137207762012,
+        "energy_consumed_kwh": 30.88293564127743
+      },
+      "label": 76.8,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 50.576719662876776,
+        "charging_rate_kw": 19.55833024838097,
+        "temperature_c": -10,
+        "vehicle_age_years": 0.06830580601517727,
+        "distance_km": 185.8755374494958,
+        "soc_start": 46.203881572981565,
+        "energy_consumed_kwh": 61.383605523581856
+      },
+      "label": 99.45,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 18.80491824982825,
+        "temperature_c": 18.418579377484996,
+        "vehicle_age_years": 1.5520135424503567,
+        "distance_km": 228.60969038321002,
+        "soc_start": 31.074536542749122,
+        "energy_consumed_kwh": 26.430863867014157
+      },
+      "label": 87.58,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.74392076368441,
+        "charging_rate_kw": 11.72854674872348,
+        "temperature_c": -2.390066844912978,
+        "vehicle_age_years": 1.8221968419494592,
+        "distance_km": 150.39420064964023,
+        "soc_start": 69.41911814296688,
+        "energy_consumed_kwh": 72.80605969900485
+      },
+      "label": 85.42,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 73.39389855590161,
+        "charging_rate_kw": 35.332195527892175,
+        "temperature_c": 19.090556882512537,
+        "vehicle_age_years": 1.0673705398922184,
+        "distance_km": 267.4215219017773,
+        "soc_start": 25.76198694362776,
+        "energy_consumed_kwh": 29.76737127456832
+      },
+      "label": 91.46,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 90.8120465754373,
+        "charging_rate_kw": 37.131857793635135,
+        "temperature_c": 7.724927039088867,
+        "vehicle_age_years": 0.17194082647832243,
+        "distance_km": 176.42099229794042,
+        "soc_start": 47.46921700793002,
+        "energy_consumed_kwh": 17.385893131825778
+      },
+      "label": 98.62,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.0121495545701,
+        "charging_rate_kw": 50.9368765046432,
+        "temperature_c": -8.61500211114823,
+        "vehicle_age_years": 0.7130313259218163,
+        "distance_km": 208.1276305029342,
+        "soc_start": 87.17871147157186,
+        "energy_consumed_kwh": 76.26398506667552
+      },
+      "label": 94.3,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 69.02693860070391,
+        "charging_rate_kw": 16.761302441674985,
+        "temperature_c": 9.409076489031573,
+        "vehicle_age_years": 1.6528358409976749,
+        "distance_km": 288.91485323562,
+        "soc_start": 28.300305975404896,
+        "energy_consumed_kwh": 82.60223778923479
+      },
+      "label": 86.78,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 77.67576047450997,
+        "charging_rate_kw": 44.305791610434554,
+        "temperature_c": 3.293986269388812,
+        "vehicle_age_years": 0.164743441128224,
+        "distance_km": 108.35731064990009,
+        "soc_start": 14.638296620261242,
+        "energy_consumed_kwh": 46.03868505313356
+      },
+      "label": 98.68,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.60417432891891,
+        "charging_rate_kw": 27.52642567959999,
+        "temperature_c": 40.91379029260423,
+        "vehicle_age_years": 4.136931331016199,
+        "distance_km": 87.68840046672118,
+        "soc_start": 53.14547858238233,
+        "energy_consumed_kwh": 29.593663365617807
+      },
+      "label": 66.9,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 56.254824738565055,
+        "charging_rate_kw": 55.538180459243044,
+        "temperature_c": 38.34824777096821,
+        "vehicle_age_years": 4.751017664747659,
+        "distance_km": 198.2115090912475,
+        "soc_start": 76.73276827155394,
+        "energy_consumed_kwh": 5.0358468584538985
+      },
+      "label": 61.99,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 21.09893580885298,
+        "temperature_c": 8.54420636627161,
+        "vehicle_age_years": 0.5557095230057271,
+        "distance_km": 62.5551294285072,
+        "soc_start": 79.79624938573933,
+        "energy_consumed_kwh": 30.47272605512545
+      },
+      "label": 95.55,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.91709450329761,
+        "charging_rate_kw": 36.6341091228379,
+        "temperature_c": -10,
+        "vehicle_age_years": 1.2556571557012917,
+        "distance_km": 77.16119027870249,
+        "soc_start": 51.940366021355544,
+        "energy_consumed_kwh": 35.54760209028631
+      },
+      "label": 89.95,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 36.493913364396256,
+        "temperature_c": -10,
+        "vehicle_age_years": 3.6618055166720973,
+        "distance_km": 241.90913346323393,
+        "soc_start": 29.914668848460273,
+        "energy_consumed_kwh": 52.71918174873767
+      },
+      "label": 70.71,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 74.99293095319578,
+        "charging_rate_kw": 30.793470576223264,
+        "temperature_c": -1.9895444929179091,
+        "vehicle_age_years": 0.03270576706360646,
+        "distance_km": 187.90263613574882,
+        "soc_start": 27.65726044541504,
+        "energy_consumed_kwh": 12.941197322695905
+      },
+      "label": 99.74,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 85.30886515016618,
+        "charging_rate_kw": 41.478663550906134,
+        "temperature_c": 3.716298372192628,
+        "vehicle_age_years": 1.3835022404888684,
+        "distance_km": 53.76190579541295,
+        "soc_start": 96.98574405253093,
+        "energy_consumed_kwh": 84.01309104704303
+      },
+      "label": 88.93,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 22.467464299763186,
+        "temperature_c": 36.38245275476874,
+        "vehicle_age_years": 2.691027351173585,
+        "distance_km": 24.795374314791523,
+        "soc_start": 59.18916958532086,
+        "energy_consumed_kwh": 83.5023723473143
+      },
+      "label": 78.47,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 65.36592382280276,
+        "charging_rate_kw": 15.61050141539592,
+        "temperature_c": 36.59411471117866,
+        "vehicle_age_years": 6.304159110882167,
+        "distance_km": 61.04859547070753,
+        "soc_start": 14.366295477677102,
+        "energy_consumed_kwh": 83.43361717143726
+      },
+      "label": 50,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.18821178584294,
+        "charging_rate_kw": 47.89132519357108,
+        "temperature_c": 3.40067646171792,
+        "vehicle_age_years": 1.0633911971628727,
+        "distance_km": 276.9960572467239,
+        "soc_start": 55.51596277237586,
+        "energy_consumed_kwh": 63.599044414800844
+      },
+      "label": 91.49,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 57.934334344809145,
+        "charging_rate_kw": 11.608972223772696,
+        "temperature_c": -4.4601632455927085,
+        "vehicle_age_years": 5.433285657372878,
+        "distance_km": 132.92490925626436,
+        "soc_start": 47.020465739567484,
+        "energy_consumed_kwh": 30.589645981444924
+      },
+      "label": 56.53,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 81.5884098651261,
+        "charging_rate_kw": 20.673770179576493,
+        "temperature_c": 14.866273323115196,
+        "vehicle_age_years": 1.5075686039860152,
+        "distance_km": 147.1509628910308,
+        "soc_start": 70.66296569072892,
+        "energy_consumed_kwh": 65.31124840261181
+      },
+      "label": 87.94,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 68.53447412078079,
+        "charging_rate_kw": 43.485049977155505,
+        "temperature_c": 34.52739898055606,
+        "vehicle_age_years": 5.00326374666106,
+        "distance_km": 22.573251893847427,
+        "soc_start": 41.899699077451416,
+        "energy_consumed_kwh": 7.670667679748427
+      },
+      "label": 59.97,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 44.29712297371279,
+        "charging_rate_kw": 40.05187761751349,
+        "temperature_c": 22.190048570267738,
+        "vehicle_age_years": 1.0113326533749882,
+        "distance_km": 20.177273651784205,
+        "soc_start": 30.327152736467998,
+        "energy_consumed_kwh": 32.55835695632435
+      },
+      "label": 91.91,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 7.955482460210533,
+        "temperature_c": 33.560053853353665,
+        "vehicle_age_years": 2.576913684718468,
+        "distance_km": 162.24578092679113,
+        "soc_start": 52.8404590118702,
+        "energy_consumed_kwh": 57.89935934131435
+      },
+      "label": 79.38,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 66.46493424385824,
+        "charging_rate_kw": 21.604264085765934,
+        "temperature_c": -5.619804238370712,
+        "vehicle_age_years": 0.01899021772618861,
+        "distance_km": 105.22703021553896,
+        "soc_start": 60.92709651559315,
+        "energy_consumed_kwh": 62.12282467565066
+      },
+      "label": 99.85,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 82.21126290157346,
+        "charging_rate_kw": 15.329802466619714,
+        "temperature_c": 36.63780236458808,
+        "vehicle_age_years": 5.030374190384734,
+        "distance_km": 185.53720167438433,
+        "soc_start": 34.39855474375618,
+        "energy_consumed_kwh": 10.781029776784127
+      },
+      "label": 59.76,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.30224783563025,
+        "charging_rate_kw": 54.20243036776813,
+        "temperature_c": 8.191398742250481,
+        "vehicle_age_years": 0.15451397928854282,
+        "distance_km": 203.42444260959707,
+        "soc_start": 93.58897251291934,
+        "energy_consumed_kwh": 22.60831187295981
+      },
+      "label": 98.76,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 118.76287437669598,
+        "charging_rate_kw": 49.681170083683355,
+        "temperature_c": 3.6522451962698472,
+        "vehicle_age_years": 0.31141742886115037,
+        "distance_km": 315.68888107588197,
+        "soc_start": 60.75623796613884,
+        "energy_consumed_kwh": 51.8260350230347
+      },
+      "label": 97.51,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 71.92824666103824,
+        "charging_rate_kw": 45.16619840225545,
+        "temperature_c": 21.461930579392074,
+        "vehicle_age_years": 3.59938845374067,
+        "distance_km": 164.23242919109703,
+        "soc_start": 22.595553481167755,
+        "energy_consumed_kwh": 75.90661600308849
+      },
+      "label": 71.2,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 99.07128187933667,
+        "charging_rate_kw": 20.299136284099678,
+        "temperature_c": 19.235805452781882,
+        "vehicle_age_years": 2.7365675497283677,
+        "distance_km": 153.30210512461008,
+        "soc_start": 64.46518688805779,
+        "energy_consumed_kwh": 58.63331602252236
+      },
+      "label": 78.11,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 10.800739122955669,
+        "temperature_c": 11.628405243836518,
+        "vehicle_age_years": 6.195901989183315,
+        "distance_km": 206.6506116360862,
+        "soc_start": 99.33272906057176,
+        "energy_consumed_kwh": 35.59031081350286
+      },
+      "label": 50.43,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.44270070802183,
+        "charging_rate_kw": 28.291684882180057,
+        "temperature_c": 28.775263584074644,
+        "vehicle_age_years": 0.9413741126305337,
+        "distance_km": 242.236513226047,
+        "soc_start": 36.58415326345686,
+        "energy_consumed_kwh": 90.92398351937145
+      },
+      "label": 92.47,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 40,
+        "charging_rate_kw": 10.715940869279542,
+        "temperature_c": 31.543982439447927,
+        "vehicle_age_years": 2.4973025947729974,
+        "distance_km": 170.3324603235934,
+        "soc_start": 76.56897600789351,
+        "energy_consumed_kwh": 49.63142199392804
+      },
+      "label": 80.02,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 103.46910470091649,
+        "charging_rate_kw": 44.93507189057303,
+        "temperature_c": 6.461086634381167,
+        "vehicle_age_years": 5.728012977102316,
+        "distance_km": 291.18254330637234,
+        "soc_start": 48.78815643784352,
+        "energy_consumed_kwh": 69.72740604308665
+      },
+      "label": 54.18,
+      "service_required": true,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 48.453930138692,
+        "charging_rate_kw": 17.87664318133028,
+        "temperature_c": -3.1021598756072666,
+        "vehicle_age_years": 1.618193798278966,
+        "distance_km": 69.62938225136122,
+        "soc_start": 63.82394180148456,
+        "energy_consumed_kwh": 34.408223134463135
+      },
+      "label": 87.05,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 107.04408752221576,
+        "charging_rate_kw": 36.806876774131375,
+        "temperature_c": -1.930327693927139,
+        "vehicle_age_years": 1.0682228577894612,
+        "distance_km": 51.915224265969655,
+        "soc_start": 31.846826832565945,
+        "energy_consumed_kwh": 58.669681146219816
+      },
+      "label": 91.45,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 58.79767566853685,
+        "charging_rate_kw": 5.992946389934961,
+        "temperature_c": 35.55456643390453,
+        "vehicle_age_years": 0.3716544049327104,
+        "distance_km": 200.16497341914658,
+        "soc_start": 15.694043524925895,
+        "energy_consumed_kwh": 48.39614401912503
+      },
+      "label": 97.03,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    },
+    {
+      "features": {
+        "battery_capacity": 100.32687669217191,
+        "charging_rate_kw": 34.068363325341146,
+        "temperature_c": 1.5336238592464753,
+        "vehicle_age_years": 3.0526456203320618,
+        "distance_km": 219.25134762174602,
+        "soc_start": 65.50019128322108,
+        "energy_consumed_kwh": 49.10610328950633
+      },
+      "label": 75.58,
+      "service_required": false,
+      "vehicle_model": "Chevy Bolt"
+    }
+  ]
+}
